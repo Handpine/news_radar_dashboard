@@ -910,11 +910,11 @@
 
       <div class="section-title" style="margin-top: 2rem; color: var(--accent);">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; vertical-align: middle;">
-          <path d="M12 22s-4-3-4-8.5C8 10.5 12 3 12 3s4 7.5 4 10.5c0 5.5-4 8.5-4 8.5z" />
-          <path d="M12 3v11" />
-          <circle cx="12" cy="14" r="1" fill="currentColor" />
+          <path d="M12 2c-.5 0-1 .5-1.5 1.5L6.5 11.5c-.3.6-.5 1.2-.5 1.9 0 2.2 1.8 4 4 4v4.6h4V17.4c2.2 0 4-1.8 4-4 0-.7-.2-1.3-.5-1.9L13.5 3.5C13 2.5 12.5 2 12 2z" />
+          <line x1="12" y1="2" x2="12" y2="11.5" />
+          <circle cx="12" cy="12.5" r="1" fill="currentColor" />
         </svg>
-        <span style="vertical-align: middle; margin-left: 0.5rem;">我的筆記本</span>
+        <span style="vertical-align: middle; margin-left: 0.5rem;">我的筆記</span>
       </div>
       <div class="notes-list" id="notes-list-container">
         <!-- Notes index -->
@@ -949,9 +949,9 @@
     <div class="reader-notes-section">
       <div class="notes-label" style="color: var(--accent);">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; vertical-align: middle;">
-          <path d="M12 22s-4-3-4-8.5C8 10.5 12 3 12 3s4 7.5 4 10.5c0 5.5-4 8.5-4 8.5z" />
-          <path d="M12 3v11" />
-          <circle cx="12" cy="14" r="1" fill="currentColor" />
+          <path d="M12 2c-.5 0-1 .5-1.5 1.5L6.5 11.5c-.3.6-.5 1.2-.5 1.9 0 2.2 1.8 4 4 4v4.6h4V17.4c2.2 0 4-1.8 4-4 0-.7-.2-1.3-.5-1.9L13.5 3.5C13 2.5 12.5 2 12 2z" />
+          <line x1="12" y1="2" x2="12" y2="11.5" />
+          <circle cx="12" cy="12.5" r="1" fill="currentColor" />
         </svg>
         <span style="vertical-align: middle; margin-left: 0.4rem;">個人隨手筆記 (本機自動儲存)</span>
       </div>
@@ -1328,11 +1328,15 @@
               <div class="history-item-info">
                 <span class="history-item-title">${item.title}</span>
                 <div class="history-item-meta">
-                  <span>📅 ${item.date}</span>
+                  <span>${item.date}</span>
                   <span class="history-item-badge ${badgeClass}">${badgeLabel}</span>
                 </div>
               </div>
-              <div style="color: var(--text-muted); font-size: 0.9rem;">👉</div>
+              <div style="color: var(--text-muted); display: flex; align-items: center;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+              </div>
             </div>
           `;
         }).join('');
@@ -1371,13 +1375,21 @@
             <div class="history-item-info">
               <span class="history-item-title">${item.title}</span>
               <div class="history-item-meta">
-                <span>📅 ${item.date}</span>
+                <span>${item.date}</span>
                 <span class="history-item-badge ${item.is_weekly ? 'weekly' : ''}">${item.is_weekly ? '每週週報' : '每日雷達'}</span>
               </div>
             </div>
             <div style="display: flex; align-items: center; gap: 0.5rem;">
-              <span style="color: var(--accent-gold);">⭐</span>
-              <span style="color: var(--text-muted);">👉</span>
+              <span style="color: var(--accent-gold); display: flex; align-items: center;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="var(--accent-gold)" stroke="var(--accent-gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+              </span>
+              <div style="color: var(--text-muted); display: flex; align-items: center;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+              </div>
             </div>
           </div>
         `).join('');
@@ -1394,7 +1406,7 @@
           <div class="history-list-item" style="background: var(--panel-bg); border: 1px solid var(--border-color); border-radius: 12px; align-items: flex-start; flex-direction: column; gap: 0.5rem;" onclick="openReader('${note.date}', ${note.title.includes('週報')})">
             <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
               <span class="history-item-title" style="font-weight: 700;">${note.title}</span>
-              <span style="font-size: 0.75rem; color: var(--text-muted);">📝 ${note.updated_at.slice(0, 10)}</span>
+              <span style="font-size: 0.75rem; color: var(--text-muted);">更新於 ${note.updated_at.slice(0, 10)}</span>
             </div>
             <div style="font-size: 0.85rem; color: var(--text-secondary); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; width: 100%;">
               ${escapeHTML(note.text)}
@@ -1429,7 +1441,7 @@
       // Convert them to native HTML anchors linking to the specific section index
       
       for (let i = 0; i < lines.length; i++) {
-        let line = lines[i].trim();
+        let line = lines[i].trim().replace(/👉\s*/g, '').replace(/^✦\s*/g, '');
         
         // Handle Empty Lines
         if (line === '') {
