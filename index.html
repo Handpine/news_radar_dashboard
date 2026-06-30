@@ -544,12 +544,12 @@
       width: 100%;
       background: var(--bg-color);
       z-index: 200;
-      display: flex;
-      flex-direction: column;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
       transform: translateX(100%);
       transition: transform 0.4s cubic-bezier(0.1, 0.76, 0.55, 0.94);
       box-shadow: -10px 0 40px 0 rgba(0, 0, 0, 0.3);
-      overscroll-behavior-y: none; /* Block iOS rubber-band bounce on the whole sheet */
+      overscroll-behavior-y: none;
     }
 
     @media (min-width: 768px) {
@@ -597,12 +597,13 @@
     }
 
     .reader-content {
-      flex: 1;
       overflow-y: auto;
       padding: 1.5rem;
+      padding-bottom: 1rem;
       line-height: 1.7;
       color: var(--text-primary);
-      overscroll-behavior-y: none; /* Disable iOS bounce scroll to prevent layout displacement on input focus */
+      overscroll-behavior-y: none;
+      /* Grid row 2: takes all remaining height */
     }
 
     /* Markdown Rendering Styles inside Reader */
@@ -690,10 +691,12 @@
       align-items: center;
     }
 
-    /* User Notes Section inside Reader */
+    /* User Notes Section — Grid row 3: always at bottom, outside scroll container */
+    /* iOS fix: textarea is at a fixed coordinate in the viewport, unaffected by reader-content scrollTop */
     .reader-notes-section {
       border-top: 1px solid var(--border-color);
-      padding: 1.5rem;
+      padding: 1rem 1.5rem;
+      padding-bottom: calc(1rem + env(safe-area-inset-bottom));
       background: var(--panel-bg);
     }
 
@@ -1739,15 +1742,9 @@
 
       noteInput.addEventListener('touchend', handleNoteFocus);
       noteInput.addEventListener('click', handleNoteFocus);
-
-      // After keyboard opens on iOS, scroll the textarea into the visible area naturally.
-      // Do NOT manipulate sheet.style.bottom — that causes the panel to fly off screen.
-      // Instead, let iOS handle the fixed layout and simply ensure the input is in the visual viewport.
-      noteInput.addEventListener('focus', () => {
-        setTimeout(() => {
-          noteInput.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-        }, 350); // wait for iOS keyboard animation to settle (~300ms) before scrolling
-      });
+      // Note: scrollIntoView on focus is NOT needed here.
+      // The notes section is a grid row outside the scroll container, so its
+      // screen coordinates are always stable regardless of reader-content scrollTop.
 
       // Intercept anchor clicks inside reader content to prevent URL hash change from triggering popstate (which closes the reader)
       const bodyEl = document.getElementById('reader-content-body');
