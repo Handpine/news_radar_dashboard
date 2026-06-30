@@ -695,10 +695,13 @@
       border-radius: 8px;
       padding: 0.5rem;
       color: var(--text-primary);
-      font-size: 0.9rem;
+      font-size: 16px; /* Prevent iOS PWA viewport zooming layout shift */
       outline: none;
       resize: none;
       transition: border-color 0.3s;
+      -webkit-user-select: text !important;
+      user-select: text !important;
+      pointer-events: auto !important;
     }
 
     .notes-textarea:focus {
@@ -1602,9 +1605,6 @@
         history.pushState({ readerOpen: true }, '', '#reader');
       }
 
-      // Prevent underlying body scroll
-      document.body.style.overflow = 'hidden';
-
       // 1. Initial State UI
       titleEl.innerText = report.title;
       bodyEl.innerHTML = `<div style="padding: 3rem; text-align: center; color: var(--text-secondary);"><div class="skeleton-spinner" style="margin: 0 auto 1rem auto;"></div>讀取報告檔案中...</div>`;
@@ -1688,7 +1688,9 @@
 
       // Auto save note typing
       let noteTimeout = null;
-      document.getElementById('reader-note-input').addEventListener('input', (e) => {
+      const noteInput = document.getElementById('reader-note-input');
+      
+      noteInput.addEventListener('input', (e) => {
         if (!currentOpenReport) return;
         
         // Debounce saving note
@@ -1698,13 +1700,28 @@
           await localStore.saveNote(currentOpenReport.date, text, currentOpenReport.title);
         }, 800);
       });
+
+      // Stop touch event propagation to prevent parent drawer swipe-to-close handlers from hijacking focus.
+      // Explicitly call focus() on user click/touchend to bypass WebKit programmatic focus restrictions.
+      const handleNoteFocus = (e) => {
+        e.stopPropagation();
+        noteInput.focus();
+      };
+
+      noteInput.addEventListener('touchstart', (e) => {
+        e.stopPropagation();
+      }, { passive: true });
+
+      noteInput.addEventListener('touchmove', (e) => {
+        e.stopPropagation();
+      }, { passive: true });
+
+      noteInput.addEventListener('touchend', handleNoteFocus);
+      noteInput.addEventListener('click', handleNoteFocus);
     }
 
     function closeReader() {
       const sheet = document.getElementById('reader-sheet');
-      
-      // Restore body scrolling
-      document.body.style.overflow = '';
 
       // Force transition to 100% offscreen smoothly
       sheet.style.transition = 'transform 0.3s cubic-bezier(0.1, 0.76, 0.55, 0.94)';
