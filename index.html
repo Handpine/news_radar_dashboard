@@ -1227,6 +1227,14 @@
       });
     }
 
+    // Helper to get local date string YYYY-MM-DD avoiding UTC shift timezone bugs
+    function getLocalDateString(date) {
+      const y = date.getFullYear();
+      const m = String(date.getMonth() + 1).padStart(2, '0');
+      const d = String(date.getDate()).padStart(2, '0');
+      return `${y}-${m}-${d}`;
+    }
+
     // Get current week's dates (Monday to Sunday)
     function getWeekDates(referenceDate) {
       const curr = new Date(referenceDate);
@@ -1239,7 +1247,7 @@
       for (let i = 0; i < 7; i++) {
         const next = new Date(monday);
         next.setDate(monday.getDate() + i);
-        dates.push(next.toISOString().split('T')[0]);
+        dates.push(getLocalDateString(next));
       }
       return dates;
     }
@@ -1259,7 +1267,7 @@
       const daysToSunday = dayOfWeek === 0 ? 7 : dayOfWeek;
       const lastSunday = new Date(today);
       lastSunday.setDate(today.getDate() - daysToSunday);
-      const lastSundayStr = lastSunday.toISOString().split('T')[0];
+      const lastSundayStr = getLocalDateString(lastSunday);
       
       // Find matching weekly report
       const weeklyReport = appData.weekly.find(w => w.date === lastSundayStr);
