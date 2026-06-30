@@ -1705,7 +1705,9 @@
       // Explicitly call focus() on user click/touchend to bypass WebKit programmatic focus restrictions.
       const handleNoteFocus = (e) => {
         e.stopPropagation();
-        noteInput.focus();
+        if (document.activeElement !== noteInput) {
+          noteInput.focus();
+        }
       };
 
       noteInput.addEventListener('touchstart', (e) => {
@@ -1920,8 +1922,31 @@
       // Register Service Worker for PWA offline capabilities
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('sw.js')
-          .then(() => console.log("Service worker registered!"))
+          .then(reg => {
+            console.log("Service worker registered!");
+            reg.onupdatefound = () => {
+              const installingWorker = reg.installing;
+              if (installingWorker) {
+                installingWorker.onstatechange = () => {
+                  if (installingWorker.state === 'installed') {
+                    if (navigator.serviceWorker.controller) {
+                      console.log("New version available, forcing refresh.");
+                      window.location.reload();
+                    }
+                  }
+                };
+              }
+            };
+          })
           .catch(err => console.log("Service worker failed:", err));
+
+        let refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+          if (!refreshing) {
+            refreshing = true;
+            window.location.reload();
+          }
+        });
       }
     });
   </script>
