@@ -537,7 +537,7 @@
       z-index: 200;
       display: flex;
       flex-direction: column;
-      transform: translateY(100%);
+      transform: translateX(100%);
       transition: transform 0.4s cubic-bezier(0.1, 0.76, 0.55, 0.94);
       box-shadow: -10px 0 40px 0 rgba(0, 0, 0, 0.3);
     }
@@ -545,15 +545,11 @@
     @media (min-width: 768px) {
       .reader-sheet {
         width: 600px;
-        transform: translateX(100%);
-      }
-      .reader-sheet.active {
-        transform: translateX(0) !important;
       }
     }
 
     .reader-sheet.active {
-      transform: translateY(0);
+      transform: translateX(0);
     }
 
     .reader-header {
@@ -562,17 +558,22 @@
       -webkit-backdrop-filter: blur(20px);
       border-bottom: 1px solid var(--border-color);
       padding: 1rem 1.5rem;
+      padding-top: calc(1rem + env(safe-area-inset-top));
       display: flex;
       justify-content: space-between;
       align-items: center;
       position: sticky;
       top: 0;
+      z-index: 10;
     }
 
     .reader-header-left {
       display: flex;
       align-items: center;
       gap: 0.75rem;
+      min-width: 0;
+      flex: 1;
+      margin-right: 1rem;
     }
 
     .reader-title {
@@ -581,7 +582,8 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-      max-width: 250px;
+      flex: 1;
+      min-width: 0;
     }
 
     .reader-content {
@@ -929,10 +931,10 @@
   <div class="reader-sheet" id="reader-sheet">
     <div class="reader-header">
       <div class="reader-header-left">
-        <button class="icon-btn" id="reader-close" style="width: 2.2rem; height: 2.2rem;">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
+        <button class="icon-btn" id="reader-close" style="width: 2.5rem; height: 2.5rem;" title="返回">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12 19 5 12 12 5"></polyline>
           </svg>
         </button>
         <span class="reader-title" id="reader-title-text">讀取中...</span>
@@ -1668,12 +1670,71 @@
     }
 
     function closeReader() {
-      document.getElementById('reader-sheet').classList.remove('active');
+      const sheet = document.getElementById('reader-sheet');
+      sheet.classList.remove('active');
+      setTimeout(() => {
+        sheet.style.transform = '';
+        sheet.style.transition = '';
+      }, 400);
       currentOpenReport = null;
       // If we were on Bookmarks tab, refresh it
       if (document.querySelector('.nav-item[data-tab="tab-bookmarks"]').classList.contains('active')) {
         renderBookmarksAndNotes();
       }
+    }
+
+    function initSwipeToClose() {
+      const sheet = document.getElementById('reader-sheet');
+      let startX = 0;
+      let startY = 0;
+      let currentX = 0;
+      let isDragging = false;
+      let isSwipeHorizontal = false;
+
+      sheet.addEventListener('touchstart', (e) => {
+        // Swipe to close triggers when starting touch in the left 80px of the screen/sheet (feels native like iOS back swipe)
+        const touch = e.touches[0];
+        if (touch.clientX < 80) {
+          startX = touch.clientX;
+          startY = touch.clientY;
+          isDragging = true;
+          isSwipeHorizontal = false;
+          sheet.style.transition = 'none'; // 1:1 follow user finger
+        }
+      }, { passive: true });
+
+      sheet.addEventListener('touchmove', (e) => {
+        if (!isDragging) return;
+        const touch = e.touches[0];
+        const dx = touch.clientX - startX;
+        const dy = touch.clientY - startY;
+
+        // If swipe is primarily horizontal and moving to the right
+        if (!isSwipeHorizontal && dx > 10 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+          isSwipeHorizontal = true;
+        }
+
+        if (isSwipeHorizontal && dx > 0) {
+          currentX = dx;
+          sheet.style.transform = `translateX(${dx}px)`;
+        }
+      }, { passive: true });
+
+      sheet.addEventListener('touchend', (e) => {
+        if (!isDragging) return;
+        isDragging = false;
+        
+        sheet.style.transition = 'transform 0.3s cubic-bezier(0.1, 0.76, 0.55, 0.94)';
+        
+        // If swiped more than 120px to the right, close it, otherwise bounce back
+        if (isSwipeHorizontal && currentX > 120) {
+          closeReader();
+        } else {
+          sheet.style.transform = 'translateX(0)';
+        }
+        isSwipeHorizontal = false;
+        currentX = 0;
+      });
     }
 
     // ==========================================
@@ -1757,6 +1818,7 @@
       initNavigation();
       initSearch();
       initReaderClose();
+      initSwipeToClose();
       initRefresh();
       
       renderDashboard();
