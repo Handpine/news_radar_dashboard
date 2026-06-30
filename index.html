@@ -1134,8 +1134,13 @@
 
     async function loadRadarData(bypassCache = false) {
       try {
-        const url = bypassCache ? `data.json?t=${Date.now()}` : 'data.json';
-        const res = await fetch(url);
+        // Use cache:'no-store' instead of query-string cache busting.
+        // Query strings (?t=...) silently fail on file:// protocol because the OS
+        // cannot find a file with that name. cache:'no-store' works on file://, localhost, and HTTPS.
+        const fetchOptions = bypassCache
+          ? { cache: 'no-store', headers: { 'Cache-Control': 'no-cache, no-store' } }
+          : {};
+        const res = await fetch('data.json', fetchOptions);
         if (!res.ok) throw new Error("數據載入失敗");
         appData = await res.json();
         return true;
