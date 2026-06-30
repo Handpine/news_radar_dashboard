@@ -1574,10 +1574,9 @@
     // 6. Reader Drawer Controller
     // ==========================================
     async function openReader(date, isWeekly = false) {
-      // Find the report object in daily or weekly
       const report = isWeekly 
         ? appData.weekly.find(w => w.date === date)
-        : appData.daily.find(r => r.date === date);
+        : appData.daily.find(d => d.date === date);
         
       if (!report) {
         showToast("找不到該報告！", `
@@ -1598,6 +1597,14 @@
       const noteInput = document.getElementById('reader-note-input');
       const bookmarkBtn = document.getElementById('reader-bookmark-btn');
 
+      // 0. Push history state if not already there (prevents native back swipe from unloading page)
+      if (window.location.hash !== '#reader') {
+        history.pushState({ readerOpen: true }, '', '#reader');
+      }
+
+      // Prevent underlying body scroll
+      document.body.style.overflow = 'hidden';
+
       // 1. Initial State UI
       titleEl.innerText = report.title;
       bodyEl.innerHTML = `<div style="padding: 3rem; text-align: center; color: var(--text-secondary);"><div class="skeleton-spinner" style="margin: 0 auto 1rem auto;"></div>讀取報告檔案中...</div>`;
@@ -1617,7 +1624,9 @@
         bookmarkIcon.setAttribute('stroke', 'currentColor');
       }
       
-      // Show sheet
+      // Make sure inline styles are cleared and active class is applied
+      drawer.style.transform = '';
+      drawer.style.transition = '';
       drawer.classList.add('active');
 
       // 2. Fetch Markdown file content
@@ -1640,8 +1649,14 @@
     }
 
     function initReaderClose() {
-      // Close sheet
-      document.getElementById('reader-close').addEventListener('click', closeReader);
+      // Close sheet via history back if hash is set
+      document.getElementById('reader-close').addEventListener('click', () => {
+        if (window.location.hash === '#reader') {
+          history.back();
+        } else {
+          closeReader();
+        }
+      });
       
       // Bookmark toggle
       document.getElementById('reader-bookmark-btn').addEventListener('click', async () => {
@@ -1687,11 +1702,20 @@
 
     function closeReader() {
       const sheet = document.getElementById('reader-sheet');
+      
+      // Restore body scrolling
+      document.body.style.overflow = '';
+
+      // Force transition to 100% offscreen smoothly
+      sheet.style.transition = 'transform 0.3s cubic-bezier(0.1, 0.76, 0.55, 0.94)';
+      sheet.style.transform = 'translateX(100%)';
       sheet.classList.remove('active');
+      
       setTimeout(() => {
         sheet.style.transform = '';
         sheet.style.transition = '';
-      }, 400);
+      }, 300);
+
       currentOpenReport = null;
       // If we were on Bookmarks tab, refresh it
       if (document.querySelector('.nav-item[data-tab="tab-bookmarks"]').classList.contains('active')) {
@@ -1731,25 +1755,36 @@
         }
 
         if (isSwipeHorizontal && dx > 0) {
+          if (e.cancelable) e.preventDefault(); // Prevent vertical scroll jank
           currentX = dx;
           sheet.style.transform = `translateX(${dx}px)`;
         }
-      }, { passive: true });
+      }, { passive: false });
 
       sheet.addEventListener('touchend', (e) => {
         if (!isDragging) return;
         isDragging = false;
         
-        sheet.style.transition = 'transform 0.3s cubic-bezier(0.1, 0.76, 0.55, 0.94)';
-        
         // If swiped more than 120px to the right, close it, otherwise bounce back
         if (isSwipeHorizontal && currentX > 120) {
-          closeReader();
+          if (window.location.hash === '#reader') {
+            history.back();
+          } else {
+            closeReader();
+          }
         } else {
+          sheet.style.transition = 'transform 0.3s cubic-bezier(0.1, 0.76, 0.55, 0.94)';
           sheet.style.transform = 'translateX(0)';
         }
         isSwipeHorizontal = false;
         currentX = 0;
+      });
+      
+      // Global popstate history hook
+      window.addEventListener('popstate', () => {
+        if (sheet.classList.contains('active')) {
+          closeReader();
+        }
       });
     }
 
@@ -1834,6 +1869,11 @@
     // 9. App Lifecycle Entry
     // ==========================================
     window.addEventListener('DOMContentLoaded', async () => {
+      // Clean up hash if page reloaded on #reader state
+      if (window.location.hash === '#reader') {
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+      }
+
       // 1. Initialize local databases
       try {
         await initDB();
