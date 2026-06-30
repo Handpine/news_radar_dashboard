@@ -549,6 +549,7 @@
       transform: translateX(100%);
       transition: transform 0.4s cubic-bezier(0.1, 0.76, 0.55, 0.94);
       box-shadow: -10px 0 40px 0 rgba(0, 0, 0, 0.3);
+      overscroll-behavior-y: none; /* Block iOS rubber-band bounce on the whole sheet */
     }
 
     @media (min-width: 768px) {
@@ -1739,33 +1740,14 @@
       noteInput.addEventListener('touchend', handleNoteFocus);
       noteInput.addEventListener('click', handleNoteFocus);
 
-      // Force the main window to reset scroll position immediately on focus, preventing iOS layout shift in PWA standalone mode
+      // After keyboard opens on iOS, scroll the textarea into the visible area naturally.
+      // Do NOT manipulate sheet.style.bottom — that causes the panel to fly off screen.
+      // Instead, let iOS handle the fixed layout and simply ensure the input is in the visual viewport.
       noteInput.addEventListener('focus', () => {
-        window.scrollTo(0, 0);
-        document.body.scrollTop = 0;
         setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-        }, 30);
+          noteInput.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }, 350); // wait for iOS keyboard animation to settle (~300ms) before scrolling
       });
-
-      // Dynamically shrink the reader drawer height to fit the visible area when the virtual keyboard is toggled on iOS
-      if (window.visualViewport) {
-        window.visualViewport.addEventListener('resize', () => {
-          const sheet = document.getElementById('reader-sheet');
-          if (sheet.classList.contains('active')) {
-            const keyboardHeight = window.innerHeight - window.visualViewport.height;
-            sheet.style.bottom = keyboardHeight > 0 ? `${keyboardHeight}px` : '0';
-            
-            // If keyboard is open, scroll the noteInput into view smoothly
-            if (keyboardHeight > 0 && document.activeElement === noteInput) {
-              noteInput.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-            }
-          } else {
-            sheet.style.bottom = '0';
-          }
-        });
-      }
 
       // Intercept anchor clicks inside reader content to prevent URL hash change from triggering popstate (which closes the reader)
       const bodyEl = document.getElementById('reader-content-body');

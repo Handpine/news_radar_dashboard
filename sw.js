@@ -1,4 +1,4 @@
-const CACHE_NAME = 'news-radar-v4';
+const CACHE_NAME = 'news-radar-v5';
 const STATIC_ASSETS = [
   './index.html',
   './manifest.json',
