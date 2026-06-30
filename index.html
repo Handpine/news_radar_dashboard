@@ -1,0 +1,1632 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>新聞雷達儀表板</title>
+  
+  <!-- iOS Web App Meta Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="新聞雷達">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.json">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* Premium Color Palette Tokens */
+    :root {
+      --bg-color: #05070c;
+      --panel-bg: rgba(13, 18, 30, 0.75);
+      --card-bg: rgba(20, 27, 45, 0.5);
+      --card-hover-bg: rgba(30, 41, 69, 0.6);
+      --border-color: rgba(255, 255, 255, 0.08);
+      --border-glow: rgba(20, 184, 166, 0.15);
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --accent: #14b8a6; /* Teal */
+      --accent-glow: rgba(20, 184, 166, 0.3);
+      --accent-hover: #2dd4bf;
+      --accent-gold: #fbbf24;
+      --success: #10b981;
+      --success-bg: rgba(16, 185, 129, 0.1);
+      --missing: #334155;
+      --shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+      --notch-padding: 0px;
+    }
+
+    [data-theme="light"] {
+      --bg-color: #f7f6f3; /* Organic Warm Beige */
+      --panel-bg: rgba(255, 255, 255, 0.85);
+      --card-bg: rgba(255, 255, 255, 0.6);
+      --card-hover-bg: rgba(255, 255, 255, 0.95);
+      --border-color: rgba(0, 0, 0, 0.08);
+      --border-glow: rgba(13, 148, 136, 0.1);
+      --text-primary: #1e293b;
+      --text-secondary: #475569;
+      --text-muted: #64748b;
+      --accent: #0f766e;
+      --accent-glow: rgba(15, 118, 110, 0.15);
+      --accent-hover: #115e59;
+      --shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.06);
+    }
+
+    /* Reset and Core Layout */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      font-family: 'Noto Sans TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-primary);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow-x: hidden;
+      transition: background-color 0.4s ease, color 0.4s ease;
+      padding-top: env(safe-area-inset-top);
+      padding-bottom: env(safe-area-inset-bottom);
+    }
+
+    /* Header Styling */
+    header {
+      background: var(--panel-bg);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border-color);
+      padding: 1rem 1.5rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: var(--shadow);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .brand-logo {
+      font-size: 1.5rem;
+      animation: pulse 2s infinite ease-in-out;
+    }
+
+    .brand-title {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 1.25rem;
+      letter-spacing: 0.05em;
+      background: linear-gradient(135deg, var(--text-primary), var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .icon-btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+    }
+
+    .icon-btn:hover {
+      background: var(--accent-glow);
+      border-color: var(--accent);
+      transform: scale(1.05);
+    }
+
+    .icon-btn:active {
+      transform: scale(0.95);
+    }
+
+    /* Main Container & App Tabs */
+    main {
+      flex: 1;
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 5rem 1rem; /* Extra bottom padding for floating nav */
+    }
+
+    .app-tab-content {
+      display: none;
+      animation: fadeIn 0.4s ease;
+    }
+
+    .app-tab-content.active {
+      display: block;
+    }
+
+    /* Tab: This Week Dashboard */
+    .section-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .weekly-summary-section {
+      margin-bottom: 2rem;
+    }
+
+    /* Premium Dashboard Cards */
+    .card {
+      background: var(--panel-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 1.25rem;
+      box-shadow: var(--shadow);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 4px;
+      height: 100%;
+      background: var(--accent);
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .card.active {
+      cursor: pointer;
+    }
+
+    .card.active:hover {
+      transform: translateY(-3px);
+      border-color: var(--accent);
+      box-shadow: 0 12px 24px 0 var(--border-glow);
+    }
+
+    .card.active:hover::before {
+      opacity: 1;
+    }
+
+    /* Weekly Card Specifics */
+    .weekly-card {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: linear-gradient(135deg, var(--card-bg), rgba(20, 184, 166, 0.05));
+    }
+
+    .weekly-card-left {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .weekly-card-tag {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.1em;
+    }
+
+    .weekly-card-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+
+    .weekly-card-date {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+    }
+
+    /* Daily Calendar Grid */
+    .daily-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    @media (min-width: 600px) {
+      .daily-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    .daily-card {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .daily-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .day-badge {
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 0.25rem 0.5rem;
+      border-radius: 6px;
+      text-transform: uppercase;
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-secondary);
+    }
+
+    .daily-card.has-data .day-badge {
+      background: var(--success-bg);
+      color: var(--success);
+    }
+
+    .card-status {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .daily-card.has-data .card-status {
+      color: var(--success);
+      font-weight: 500;
+    }
+
+    .daily-card-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    .daily-card-preview {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Missing/Dashed styled cards */
+    .card.missing {
+      border-style: dashed;
+      opacity: 0.65;
+      background: transparent;
+      user-select: none;
+    }
+
+    .card.missing::before {
+      display: none;
+    }
+
+    /* Tab: History Archive */
+    .search-container {
+      margin-bottom: 1.5rem;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      background: var(--panel-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      color: var(--text-primary);
+      font-size: 0.95rem;
+      outline: none;
+      transition: all 0.3s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 2px var(--accent-glow);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.85rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 1rem;
+    }
+
+    /* Month Collapse Layout */
+    .month-group {
+      margin-bottom: 1rem;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      overflow: hidden;
+      background: var(--panel-bg);
+    }
+
+    .month-header {
+      padding: 1rem;
+      font-weight: 700;
+      background: rgba(255, 255, 255, 0.02);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      user-select: none;
+      transition: background 0.3s;
+    }
+
+    .month-header:hover {
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    .month-toggle {
+      font-size: 0.75rem;
+      transition: transform 0.3s;
+      color: var(--text-muted);
+    }
+
+    .month-group.collapsed .month-toggle {
+      transform: rotate(-90deg);
+    }
+
+    .month-content {
+      border-top: 1px solid var(--border-color);
+      max-height: 1000px;
+      transition: max-height 0.4s cubic-bezier(0, 1, 0, 1);
+      overflow: hidden;
+    }
+
+    .month-group.collapsed .month-content {
+      max-height: 0;
+      border-top: none;
+    }
+
+    .history-list-item {
+      padding: 1rem;
+      border-bottom: 1px solid var(--border-color);
+      cursor: pointer;
+      transition: background 0.2s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .history-list-item:last-child {
+      border-bottom: none;
+    }
+
+    .history-list-item:hover {
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .history-item-info {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+
+    .history-item-title {
+      font-weight: 500;
+      font-size: 0.95rem;
+    }
+
+    .history-item-meta {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .history-item-badge {
+      background: var(--accent-glow);
+      color: var(--accent);
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
+
+    .history-item-badge.weekly {
+      background: rgba(251, 191, 36, 0.1);
+      color: var(--accent-gold);
+    }
+
+    /* Tab: Bookmarks & Notes */
+    .bookmarks-list, .notes-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .empty-state {
+      padding: 3rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      border: 1px dashed var(--border-color);
+      border-radius: 12px;
+    }
+
+    /* Bottom Navigation Bar (Floating iOS Style) */
+    .nav-bar {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(13, 18, 30, 0.8);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 30px;
+      padding: 0.5rem 1rem;
+      display: flex;
+      gap: 1.5rem;
+      box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.5);
+      z-index: 99;
+    }
+
+    [data-theme="light"] .nav-bar {
+      background: rgba(255, 255, 255, 0.85);
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.08);
+    }
+
+    .nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.2rem;
+      background: none;
+      border: none;
+      color: var(--text-secondary);
+      font-size: 0.7rem;
+      font-weight: 500;
+      padding: 0.4rem 0.8rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      border-radius: 20px;
+    }
+
+    .nav-item.active {
+      color: var(--accent);
+      background: var(--accent-glow);
+    }
+
+    .nav-item-icon {
+      font-size: 1.25rem;
+    }
+
+    /* Reader Sheet (Slide-over drawer) */
+    .reader-sheet {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      background: var(--bg-color);
+      z-index: 200;
+      display: flex;
+      flex-direction: column;
+      transform: translateY(100%);
+      transition: transform 0.4s cubic-bezier(0.1, 0.76, 0.55, 0.94);
+      box-shadow: -10px 0 40px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    @media (min-width: 768px) {
+      .reader-sheet {
+        width: 600px;
+        transform: translateX(100%);
+      }
+      .reader-sheet.active {
+        transform: translateX(0) !important;
+      }
+    }
+
+    .reader-sheet.active {
+      transform: translateY(0);
+    }
+
+    .reader-header {
+      background: var(--panel-bg);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border-color);
+      padding: 1rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+    }
+
+    .reader-header-left {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .reader-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 250px;
+    }
+
+    .reader-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 1.5rem;
+      line-height: 1.7;
+      color: var(--text-primary);
+    }
+
+    /* Markdown Rendering Styles inside Reader */
+    .md-body {
+      font-size: 1rem;
+    }
+
+    .md-body h1, .md-body h2 {
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 700;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 0.3rem;
+      color: var(--accent);
+    }
+
+    .md-body h3 {
+      margin-top: 1.25rem;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      display: block;
+      border-left: 3px solid var(--accent);
+      padding-left: 0.5rem;
+    }
+
+    .md-body p {
+      margin-bottom: 1rem;
+    }
+
+    .md-body ul, .md-body ol {
+      margin-bottom: 1rem;
+      padding-left: 1.25rem;
+    }
+
+    .md-body li {
+      margin-bottom: 0.4rem;
+    }
+
+    .md-body a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px dashed var(--accent);
+      transition: all 0.2s;
+    }
+
+    .md-body a:hover {
+      color: var(--accent-hover);
+      border-bottom-style: solid;
+    }
+
+    .md-body strong {
+      font-weight: 700;
+      color: var(--accent-gold);
+    }
+
+    /* Obsidian Jump Link Styling */
+    .obsidian-jump-list {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 0.75rem;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1rem;
+      align-items: center;
+    }
+
+    /* User Notes Section inside Reader */
+    .reader-notes-section {
+      border-top: 1px solid var(--border-color);
+      padding: 1.5rem;
+      background: var(--panel-bg);
+    }
+
+    .notes-label {
+      font-size: 0.9rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .notes-textarea {
+      width: 100%;
+      height: 80px;
+      background: var(--bg-color);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 0.5rem;
+      color: var(--text-primary);
+      font-size: 0.9rem;
+      outline: none;
+      resize: none;
+      transition: border-color 0.3s;
+    }
+
+    .notes-textarea:focus {
+      border-color: var(--accent);
+    }
+
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      top: 1.5rem;
+      left: 50%;
+      transform: translate(-50%, -100px);
+      background: var(--panel-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--accent);
+      padding: 0.75rem 1.5rem;
+      border-radius: 20px;
+      z-index: 999;
+      font-size: 0.85rem;
+      box-shadow: var(--shadow);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: transform 0.4s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+      pointer-events: none;
+    }
+
+    .toast.active {
+      transform: translate(-50%, 0);
+    }
+
+    /* Animations */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.1); opacity: 0.8; }
+    }
+
+    .spinner {
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    /* Skeleton Loading Screen */
+    .skeleton-screen {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: var(--bg-color);
+      z-index: 9999;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      transition: opacity 0.5s;
+    }
+
+    .skeleton-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid rgba(255,255,255,0.05);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Loading Screen -->
+  <div class="skeleton-screen" id="loading-screen">
+    <div class="skeleton-spinner"></div>
+    <div style="font-family: 'Outfit', sans-serif; font-size: 1.1rem; letter-spacing: 0.1em; color: var(--text-secondary);">NEWS RADAR</div>
+  </div>
+
+  <!-- Toast Notifier -->
+  <div class="toast" id="toast-el">
+    <span id="toast-icon">✨</span>
+    <span id="toast-text">新聞已更新！</span>
+  </div>
+
+  <!-- Header -->
+  <header>
+    <div class="brand">
+      <span class="brand-logo">📡</span>
+      <span class="brand-title">News Radar</span>
+    </div>
+    
+    <div class="header-actions">
+      <!-- Mailbox Refresh Button -->
+      <button class="icon-btn" id="refresh-btn" title="整理/拉取最新報告">
+        <svg id="refresh-icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <!-- Postal Mailbox mail icon -->
+          <path d="M22 17a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9.5C2 8.5 3 8 4 8h16c1 0 2 .5 2 1.5V17z"></path>
+          <polyline points="22,9 12,14 2,9"></polyline>
+        </svg>
+      </button>
+      
+      <!-- Dark/Light Theme Toggle -->
+      <button class="icon-btn" id="theme-btn" title="切換深淺色模式">
+        <svg id="theme-icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Views Container -->
+  <main>
+    
+    <!-- View: This Week Dashboard -->
+    <section class="app-tab-content active" id="tab-this-week">
+      <!-- Weekly Report Section -->
+      <div class="weekly-summary-section">
+        <div class="section-title">
+          <span>📅</span> 上週新聞彙整
+        </div>
+        <div id="weekly-card-container">
+          <!-- Dynamically populated or missing -->
+        </div>
+      </div>
+
+      <!-- Daily Reports Section -->
+      <div>
+        <div class="section-title">
+          <span>📡</span> 本週每日雷達
+        </div>
+        <div class="daily-grid" id="daily-grid-container">
+          <!-- Dynamically populated 7 days -->
+        </div>
+      </div>
+    </section>
+
+    <!-- View: History Archive -->
+    <section class="app-tab-content" id="tab-history">
+      <div class="search-container">
+        <span class="search-icon">🔍</span>
+        <input type="search" class="search-input" id="history-search" placeholder="搜尋標題、來源或新聞關鍵字...">
+      </div>
+      <div id="history-groups-container">
+        <!-- Grouped by Year-Month -->
+      </div>
+    </section>
+
+    <!-- View: Bookmarks & Personal Notes -->
+    <section class="app-tab-content" id="tab-bookmarks">
+      <div class="section-title">
+        <span>⭐</span> 收藏報告
+      </div>
+      <div class="bookmarks-list" id="bookmarks-list-container">
+        <!-- Bookmark items -->
+      </div>
+
+      <div class="section-title" style="margin-top: 2rem;">
+        <span>📝</span> 我的筆記本
+      </div>
+      <div class="notes-list" id="notes-list-container">
+        <!-- Notes index -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Reader Sheet Drawer -->
+  <div class="reader-sheet" id="reader-sheet">
+    <div class="reader-header">
+      <div class="reader-header-left">
+        <button class="icon-btn" id="reader-close" style="width: 2.2rem; height: 2.2rem;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+        <span class="reader-title" id="reader-title-text">讀取中...</span>
+      </div>
+      <button class="icon-btn" id="reader-bookmark-btn" style="width: 2.2rem; height: 2.2rem;" title="收藏此篇">
+        ⭐
+      </button>
+    </div>
+    
+    <div class="reader-content" id="reader-content-body">
+      <!-- Markdown Content rendered here -->
+    </div>
+    
+    <div class="reader-notes-section">
+      <div class="notes-label">
+        <span>📝</span> 個人隨手筆記 (本機自動儲存)
+      </div>
+      <textarea class="notes-textarea" id="reader-note-input" placeholder="對這篇新聞有什麼想法嗎？在這裡記錄吧..."></textarea>
+    </div>
+  </div>
+
+  <!-- Bottom Floating Nav -->
+  <nav class="nav-bar">
+    <button class="nav-item active" data-tab="tab-this-week">
+      <span class="nav-item-icon">📡</span>
+      <span>本週看板</span>
+    </button>
+    <button class="nav-item" data-tab="tab-history">
+      <span class="nav-item-icon">🗂</span>
+      <span>歷史存檔</span>
+    </button>
+    <button class="nav-item" data-tab="tab-bookmarks">
+      <span class="nav-item-icon">⭐</span>
+      <span>我的收藏</span>
+    </button>
+  </nav>
+
+  <!-- App Logic script -->
+  <script>
+    // ==========================================
+    // 1. IndexedDB Helper (SQLite-like Local Storage)
+    // ==========================================
+    const DB_NAME = 'NewsRadarLocalDB';
+    const DB_VERSION = 1;
+    let dbInstance = null;
+
+    function initDB() {
+      return new Promise((resolve, reject) => {
+        const request = indexedDB.open(DB_NAME, DB_VERSION);
+        request.onupgradeneeded = event => {
+          const db = event.target.result;
+          if (!db.objectStoreNames.contains('bookmarks')) {
+            db.createObjectStore('bookmarks', { keyPath: 'date' });
+          }
+          if (!db.objectStoreNames.contains('notes')) {
+            db.createObjectStore('notes', { keyPath: 'date' });
+          }
+        };
+        request.onsuccess = event => {
+          dbInstance = event.target.result;
+          resolve(dbInstance);
+        };
+        request.onerror = event => reject(event.target.error);
+      });
+    }
+
+    const localStore = {
+      getBookmark: (date) => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('bookmarks', 'readonly');
+          const store = tx.objectStore('bookmarks');
+          const req = store.get(date);
+          req.onsuccess = () => resolve(req.result);
+          req.onerror = () => resolve(null);
+        });
+      },
+      saveBookmark: (report) => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('bookmarks', 'readwrite');
+          const store = tx.objectStore('bookmarks');
+          store.put(report);
+          tx.oncomplete = () => resolve(true);
+        });
+      },
+      deleteBookmark: (date) => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('bookmarks', 'readwrite');
+          const store = tx.objectStore('bookmarks');
+          store.delete(date);
+          tx.oncomplete = () => resolve(true);
+        });
+      },
+      getAllBookmarks: () => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('bookmarks', 'readonly');
+          const store = tx.objectStore('bookmarks');
+          const req = store.getAll();
+          req.onsuccess = () => resolve(req.result);
+        });
+      },
+      getNote: (date) => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('notes', 'readonly');
+          const store = tx.objectStore('notes');
+          const req = store.get(date);
+          req.onsuccess = () => resolve(req.result ? req.result.text : '');
+          req.onerror = () => resolve('');
+        });
+      },
+      saveNote: (date, text, title) => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('notes', 'readwrite');
+          const store = tx.objectStore('notes');
+          if (text.trim() === '') {
+            store.delete(date);
+          } else {
+            store.put({ date, text, title, updated_at: new Date().toISOString() });
+          }
+          tx.oncomplete = () => resolve(true);
+        });
+      },
+      getAllNotes: () => {
+        return new Promise(resolve => {
+          const tx = dbInstance.transaction('notes', 'readonly');
+          const store = tx.objectStore('notes');
+          const req = store.getAll();
+          req.onsuccess = () => resolve(req.result);
+        });
+      }
+    };
+
+    // ==========================================
+    // 2. Global State & Fetch Data
+    // ==========================================
+    let appData = { last_updated: "", daily: [], weekly: [] };
+    let currentOpenReport = null;
+
+    async function loadRadarData(bypassCache = false) {
+      try {
+        const url = bypassCache ? `data.json?t=${Date.now()}` : 'data.json';
+        const res = await fetch(url);
+        if (!res.ok) throw new Error("數據載入失敗");
+        appData = await res.json();
+        return true;
+      } catch (e) {
+        console.error("Error loading data:", e);
+        return false;
+      }
+    }
+
+    // ==========================================
+    // 3. UI Render & Logic Helpers
+    // ==========================================
+    
+    // Toggle Themes (Light vs Dark Slate)
+    function initTheme() {
+      const savedTheme = localStorage.getItem('theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      updateThemeButtonIcon(savedTheme);
+      
+      document.getElementById('theme-btn').addEventListener('click', () => {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+        updateThemeButtonIcon(newTheme);
+      });
+    }
+
+    function updateThemeButtonIcon(theme) {
+      const btnSvg = document.getElementById('theme-icon-svg');
+      if (theme === 'light') {
+        // Sun Icon
+        btnSvg.innerHTML = `
+          <circle cx="12" cy="12" r="5"></circle>
+          <line x1="12" y1="1" x2="12" y2="3"></line>
+          <line x1="12" y1="21" x2="12" y2="23"></line>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+          <line x1="1" y1="12" x2="3" y2="12"></line>
+          <line x1="21" y1="12" x2="23" y2="12"></line>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+        `;
+      } else {
+        // Moon Icon
+        btnSvg.innerHTML = `<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>`;
+      }
+    }
+
+    // Toast Alert
+    function showToast(text, icon = "✨") {
+      const el = document.getElementById('toast-el');
+      document.getElementById('toast-icon').innerText = icon;
+      document.getElementById('toast-text').innerText = text;
+      el.classList.add('active');
+      setTimeout(() => el.classList.remove('active'), 2500);
+    }
+
+    // App Tab Switching
+    function initNavigation() {
+      const navItems = document.querySelectorAll('.nav-item');
+      navItems.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const tabId = btn.getAttribute('data-tab');
+          
+          navItems.forEach(n => n.classList.remove('active'));
+          btn.classList.add('active');
+          
+          document.querySelectorAll('.app-tab-content').forEach(view => {
+            view.classList.remove('active');
+          });
+          document.getElementById(tabId).classList.add('active');
+          
+          // Re-render subviews when switching tabs
+          if (tabId === 'tab-bookmarks') {
+            renderBookmarksAndNotes();
+          }
+        });
+      });
+    }
+
+    // Get current week's dates (Monday to Sunday)
+    function getWeekDates(referenceDate) {
+      const curr = new Date(referenceDate);
+      const day = curr.getDay(); // 0 is Sunday, 1 is Monday...
+      // Adjust to Monday = 0, Sunday = 6
+      const distance = day === 0 ? -6 : 1 - day;
+      const monday = new Date(curr.setDate(curr.getDate() + distance));
+      
+      const dates = [];
+      for (let i = 0; i < 7; i++) {
+        const next = new Date(monday);
+        next.setDate(monday.getDate() + i);
+        dates.push(next.toISOString().split('T')[0]);
+      }
+      return dates;
+    }
+
+    // ==========================================
+    // 4. View Renderers
+    // ==========================================
+    
+    // Render Dashboard (This Week & Last Sunday Weekly Report)
+    function renderDashboard() {
+      // 1. Weekly summary card
+      const weeklyContainer = document.getElementById('weekly-card-container');
+      const today = new Date();
+      
+      // Calculate last Sunday
+      const dayOfWeek = today.getDay();
+      const daysToSunday = dayOfWeek === 0 ? 7 : dayOfWeek;
+      const lastSunday = new Date(today);
+      lastSunday.setDate(today.getDate() - daysToSunday);
+      const lastSundayStr = lastSunday.toISOString().split('T')[0];
+      
+      // Find matching weekly report
+      const weeklyReport = appData.weekly.find(w => w.date === lastSundayStr);
+      
+      if (weeklyReport) {
+        weeklyContainer.innerHTML = `
+          <div class="card weekly-card active" onclick="openReader('${weeklyReport.date}', true)">
+            <div class="weekly-card-left">
+              <span class="weekly-card-tag">WEEKLY SUMMARY</span>
+              <span class="weekly-card-title">${weeklyReport.title}</span>
+              <span class="weekly-card-date">彙整區間：${lastSundayStr} 前七天新聞數據</span>
+            </div>
+            <div style="font-size: 1.5rem; color: var(--accent);">👉</div>
+          </div>
+        `;
+      } else {
+        weeklyContainer.innerHTML = `
+          <div class="card weekly-card missing">
+            <div class="weekly-card-left">
+              <span class="weekly-card-tag" style="color: var(--text-muted);">WEEKLY SUMMARY</span>
+              <span class="weekly-card-title" style="color: var(--text-muted);">上週每週週報</span>
+              <span class="weekly-card-date">週報報告尚未生成或從缺</span>
+            </div>
+            <span class="card-status">從缺</span>
+          </div>
+        `;
+      }
+
+      // 2. Daily grid (Monday to Sunday)
+      const dailyContainer = document.getElementById('daily-grid-container');
+      const weekDates = getWeekDates(new Date());
+      const dayNames = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"];
+      const dayEn = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+      
+      let gridHTML = "";
+      weekDates.forEach((dateStr, index) => {
+        // Find matching daily report
+        const report = appData.daily.find(r => r.date === dateStr);
+        
+        if (report) {
+          // Generate key headline bullet points preview
+          let headlinesList = "";
+          if (report.headlines && report.headlines.length > 0) {
+            headlinesList = report.headlines.slice(0, 2).map(h => `<li>${h.title}</li>`).join('');
+            headlinesList = `<ul style="margin-top: 0.4rem; padding-left: 1rem; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.4;">${headlinesList}</ul>`;
+          }
+          
+          gridHTML += `
+            <div class="card daily-card has-data active" onclick="openReader('${dateStr}', false)">
+              <div class="daily-card-header">
+                <span class="day-badge">${dayEn[index]} ${dateStr.slice(5)}</span>
+                <span class="card-status">● 已更新</span>
+              </div>
+              <div class="daily-card-title">${dayNames[index]}新聞雷達</div>
+              ${headlinesList}
+            </div>
+          `;
+        } else {
+          gridHTML += `
+            <div class="card daily-card missing">
+              <div class="daily-card-header">
+                <span class="day-badge">${dayEn[index]} ${dateStr.slice(5)}</span>
+                <span class="card-status">從缺</span>
+              </div>
+              <div class="daily-card-title" style="color: var(--text-muted); font-weight: 500;">新聞雷達</div>
+              <div class="daily-card-preview" style="color: var(--text-muted); font-size: 0.75rem;">當日新聞簡報未生成</div>
+            </div>
+          `;
+        }
+      });
+      dailyContainer.innerHTML = gridHTML;
+    }
+
+    // Render History Archive (grouped by month)
+    function renderHistory(filteredDaily = null, filteredWeekly = null) {
+      const container = document.getElementById('history-groups-container');
+      const dailyList = filteredDaily || appData.daily;
+      const weeklyList = filteredWeekly || appData.weekly;
+      
+      // Combine all and sort descending
+      const allReports = [];
+      dailyList.forEach(r => allReports.push({ ...r, type: 'daily' }));
+      weeklyList.forEach(w => allReports.push({ ...w, type: 'weekly' }));
+      allReports.sort((a, b) => b.date.localeCompare(a.date));
+      
+      if (allReports.length === 0) {
+        container.innerHTML = `<div class="empty-state">沒有符合條件的歷史報告</div>`;
+        return;
+      }
+      
+      // Group by Year - Month (e.g. "2026 年 06 月")
+      const groups = {};
+      allReports.forEach(r => {
+        const year = r.date.slice(0, 4);
+        const month = r.date.slice(5, 7);
+        const key = `${year} 年 ${month} 月`;
+        if (!groups[key]) groups[key] = [];
+        groups[key].push(r);
+      });
+      
+      let html = "";
+      Object.keys(groups).forEach(monthKey => {
+        const items = groups[monthKey];
+        const isCollapsed = false; // Keep open by default
+        
+        const itemsHTML = items.map(item => {
+          const badgeClass = item.type === 'weekly' ? 'weekly' : '';
+          const badgeLabel = item.type === 'weekly' ? '每週週報' : '每日雷達';
+          
+          return `
+            <div class="history-list-item" onclick="openReader('${item.date}', ${item.type === 'weekly'})">
+              <div class="history-item-info">
+                <span class="history-item-title">${item.title}</span>
+                <div class="history-item-meta">
+                  <span>📅 ${item.date}</span>
+                  <span class="history-item-badge ${badgeClass}">${badgeLabel}</span>
+                </div>
+              </div>
+              <div style="color: var(--text-muted); font-size: 0.9rem;">👉</div>
+            </div>
+          `;
+        }).join('');
+        
+        html += `
+          <div class="month-group">
+            <div class="month-header" onclick="toggleMonthGroup(this)">
+              <span>${monthKey} (${items.length} 篇)</span>
+              <span class="month-toggle">▼</span>
+            </div>
+            <div class="month-content">
+              ${itemsHTML}
+            </div>
+          </div>
+        `;
+      });
+      container.innerHTML = html;
+    }
+
+    function toggleMonthGroup(headerEl) {
+      const group = headerEl.parentElement;
+      group.classList.toggle('collapsed');
+    }
+
+    // Render Bookmarks & Notes Tab
+    async function renderBookmarksAndNotes() {
+      // 1. Bookmarks list
+      const bookmarksList = await localStore.getAllBookmarks();
+      const bContainer = document.getElementById('bookmarks-list-container');
+      
+      if (bookmarksList.length === 0) {
+        bContainer.innerHTML = `<div class="empty-state">尚未收藏任何報告</div>`;
+      } else {
+        bContainer.innerHTML = bookmarksList.map(item => `
+          <div class="history-list-item" style="background: var(--panel-bg); border: 1px solid var(--border-color); border-radius: 12px;" onclick="openReader('${item.date}', ${item.is_weekly})">
+            <div class="history-item-info">
+              <span class="history-item-title">${item.title}</span>
+              <div class="history-item-meta">
+                <span>📅 ${item.date}</span>
+                <span class="history-item-badge ${item.is_weekly ? 'weekly' : ''}">${item.is_weekly ? '每週週報' : '每日雷達'}</span>
+              </div>
+            </div>
+            <div style="display: flex; align-items: center; gap: 0.5rem;">
+              <span style="color: var(--accent-gold);">⭐</span>
+              <span style="color: var(--text-muted);">👉</span>
+            </div>
+          </div>
+        `).join('');
+      }
+
+      // 2. Notes list
+      const notesList = await localStore.getAllNotes();
+      const nContainer = document.getElementById('notes-list-container');
+      
+      if (notesList.length === 0) {
+        nContainer.innerHTML = `<div class="empty-state">目前還沒有撰寫筆記</div>`;
+      } else {
+        nContainer.innerHTML = notesList.map(note => `
+          <div class="history-list-item" style="background: var(--panel-bg); border: 1px solid var(--border-color); border-radius: 12px; align-items: flex-start; flex-direction: column; gap: 0.5rem;" onclick="openReader('${note.date}', ${note.title.includes('週報')})">
+            <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+              <span class="history-item-title" style="font-weight: 700;">${note.title}</span>
+              <span style="font-size: 0.75rem; color: var(--text-muted);">📝 ${note.updated_at.slice(0, 10)}</span>
+            </div>
+            <div style="font-size: 0.85rem; color: var(--text-secondary); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; width: 100%;">
+              ${escapeHTML(note.text)}
+            </div>
+          </div>
+        `).join('');
+      }
+    }
+
+    function escapeHTML(str) {
+      return str.replace(/[&<>'"]/g, 
+        tag => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[tag] || tag)
+      );
+    }
+
+    // ==========================================
+    // 5. Custom Markdown Parser (Fast & Local)
+    // ==========================================
+    function parseMarkdownToHTML(md) {
+      // 1. Strip raw frontmatter codeblocks if present
+      let content = md.replace(/```markdown\s*/g, '').replace(/```\s*$/g, '').trim();
+      
+      // 2. Strip NotebookLM citation tags like [1], [^1]
+      content = content.replace(/\[\^\d+\]/g, '');
+      content = content.replace(/\[\d+(?:\s*,\s*\d+)*\]/g, '');
+      
+      const lines = content.split('\n');
+      let html = [];
+      let inList = false;
+      
+      // We will parse Obsidian jump links first: 👉 **快速跳轉**：[[#一、 上週大勢點評|上週大勢點評]]
+      // Convert them to native HTML anchors linking to the specific section index
+      
+      for (let i = 0; i < lines.length; i++) {
+        let line = lines[i].trim();
+        
+        // Handle Empty Lines
+        if (line === '') {
+          if (inList) {
+            html.push('</ul>');
+            inList = false;
+          }
+          continue;
+        }
+
+        // Jump Link Box
+        if (line.includes('快速跳轉') || line.includes('👉')) {
+          if (inList) { html.push('</ul>'); inList = false; }
+          // Replace Obsidian [[#heading|label]] with local anchor link
+          let processedLine = line.replace(/\[\[#(.*?)\|(.*?)\]\]/g, (match, anchor, label) => {
+            const safeAnchor = encodeURIComponent(anchor.trim());
+            return `<a href="#${safeAnchor}">${label}</a>`;
+          });
+          // Replace markdown strong **text**
+          processedLine = processedLine.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+          html.push(`<div class="obsidian-jump-list">${processedLine}</div>`);
+          continue;
+        }
+
+        // Headings: H1, H2, H3
+        if (line.startsWith('# ')) {
+          if (inList) { html.push('</ul>'); inList = false; }
+          const title = line.replace('# ', '').trim();
+          const cleanTitle = title.replace(/\^summary-top/g, '');
+          html.push(`<h1 style="margin-bottom: 1rem; color: var(--accent);">${cleanTitle}</h1>`);
+          continue;
+        }
+        
+        if (line.startsWith('## ')) {
+          if (inList) { html.push('</ul>'); inList = false; }
+          const title = line.replace('## ', '').trim();
+          const safeAnchor = encodeURIComponent(title);
+          html.push(`<h2 id="${safeAnchor}">${title}</h2>`);
+          continue;
+        }
+        
+        if (line.startsWith('### ')) {
+          if (inList) { html.push('</ul>'); inList = false; }
+          const title = line.replace('### ', '').trim();
+          
+          // Parse title link format: "1. Title ([Source](URL))"
+          let parsedTitle = title;
+          // Look for source links inside parenthesis
+          parsedTitle = parsedTitle.replace(/\[(.*?)\]\((https?:\/\/.*?)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1 🔗</a>');
+          // Parse strong bold highlights in heading
+          parsedTitle = parsedTitle.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+          
+          html.push(`<h3>${parsedTitle}</h3>`);
+          continue;
+        }
+
+        // Bullet Lists
+        if (line.startsWith('- ') || line.startsWith('* ')) {
+          if (!inList) {
+            html.push('<ul style="margin-left: 1.25rem; margin-bottom: 1rem;">');
+            inList = true;
+          }
+          let itemText = line.substring(2);
+          // Parse links in bullets
+          itemText = itemText.replace(/\[(.*?)\]\((https?:\/\/.*?)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+          // Parse bold text
+          itemText = itemText.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+          html.push(`<li style="margin-bottom: 0.4rem;">${itemText}</li>`);
+          continue;
+        }
+
+        // Paragraphs & general texts
+        if (inList) {
+          html.push('</ul>');
+          inList = false;
+        }
+        
+        let pText = line;
+        pText = pText.replace(/\[(.*?)\]\((https?:\/\/.*?)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+        pText = pText.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        html.push(`<p style="margin-bottom: 1rem;">${pText}</p>`);
+      }
+      
+      if (inList) {
+        html.push('</ul>');
+      }
+      
+      return `<div class="md-body">${html.join('\n')}</div>`;
+    }
+
+    // ==========================================
+    // 6. Reader Drawer Controller
+    // ==========================================
+    async function openReader(date, isWeekly = false) {
+      // Find the report object in daily or weekly
+      const report = isWeekly 
+        ? appData.weekly.find(w => w.date === date)
+        : appData.daily.find(r => r.date === date);
+        
+      if (!report) {
+        showToast("找不到該報告！", "❌");
+        return;
+      }
+
+      currentOpenReport = { ...report, is_weekly: isWeekly };
+      
+      const drawer = document.getElementById('reader-sheet');
+      const titleEl = document.getElementById('reader-title-text');
+      const bodyEl = document.getElementById('reader-content-body');
+      const noteInput = document.getElementById('reader-note-input');
+      const bookmarkBtn = document.getElementById('reader-bookmark-btn');
+
+      // 1. Initial State UI
+      titleEl.innerText = report.title;
+      bodyEl.innerHTML = `<div style="padding: 3rem; text-align: center; color: var(--text-secondary);"><div class="skeleton-spinner" style="margin: 0 auto 1rem auto;"></div>讀取報告檔案中...</div>`;
+      
+      // Clear or load Note
+      const savedNote = await localStore.getNote(date);
+      noteInput.value = savedNote;
+      
+      // Update bookmark button star state
+      const isBookmarked = await localStore.getBookmark(date);
+      bookmarkBtn.innerText = isBookmarked ? "⭐ 已收藏" : "☆ 收藏";
+      bookmarkBtn.style.color = isBookmarked ? "var(--accent-gold)" : "var(--text-primary)";
+      
+      // Show sheet
+      drawer.classList.add('active');
+
+      // 2. Fetch Markdown file content
+      try {
+        const res = await fetch(report.file_path);
+        if (!res.ok) throw new Error("無法讀取此報告檔案，請確認網路或檔案存在。");
+        const mdText = await res.text();
+        
+        // Render
+        bodyEl.innerHTML = parseMarkdownToHTML(mdText);
+        
+      } catch (err) {
+        bodyEl.innerHTML = `
+          <div style="padding: 2rem; text-align: center; color: var(--text-muted);">
+            <p>❌ 讀取報告內容失敗</p>
+            <p style="font-size: 0.8rem; margin-top: 0.5rem;">${err.message}</p>
+          </div>
+        `;
+      }
+    }
+
+    function initReaderClose() {
+      // Close sheet
+      document.getElementById('reader-close').addEventListener('click', closeReader);
+      
+      // Bookmark toggle
+      document.getElementById('reader-bookmark-btn').addEventListener('click', async () => {
+        if (!currentOpenReport) return;
+        const key = currentOpenReport.date;
+        const exists = await localStore.getBookmark(key);
+        
+        const btn = document.getElementById('reader-bookmark-btn');
+        if (exists) {
+          await localStore.deleteBookmark(key);
+          btn.innerText = "☆ 收藏";
+          btn.style.color = "var(--text-primary)";
+          showToast("已從收藏夾移除", "🗑️");
+        } else {
+          await localStore.saveBookmark(currentOpenReport);
+          btn.innerText = "⭐ 已收藏";
+          btn.style.color = "var(--accent-gold)";
+          showToast("已儲存至收藏夾", "⭐");
+        }
+      });
+
+      // Auto save note typing
+      let noteTimeout = null;
+      document.getElementById('reader-note-input').addEventListener('input', (e) => {
+        if (!currentOpenReport) return;
+        
+        // Debounce saving note
+        clearTimeout(noteTimeout);
+        noteTimeout = setTimeout(async () => {
+          const text = e.target.value;
+          await localStore.saveNote(currentOpenReport.date, text, currentOpenReport.title);
+        }, 800);
+      });
+    }
+
+    function closeReader() {
+      document.getElementById('reader-sheet').classList.remove('active');
+      currentOpenReport = null;
+      // If we were on Bookmarks tab, refresh it
+      if (document.querySelector('.nav-item[data-tab="tab-bookmarks"]').classList.contains('active')) {
+        renderBookmarksAndNotes();
+      }
+    }
+
+    // ==========================================
+    // 7. Search Feature
+    // ==========================================
+    function initSearch() {
+      const searchInput = document.getElementById('history-search');
+      searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase().trim();
+        if (query === '') {
+          renderHistory();
+          return;
+        }
+        
+        // Filter daily reports
+        const filteredDaily = appData.daily.filter(report => {
+          const inDate = report.date.includes(query);
+          const inTitle = report.title.toLowerCase().includes(query);
+          const inHeadlines = report.headlines && report.headlines.some(h => 
+            h.title.toLowerCase().includes(query) || h.source.toLowerCase().includes(query)
+          );
+          return inDate || inTitle || inHeadlines;
+        });
+
+        // Filter weekly reports
+        const filteredWeekly = appData.weekly.filter(report => {
+          const inDate = report.date.includes(query);
+          const inTitle = report.title.toLowerCase().includes(query);
+          return inDate || inTitle;
+        });
+
+        renderHistory(filteredDaily, filteredWeekly);
+      });
+    }
+
+    // ==========================================
+    // 8. Mailbox Refresh Controller
+    // ==========================================
+    function initRefresh() {
+      const refreshBtn = document.getElementById('refresh-btn');
+      const refreshIcon = document.getElementById('refresh-icon-svg');
+      
+      refreshBtn.addEventListener('click', async () => {
+        refreshBtn.disabled = true;
+        refreshIcon.classList.add('spinner');
+        showToast("正在拉取最新新聞數據...", "📬");
+        
+        const success = await loadRadarData(true);
+        
+        setTimeout(() => {
+          refreshIcon.classList.remove('spinner');
+          refreshBtn.disabled = false;
+          
+          if (success) {
+            renderDashboard();
+            renderHistory();
+            showToast("數據更新成功！", "📬");
+          } else {
+            showToast("拉取失敗，請確認網路連線", "❌");
+          }
+        }, 1000);
+      });
+    }
+
+    // ==========================================
+    // 9. App Lifecycle Entry
+    // ==========================================
+    window.addEventListener('DOMContentLoaded', async () => {
+      // 1. Initialize local databases
+      try {
+        await initDB();
+      } catch (err) {
+        console.error("IndexedDB load failed:", err);
+      }
+
+      // 2. Fetch data
+      await loadRadarData();
+
+      // 3. Render and initialize views
+      initTheme();
+      initNavigation();
+      initSearch();
+      initReaderClose();
+      initRefresh();
+      
+      renderDashboard();
+      renderHistory();
+
+      // Hide loading screen
+      const loadingScreen = document.getElementById('loading-screen');
+      loadingScreen.style.opacity = '0';
+      setTimeout(() => loadingScreen.remove(), 500);
+
+      // Register Service Worker for PWA offline capabilities
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js')
+          .then(() => console.log("Service worker registered!"))
+          .catch(err => console.log("Service worker failed:", err));
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,1539 @@
+{
+  "last_updated": "2026-06-30T14:34:07.203792",
+  "daily": [
+    {
+      "date": "2026-06-30",
+      "title": "新聞雷達 (2026-06-30)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-30-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "確定了！家樂福改叫「萬家福」 官網、線上購物同步改名",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYYm5KeFNlVU00VGdsRVo0OTFHRVVhekI4cWpFdUZ0cUJVUGFScjdnbFFaWG9SeThWTHJlQWlJX3VkaEVvbVZDSjYtZ05LelduMUdPSQ?oc=5"
+        },
+        {
+          "title": "雙颱將生成！專家指它將是強而大的颱風 不排除靠近台灣",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRQjh3Q2NxOGVCOGR0cDltUUtPQ05IUTg5OHpFcl9UTWlSTmVwQmhxYkphcm5IR3R1UUZKeDF0VFNJM2UxU0UwOGFOUmtsQVB10gFWQVVfeXFMUFdmbWRBajlGVms1emNvRXBteVhieDR4MDVUdHVCcVRyVy1DMkVibDh3dmpQTlVzcmxwYk9mWUc4cW9xYUprRUZmeVFWTnRjSWMzdEVYUWc?oc=5"
+        },
+        {
+          "title": "澤連斯基嘲笑普丁空談 卻連奪下頓內茨克的最後期限都改了15次",
+          "source": "Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XbTRuRUdKclEzcjViTmNNdnlteWxQOEhDcVVHYnFUTjhKekVuOVRucThhclgydnFfNVFFaThpcGMzUVZWWUNNd3lJaGE2a3dGXzB0blJmdjFraHc?oc=5"
+        },
+        {
+          "title": "蕭美琴「超買」私酒案監院證實外交部外洩公文內容雷同",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dWN3a05fbmd5aGlvN0lOc0V4dG03eUxvbC1DRkpvNjU2UV9mTEVEaENMNkR2aWNueG5uaW9McTRIU2x5MGhDVWhmSGh6Q3BTSHM3WHYwbktIUnpycUFlOXdlclV0dWROblFGalVR?oc=5"
+        },
+        {
+          "title": "全球 AI 競爭格局重新洗牌？外媒稱中國 AI 資安能力已追上 Anthropic",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YckpiSVEzazZsYTNDREdKaXh1dWN1UVZtY2laaUZQMVo2U2ZPOE5pajFRRmxVeTNiS1BscHVGVHc4QXk4ZWlIX1F5eVVMaHdHLVM0TjQxWkx4NGhkY1doMXpOWjRWejVLNVdpNnBKZkVzUQ?oc=5"
+        },
+        {
+          "title": "Anthropic Claude AI 模型上線微軟 Azure 台廠有望再奪訂單",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qNEdZcWJIRGxBajluS3BXc2dhZWhvcFpZb2FQVVhnNE44cDBiWXViVEZOTmhXNFkyY2RZaHhtbXE2eUJBUGFMSmFBX3FtUmpX0gFWQVVfeXFMT1lyVS1NZVJSZ21DdGRldXNRZ0R4U1U4ZkdNYkpBMHBoWFNMdHMtTlI5Z2N4QVY2UG5tbmJlX2tFTjg5T2NjV19IS0tZNlFCVEF1ZEpCTUE?oc=5"
+        },
+        {
+          "title": "「人人都能建東西，但沒人知道該建什麼！」Codex產品負責人：PM與工程師現在最缺是「深度品味」",
+          "source": "數位時代",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zekxJeXE4QVYtRG1lQTV4bXZzR3dkZUVxaW9yd19Yak5uNU5mMW9wVDhyVXlVLVI2dlkydDZDV09fV2NNck1WRmxPVDNYb0cxb2FHeDMtTHA2MmxHOW1vTXp3RTRReDBIR2pSb1hId0VoajN2T01NeA?oc=5"
+        },
+        {
+          "title": "AI晶片燒過頭？微軟股價創世紀暴跌、記憶體ETF大回調 科技熱潮急凍背後的隱憂",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEFySHN6YlpINUtkOWNFZG9NWFNlSFdyWFdZQXc0cnRiajA3bzR4bXNTUV9SaE9QQkVfai1oZUJZNkVDZlJ4VkRTdHQ1cmplMmQ2amRkdk8yOHl1Z1hOQTloSFZPUXlvTEFKSEtjVVlmZmdPWTdPVUdQb3YwODhRUTB4YjFEcDBRUS13bC1B?oc=5"
+        },
+        {
+          "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
+        },
+        {
+          "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
+        },
+        {
+          "title": "Gemini’s personalized AI image generation is now free for US users",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
+        },
+        {
+          "title": "msitarzewski / agency-agents",
+          "source": "GitHub",
+          "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+          "title": "soxoj / maigret",
+          "source": "GitHub",
+          "url": "https://github.com/soxoj/maigret"
+        },
+        {
+          "title": "browser-use / video-use",
+          "source": "GitHub",
+          "url": "https://github.com/browser-use/video-use"
+        },
+        {
+          "title": "Redefining first-line standards with new partners",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01038-X/fulltext?rss=yes"
+        },
+        {
+          "title": "Ivonescimab in advanced squamous non-small-cell lung cancer: can we raise the survival bar?",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01026-3/fulltext?rss=yes"
+        },
+        {
+          "title": "Integrated food policy and child obesity",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00915-3/fulltext?rss=yes"
+        },
+        {
+          "title": "Cardiometabolic multiple long-term conditions: a tractable focus for a field challenged by heterogeneity?",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01078-0/fulltext?rss=yes"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "title": "新聞雷達 (2026-06-29)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-29-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "天氣／新颱風巴威最快7/1生成！最新路徑曝 水氣恐衝台灣2地",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9McnM0N1hTbGhRUHRNUWRZWHh5UDNNaF9FelJ1VWJhWmlfQ0NUYXhfTm1qNzAteWhidnVtZGFzUlRIS014WWdfNDNyVmJXdw?oc=5"
+        },
+        {
+          "title": "蝴蝶谷步道落石4死1傷步道沒預警封閉？林業署台中分署回應",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UVXp0RG1Cak56dmJaQUlieUJZTE5WVHRoZUF2alZ1UmZVQlo1NkZtWXdkWUpSSnVhdDdfZ2dpUEN6dXhJQUlMcjd6U0pFbjNy0gFWQVVfeXFMUGtYOTJsZWRZSXdHWTZ6SW9oN1FxYUlDWkVVQk1sVmplOTl5NTVTSjQ0SXVFaFE3UERrOFltaFlWeHdWRjdNUEw0QUFneGtqNWhpcnhyemc?oc=5"
+        },
+        {
+          "title": "獨家／才無預警停業！圓山保齡球館遭巨石砸穿",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KZWZqZV8xM3BxMjlIWnFobmV6bGN5TlA1MVVWaHgzeV9KTVNmcUc5cWdXdkl5OWNfaGptekhadEFqSURiRVNQX2tYZW5HclVDejNiaVhR?oc=5"
+        },
+        {
+          "title": "快訊／伊朗反擊！朝美國空軍基地、第五艦隊發射飛彈無人機",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmelhMUGlkeGI4V1czeDZyYkprNHdLRDgwQ1ptZU9STXdETmhEVlEwWFpqN1EtS0tZWk52SkZuTFBYZXVHNjRtbVlDZFBaZnFGeUlZXzNWaGZsM05zaXfSAWhBVV95cUxQeXIyUTB0VG9abmFWZzRFeEtWdHJTeWdzUDhkVlZnbEt0XzV4dXg3cUtpQW1QNTB0OGxPSGNlYVBnLWNmX284N3NseFFpbUhtSkppRnlQM1loQldGRGQ2TW14cGV5UFZsZQ?oc=5"
+        },
+        {
+          "title": "OpenAI 要讓你家盆栽開口說話，開源「Plant Talk」Codex 一鍵安裝",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVpKZ0JaVFg0ZzVDWU1aWV9lUkdueTMyalpfXzhrTHI0WG43aFU4cml2Ny1OclhjRW5uU09TdTBEQ2RNcldCZEVUcDh0RWxRSEd3MHRUcGhVQ0kyYVYyTWZVLWxvV0JNZXVYOWV3a2FrRVU0ckJHc2taMTNrVzVMbXNkNXRTSmluM2ttUUttZ3I3bTBuVTJnbUtvUDA?oc=5"
+        },
+        {
+          "title": "AI 醫生來了？OpenAI 與 Anthropic 狂奔醫療賽道但藏三大隱憂",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aTVJkOHZlWFg1Q0RLQTNCUk9GQXphVU96NHRIVFY5WkRvUmtHV3BFcDRaeEN1MGJOeHhqeXhfaUV4aDZqVnNmOFY1TDhraVJJV3lvSnJ3?oc=5"
+        },
+        {
+          "title": "Anthropic調查：約半數Claude用戶稱AI已可承擔過半工作 但「這族群」最悲觀",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTzVFa2xaWFRGT1p5Z0FLVmxfc1M4dHR2QlNHME1LbFU4VlE4ZUJYSy1tbEFNb3o3MmtMV2RMM0dSc3pxUmVvb2JmOV9XQU0?oc=5"
+        },
+        {
+          "title": "Our latest Google Finance upgrades, including a new app",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
+        },
+        {
+          "title": "如果ChatGPT有意識，那世紀帝國2山羊也有！微軟科學家還做出GoatGPT",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzc4ZE1nUE04WGQ0a0pPZ0p2S0ZrWlVJeTZ0bURZd0hLQmZNNFRUbkFpZ1ZWSVNBMzRxVEQ4eEdfWi16SW5abDlZVFBpbzJSbEtyd0FkZGM0UEYwd0lGY2JjY1FVWmZBWDlaejM2dVNYcDlPYTZlRzlWVC1mZjA0NjFn?oc=5"
+        },
+        {
+          "title": "California law targeting loud streaming ads takes effect on July 1",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"
+        },
+        {
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+        },
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "source": "Hacker News",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
+        },
+        {
+          "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/"
+        },
+        {
+          "title": "simplex-chat / simplex-chat",
+          "source": "GitHub",
+          "url": "https://github.com/simplex-chat/simplex-chat"
+        },
+        {
+          "title": "ripienaar / free-for-dev",
+          "source": "GitHub",
+          "url": "https://github.com/ripienaar/free-for-dev"
+        },
+        {
+          "title": "HKUDS / Vibe-Trading",
+          "source": "GitHub",
+          "url": "https://github.com/HKUDS/Vibe-Trading"
+        },
+        {
+          "title": "Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2515820?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Re-administration of AAV-mediated gene therapy for OTOF-related deafness: a single-arm trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04505-4"
+        },
+        {
+          "title": "Cliramitug for depletion of cardiac amyloid transthyretin: long-term follow-up of the NI006-101 trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04487-3"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "title": "新聞雷達 (2026-06-27)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-27-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "大阪驚見「人孔蓋水柱」噴發3樓高！雙颱夾擊洪災500年一遇",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hcG9tSkRYLUMtUFRwUUtFSWwtQjRFXzdtZXFkVnR6ejdSS29BUktmTGR5QjNwcTlZUzdyeGVzeFZTRzVuTW5qQWMySlZ3VWRWeTBzUzZTcEdya051VlHSAWhBVV95cUxQTU1FU1BNLUtyMHlhZFhwTi0wakJ6MWUzZkE4UXBOTzdmRGZFUjRNelRfbmlPZVZUZTEwZkdZbVBwNEdqeVR2T3pGWmxQVEo1OUxxalY3cnlSQVEtZGRIcHZMdnJwendQXw?oc=5"
+        },
+        {
+          "title": "鬆綁 AI 監管！美國允許百家受信任企業使用 Anthropic Mythos 5 模型",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZemhneWRnZ0stc05oV2loMHd3aWo5Um5kNDlSQzh0NURPUG9fUWhXc3hMam5XaFVmZ01lVW9VZWRiSVhYWmdHNXRuR0ZHOWdoNmRzNmdFNUM0bGc?oc=5"
+        },
+        {
+          "title": "OpenAI 應美國政府要求有限預覽！最新 GPT-5.6 三款模型定價公開",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBILWFKZkNDOEV0cVhZWWZMWk9oMFg5Wnpvd3JQdDdDVjJtWHVfeFg5UUtkRFRjU2JBbzgzQUx4WGUxcWNUMjZwVWlmNmo4dFBY?oc=5"
+        },
+        {
+          "title": "義大利對微軟展開調查 質疑 Microsoft 365 漲價及 AI 捆綁策略",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42QV9BNFJ4TmVNY3puTDBneGZlSVBUUzFwb2ZBS2pCa1N5WVBoNUw3X013WFV4Z2V0Zk1aOU5kcjl2WkZqcGRrVFV5NWFKSDA?oc=5"
+        },
+        {
+          "title": "AI界皇家馬德里足球隊 Anthropic成矽谷最強人才吸納機 連Meta銀彈挖角都不怕",
+          "source": "經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySzRwUGV6Q0h1SkdJSHZzV2dYWGdsRE9xZUt5NjUxZk43UnJycmJJY1ZBRGFNM2VLQjJ0SndMMnl6aTZ2TXo5VFNBRWdZeVRlcGtPXy11bUVCZkXSAWBBVV95cUxPUWdjcHo0V2lmYXZPS051N1lFcDVqcVA1NWN3TFgxODhLZE1EcTNPT3lGcXBVbjJNOVk0cDloWGJQSU4wMkRIM1pxdzZKalMxNlZRUjFUbFBNdTJqMTZZeW4?oc=5"
+        },
+        {
+          "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/"
+        },
+        {
+          "title": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/"
+        },
+        {
+          "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2606.26155"
+        },
+        {
+          "title": "Refusal Lives Downstream of Persona in Chat Models",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2606.26161"
+        },
+        {
+          "title": "opendatalab / MinerU",
+          "source": "★70496",
+          "url": "https://github.com/opendatalab/MinerU"
+        },
+        {
+          "title": "commaai / openpilot",
+          "source": "★61821",
+          "url": "https://github.com/commaai/openpilot"
+        },
+        {
+          "title": "grafana / grafana",
+          "source": "★74945",
+          "url": "https://github.com/grafana/grafana"
+        },
+        {
+          "title": "肯亞基層醫療實測 ChatGPT-4o 輔助決策：未能顯著降低治療失敗率",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04503-6"
+        },
+        {
+          "title": "脈衝場消融術 (PFA) 作為持續性心房顫動的初始療法",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600929?af=R&rss=currentIssue"
+        },
+        {
+          "title": "帕金森氏症步態障礙：適應性深部腦刺激術 2.0 版問世",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04489-1"
+        },
+        {
+          "title": "沉浸式 VR 結合同步神經刺激：顯著提升中風後上肢復健成效",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04486-4"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "title": "新聞雷達 (2026-06-26)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-26-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "停班停課6/26最新通知 台南市、高雄市、屏東縣停班停課【不斷更新】",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOUVVNeThOMkNrZXFDSjRrempqMmNtQnRGYXFVTEVIWEx5OWxiMFlpa2JieVBPVlQxTVd4S0gySDhZcGVYVkVqNXYydzZqbkFWUjcyRW92YWhkMUs3bElFUFVLS29sZWU5ZWFVLWsxbERxT19lU1R4b3VqcXJ3eFNZQkhtcWxJNFRBWWRrQzQzOXl2Nkpmc0Y0RW1JdzZFdGN6c3NWaV9sTnc0d1JHY3VLRC1lekNDX1J6dS02UDJ0NzR1MXo3WTl6MVR0UjIyY25Xd3NhaHdUYXA5TGdxZlB4RWYyQ0F6RTJ0bjJ3ZWtyTkNvc3RWRFJXZ0g2bl9yT2U4WE1RcFcteHlFekhhUkJQODFQeGhEWk81OU5VUmpHSHRKVG05Xzh5cXpSQjFDRGlxLW5NUVJ5LXY1ZEY2Y0tPaFBfeG9PREY1RlhubWp3QXNpYmFIbnhKeEFDSFE0dmlXQUhzemNrV1ctOFR5NmtxZi1tODBLcUM3ckpuWU56UVJudHN3aXVzeEx0aFV2Q1o5ek9sVzI3ZXFjdEFPcWdVUUFKZkwydWtYcmsyN1p0V21BOXR0?oc=5"
+        },
+        {
+          "title": "台北內湖大淹水！蔣萬安臉書也被灌爆市民狂酸「真的變火鍋」：米老鼠樂園變水樂園",
+          "source": "Storm.mg",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMHRHVWt6dGtvQWdmaWVGQ2l3UVE3VVlRWVExVVRnVkpncXYyVGV6a0VJRGJra3lhRkIxbVZIVVZnTGZGZDVVWlN2WlNiZw?oc=5"
+        },
+        {
+          "title": "委內瑞拉連續規模7強震恐釀10萬死…川普：情況不妙 已準備好協助",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfYUcwc1FUcEtBeDJFblhoeWx0RTdpT2ladUhSWGRVWG9EaTFRTWNoM1dVMzUxUzllSTVoaE9QRWhzZVpZZGx0Q01Mel9xODZm0gFWQVVfeXFMTy1BMS05Y2VrbHp0NVh5b3dDcDNBOWhXM2lhRUxsMlRjTUctakVPTUNTd2ZYWlFOSW5VQ0NydHNiMUNmZnhPVm91V3ZnWW1nUVZla1FJV3c?oc=5"
+        },
+        {
+          "title": "豪雨淹爆全台！機車泡水「最忌1舉動」　專家警告：修車費飆10倍",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adXJzR3JfSUl1S3dRdFVrbkEzbkx3WDJ1cDR4RjJ3U1pxeERBMy13SlpLUVU1OFRCa2M3b0ZjVUpOaW1VUUxmMlJ2RWp0WkJmeDZkUmsyeDQyempiZVHSAWhBVV95cUxNVWZCTURZNUVJcHZWN0NVX3pOZmVXVERzc2pUa2x0ZnQ2UDNjQ3ZOdlJiTGpkM2ZYQmlXN2ZMeTdMUy03QWRpSTFpeXZVYjVHYmtSOHk4M1ZWX1JRWU4zbzdwZ19FamFyMQ?oc=5"
+        },
+        {
+          "title": "快撤！花蓮堰塞湖拉「溢流警報」 萬榮鄉10點起緊急撤離",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQeG9fZkRPMGUwQ0hITEtSSWliX1BSdGJGWm5LNURqTXk0ek5zajU5eG9BVFhkb2sxRmJGeHZVYXE1SlZKZlMyUm1OVGVBNDlJYk1ySWptQTdEV0NTQ0o5Y3ZiRnpRUWE5YnZCOE9LbC00X05IcXFGZWdXc0lzdGRRZ2pkc0lwQXB5N2x5bVNXaEc4UVVia3U4dXloUU40SEJHYnlXQTBCdjhaUkVnOWtPVTFTWHdjTVpPRnY4Um5ob0pCcExGNm13RlBBd1ZENXdyVmR2bTZiUzVVc2NCVWx6N0xTQXFlUzJzZ0hlWng4SW5oa21TNGhTcE9EbzU4VDlCWEtILXRxSkNPY3RqaEJFd0s4QzRILWZma1VHTU5nR0xjaWV6eWs2NXZ0enhuZTJoNUltUGNjekFvejc1R3B1MlhOMWpfMzRqVGV0X1NreUE1UFZIM3c?oc=5"
+        },
+        {
+          "title": "《紐時》OpenAI考慮將IPO計畫延至2027年",
+          "source": "Yahoo 財經",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUEFSaTRHUEQ4QnE1RkZENE9CWmRJRURZeElHZWE2dWJ2d2N1ODlfQlpSOV9DblF4aE14eVZ3OFhOeW9mc2tfb2ZDMGJ1djVCRkJhcWRRNV93aTZibG5tT2ZOUlZhREJMQ2lYMVAtdkhnMVlVRkIwZGtNX2xtX2k4SmxwTVh0aUVTZDdUR3VJejJKMW9rYmxoaUJoQzRnMEdUSXdLYWRFM3NnX0N3NnNmOEFBTWVZME0wWTFKMnpaRkdndDRSR0otaURiUGZ2ZFVhd0VfaG9Hay1kRUlfLXZ5cG5oeXAwQjdj?oc=5"
+        },
+        {
+          "title": "AI代理全面接管工作？OpenAI：各部門近100%內容由Codex產生",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QUDdWSVhzbFRQX0VwUmg0Ni1JZW1IM2hmN19SeUgySldDaWZLRUdvTkgtaUpUNkdzd2xsQWVfb3FKQ3ZnaTZOQW53RQ?oc=5"
+        },
+        {
+          "title": "Anthropic 17 個 Claude Skills 完整整理！文件、設計、開發、溝通 4大類一次看，適合誰用？",
+          "source": "未來商務",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QRWp3WF9iNm1Gd0hyUm5sWmFjbTg5T1BudXoyazlJTHhTQllhTzhuMTFHV3pqdUJweDBqSmdvTHlBVWJHVnV3UENTWVNnc2xYdVZ3Yg?oc=5"
+        },
+        {
+          "title": "AI搶走記憶體！繼蘋果後 微軟宣布Xbox又得全面漲價 最高貴150美元",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPd2N4OGp5MzZ0SFh0UW01bjRrcGZvb0hVSlFKRlR4VVlDdjZDR2tkVUZPRTJKSEd4S3BJYTVHMGxYd1RlckNvcEN6aTIwX1U?oc=5"
+        },
+        {
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+        },
+        {
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+        },
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "source": "Hacker News",
+          "url": "https://scrollprize.org/firstscroll"
+        },
+        {
+          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"
+        },
+        {
+          "title": "xbtlin / ai-berkshire",
+          "source": "GitHub",
+          "url": "https://github.com/xbtlin/ai-berkshire"
+        },
+        {
+          "title": "mauriceboe / TREK",
+          "source": "GitHub",
+          "url": "https://github.com/mauriceboe/TREK"
+        },
+        {
+          "title": "every-app / open-seo",
+          "source": "GitHub",
+          "url": "https://github.com/every-app/open-seo"
+        },
+        {
+          "title": "A Pragmatic Trial of a 6-Month Strategy for Rifampicin-Resistant Tuberculosis",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2503687?af=R&rss=currentIssue"
+        },
+        {
+          "title": "HPV vaccination linked to dramatic reduction in cervical cancer deaths",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00033-3"
+        },
+        {
+          "title": "Ten-Year Outcomes after CAR T-Cell Therapy for B-Cell Lymphomas",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2518035?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2515131?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04481-9"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "title": "新聞雷達 (2026-06-25)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-25-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普怒轟假新聞！稱伊朗根本沒收過路費 否則談判立即喊卡",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zbnZuNHluSkZ3TENpekRMUm1DYzZBdGZtb1Nuc2tZTTN1TDhJZTdhazBNZk9KVTUwcVFSd2NwSy1kUTlZdXEyd2ItZmhpdUE?oc=5"
+        },
+        {
+          "title": "自由快評》美歐大國承認台灣管轄權",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IdFBsZEFDWllwcW04Uzl4cmZqUWREYmNicElqVGFmUVBQS1FsY0ItaldVTmlXb2phVGtpaFRXNlg0b1JDR1hDWFAydDdGaktPdHZXNTNVY0ZjUzYzVWlQMHFyaTJsQng2MUHSAW9BVV95cUxNdTRoSHJUaEZicV9yRTRJZ1hsQzIzb2pLbUJ2MmlzeU5FazR5dk10bXY1OVVkWndFNHM0WXd1UGtLOGhTc29yLWdxQkRpWXFpRVZmRllyeGRYMlBJb3JEQmdraHFTZGdmejh4ck9HWkE?oc=5"
+        },
+        {
+          "title": "桃園男換瓦斯突發氣爆！全身30%三度燒燙傷",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SlNUNVE0VE5yS3F2aWNvSnJyMHBjZ3RDTVlLck9GREFlUGNsZzFmdmVtRnlWYmdEbzF2Wm16WWRqbDBJeTh3SHp6bFNnVnMzLUVVNS1B?oc=5"
+        },
+        {
+          "title": "鄭麗文指「沒台獨大陸仍犯台必戰鬥還擊」 國台辦回應了",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BS19YUmNqSHVsLXVaUnFmU2tVal8tUmdQYmtKWm0wYnRRRFc3djRMU2tYU04wb3JuZDdCQVFhdlVweU04dXZIUF9aY1R3ZVcx0gFWQVVfeXFMT1AxVWdDSTV6YjFtenVPcnpWdXFoTFU1RE9xUVhvYV8yUUlEdHVKdG81bEJhODBBb2FGRVl6djRJdVg1UFYzRmRrczg3Uk5NdGMyVHZ6aWc?oc=5"
+        },
+        {
+          "title": "OpenAI 推出首款 AI 處理器 Jalapeño 媲美 Nvidia 與 Google 晶片",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPODVYWjBBaUQwRG5BVEpsRkNDZHRMN0ZONzZGeldFXzJwd1pDWjl5SERoOWxmdGJBXzRVSHltdXJ5VE9OQkJHSy1fSWVZTGNham5VVFBqNTJfZ3VUODhYeVlWRF95eHZrVVBvZExYRzQ1WVpkT0JVWjRqa0ZNOGJEWHBzRzloQURDTDN3dlpvU2VJTHhiMGlCdWo1N2xkWFRTY25PR0wtM0Rkbkc5X0FqZUlSTzdJQ2ZUWVB0RUhjUQ?oc=5"
+        },
+        {
+          "title": "AI軍備競賽升溫！Qualcomm聯手微軟、Meta殺入資料中心戰局，正面迎戰Nvidia",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVhBc2pQUlY5WjR5bV96dlAyZE5XSkhZUTZzeEs1azNpMHprbWt0eEJmVDJ1Ry1iYVdEam93Y3BkMkxnOFNZUDlYLVFkVnZHSjY1elEwQTd3YUZzN3ZBdjU5dkQyS0RJYlZrUXlVREswU3lNcUE2dlBkZXFobGkzWUNkaUY0NldVVV9XYi1B?oc=5"
+        },
+        {
+          "title": "微軟 AI 政策再轉彎！Windows 11 將重新強制安裝 Microsoft 365 Copilot",
+          "source": "XFastest News",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM2tJYVlvZHA5U01vY0Rudm16cG8yQjZsVUhDdnVKaGswUkpYN0lONFU2MHJXNGUyeDFMTHUzQ1Y4eERPLXhNZW1tdkF6c29JcFpHeTh5NXBiYnA5YlRhX2c4N2txWktuTW9wTS00SWpKWE5haXFmbXpIcllocDRzVHo5Mjlzcl9mOEwyQlc4eHNJYU55X0ROdTc3TWViNlhwSXE1VHAxYlF6dVhwTFJyN3pNN3dNdjBMdU1pZThkdGVmM0Z0UjlVN000UXVIRnFzSDZxR2gxTVQzM3BlTVhPY05Kekdrd2VK?oc=5"
+        },
+        {
+          "title": "告別AI卡關！OpenAI Codex 調整用量限制提升開發者效率",
+          "source": "PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVhQMDRfaHJLcmlncnBSdzdWTkdFOGVHSzY4bFdJVE9PcUNMNFgxUzU0WlMzRDNxa09FdURubFZIN19xcHBwbGd3S1hmdThvQ3BIYUxocDNkcUw5TTBhNDNBNmpSd29QVUVzbFNZb0dUd1RsX1phaWRqOENNOVpkZ3VPaGRZVU9UQjdWcw?oc=5"
+        },
+        {
+          "title": "谷歌兩名人工智能研發干將據悉計畫跳槽至Anthropic",
+          "source": "Yahoo 財經",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxObTNxdUtzdVZ0ZGFpY2Ntd2pZbGNrSktTdFR1OUNva21BYXNWWTB3cVptVkdlLVhySFczc3NiTGNUSmdqM0U4VjNDY2VtbnRZbXpwdjZrVEpfRGR0dmtzQ2pETUxzQkI1NFI5c3BpYmZSYkJXN1FqVE4zRkh2X3dqVHFSRzg3Q2xaWmlraDAtWG9EVEphVGhHSnR5azNZY2pDNXFkalVlYk5Jazh4ZGp0dlc1cGgybFBuM1NHOEU2UHR3Q3hqS3BRd1dVazFYTF8tWFpZTm5HVEM1MzFmOC1BakpGaGJKXzZUa0loQ3RjMUNSX2RLUER5S3ZCWDlMUGpmQjNveHlXSmNET2VMOHBEbFpHVnRkQVExdmFvSHNpQ1V2eGpOYjBGN3FEb0NVekwyZ2VUUjR4NFlTOXM0U25iV1I0bGZHdDRqbUhuLUtB?oc=5"
+        },
+        {
+          "title": "AI軍備競賽失控？從Google強化代理人到Anthropic控訴阿里「竊技」，產業安全戰全面開打",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0luRWM5T3pSNjdicENLb2RGYkNSTUt1VWpaR2I1R2RpTEp1TkJidWhZMXA1N0NjUXlJbGFLZXdEdmhXdHZJRzZDaUt6Ui1jbzBQLVdFQ1FfU2dJTHBWNmN4UFh6QlRnYWlMOFRPdWFsb3FramU0ZXZTblI4YTRmd0dyOTFSU1N5SWFMdVVR?oc=5"
+        },
+        {
+          "title": "參訪微軟亞太總部 鍾東錦推AI優化復康巴士及長照接送服務",
+          "source": "經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11VGk1eUc4S2FYWU9HMDRJWDNYdDJmZjRiM0ZianloV0x1d05SM2U1ejVNSDdFT25JQlFFbEFyekExU2dRSjY5V2RVallYYzJOdHRvR0kyM1V5MG9hSHRZ0gFfQVVfeXFMTXVUaTV5RzhLYVhZT0cwNElYM1h0MmZmNGIzRmJqeWhXTHV3TlIzZTV6NU1IN0VPbklCUUVsQXJ6QTFTZ1FKNjlXZFVqWVhjMk50dG9HSTIzVXkwb2FIdFk?oc=5"
+        },
+        {
+          "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
+        },
+        {
+          "title": "Qualcomm to Acquire Modular",
+          "source": "Hacker News",
+          "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/"
+        },
+        {
+          "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/"
+        },
+        {
+          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
+        },
+        {
+          "title": "PostgreSQL Is Enough",
+          "source": "Hacker News",
+          "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb"
+        },
+        {
+          "title": "apple / container",
+          "source": "GitHub",
+          "url": "https://github.com/apple/container"
+        },
+        {
+          "title": "JCodesMore / ai-website-cloner-template",
+          "source": "GitHub",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+        },
+        {
+          "title": "stablyai / orca",
+          "source": "GitHub",
+          "url": "https://github.com/stablyai/orca"
+        },
+        {
+          "title": "revfactory / harness",
+          "source": "GitHub",
+          "url": "https://github.com/revfactory/harness"
+        },
+        {
+          "title": "google-labs-code / design.md",
+          "source": "GitHub",
+          "url": "https://github.com/google-labs-code/design.md"
+        },
+        {
+          "title": "研究：學齡前嗜吃超加工食品 恐增情緒與行為問題",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waEY0bG5IalB1NGlwRXVxZm9XQUhBR3kzNklvcjl5TU5yV1gwZVlBMi02UGpITmtvTXBsQy1JTHFQZENnU05WWmpQSVFCU3YwWWowblpKVG5SSEg2d0dkcDZyZ3RyZTU1QlHSAWpBVV95cUxNcGhGNGxuSGpQdTRpcEV1cWZvV0FIQUd5MzZJb3I5eU1OcldYMGVZQTItNlBqSE5rb01wbEMtSUxxUGRDZ1NOVlpqUElRQlN2MFlqMG5aSlRuUkhINndHZHA2cmd0cmU1NUJR?oc=5"
+        },
+        {
+          "title": "Automated reanalysis of genomic data for rare disease diagnostics at scale",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04477-5"
+        },
+        {
+          "title": "Inspiring, shaping and sustaining an African research & development agenda",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04480-w"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "title": "新聞雷達 (2026-06-24)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-24-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "台指期夜盤跌點擴大重挫逾 900 點失守五日均線",
+          "source": "工商時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vbWxSWWl1Ym1tSVF0WDRGSXMxdXlhQm1BWG44NzhWS0xGcVN6cG5nRzdrY29NYm80RURYVFBqYjFtMzdQb1RTNHlCUGM0Rml2OW9jak9xak9NbGNHWGZR?oc=5"
+        },
+        {
+          "title": "立陶宛總理下台！新政府批台灣「沒兌現這些」 台立關係或降級",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYVcwQ01pYTdKN3V4WUtIbnZWak1EalljYVVOS2ZMUFllVFRrRjZ2TjJfb2FfVnUxdjlDODFtREdHcGZTNC1rai1ndEpUMHBpaEJVQVJ0aHJWLVRtUjZMd1VZWUo2bVdDWGfSAW9BVV95cUxQRUstWjVvQmpKc3pvRGVLVE9xVDl3elpwX3NMSGNvTVlhYkFhdTZFMGVlYWtXSk1yWkk4SW5hekRHMXNvS205b1I1NFhLYVoybjAxN1VMLXpoOXVZWEIzZUF4WEtTTS1MR2ZVR1ZlNnc?oc=5"
+        },
+        {
+          "title": "OpenAI Codex 遭爆正殺死你的 SSD：21 天寫入 37 TB",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSklldnZrR05QbU51SUdvSkVqUDd1b0Zob3V6ZmRQdlNORml0TUV3dXNaZ21ITWtvLUUxWWJqVHE2a2IwYW9LSzhzalVRTkkyWEFhcVZpRGZRdmNxMHNmaV9MSmQtenRuM0tZWkZTWlYyNjcwZHctYUdDOTdGdzE1ajlFYmQ5UV9BclE?oc=5"
+        },
+        {
+          "title": "Cerebras Systems 股價暴跌 10.5%！OpenAI 合作卻難掩毛利擔憂",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTlhKVWN5ZW5EUXQ0ei1CcDA5Qkc1TjdSb1VKR2U0bTZjdW1lSEl3dEp2eTh1bVFoQlZDaklSMmpFNEd1MFRvdVpnQUhqYjZ2bzhrUVBFQUhBaEhjTi1aZWg5bG9LcUJ5cnZvQzdhZEstSDZrZHVXSWFNbEFYZ3RZM0FMTnBlYk1naXY3SUpIU1FiaGpWbkVNbkswMUVUSHpvMDVHRWlMNFpSNWxyRGRZY2ZscHV3WlBfUVFHSzZaV08xYTU1MVgxR28zTm1tTFU?oc=5"
+        },
+        {
+          "title": "美風投家 2030 年五大 AI 預言：台積電與 ASML 不再能壟斷晶圓代工市場",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DaF9hRWJ5Zy03enkzOVh3bHV2b01vYnZ4QW43SjdFY0RkZS1YWDlWT0xseFBRd29HRzhUMV9DaDFJdkkxVUI3ZktlYTRuQjZkamMyblJmejRFdVptbm56SUhuUmI0NUpQSVhYa3VFWlpCLWxjUWI3TmU2OA?oc=5"
+        },
+        {
+          "title": "Microsoft Build 2026：在工作中做自己",
+          "source": "Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVl5MEJPXzV1M0xuSlkwa1J2S3F0M0RtRU5mOHhxUUFaem1KZndwM1BvUUVQSzczeGVzWE1rdU1rMlBNT21aV2tuT3NpQzBSTVBwYjdENlFWTzRxYnVpUGo2dDV2VHNiZ3p6X2txbUZreEJnTGpPTmZHdjZ1dUxyQ1ZLcG1CMU9Xdkk4SDROa3FTYzA3c2FodWtyR04xRGRUaFVnbGdrS0RvdEhZXzNITjl6S3Fva2o1ZTdnSGhnQTlybUJiYWJNQUhvUGprOTJqbmo4WHZfaGcxSEEzclZNVmktaGRuZWVaaXVOcA?oc=5"
+        },
+        {
+          "title": "Superhuman acquires AI detection startup GPTZero",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"
+        },
+        {
+          "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
+        },
+        {
+          "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+          "source": "Hacker News",
+          "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison"
+        },
+        {
+          "title": "Swift Package Index joins Apple",
+          "source": "Hacker News",
+          "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+        },
+        {
+          "title": "anthropics / claude-plugins-official",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-official"
+        },
+        {
+          "title": "shanraisshan / claude-code-best-practice",
+          "source": "GitHub",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice"
+        },
+        {
+          "title": "Shifting the goalposts in obesity drug development",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04462-y"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "title": "新聞雷達 (2026-06-23)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-23-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "英國首相施紀賢宣佈辭職",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RaExyMmFrLWxSckNfdTd6OEpqeE5ZV0RrYkhNeWZhQ1JObEZYay1OUDN6ZkhudnhVQUp5WE9rRGxvem44SmFhbkhkc2hRcjZGUGF1dFhUaWNQSTNmc3JrNndVRDRXZ9IBa0FVX3lxTFBXT3RiZDk0ak40aHN5TE5fQnNkeUtRQ0FCZG5jVkxPajBzWUdldXlZVzFlYmRhSG1tb0s0c3U0NHU2dFN3ZXYxMnlDbjQ2VGhmbnQtd1phdjRMOHZxWXBKMi0zQzA2M3RneDU4?oc=5"
+        },
+        {
+          "title": "Anthropic 執行長：離開 OpenAI 真正原因是信任崩壞，與其爭論不如分道揚鑣",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmNtZlFiQ244TGtQMWJKd3ExVDBINWNJSHpGWUhqMnByUE5OLUNTQjgxSUtIam16LXpSSmdERnhaemR1NERnN2VlZE0xUm5FMVloMXVIWE9BY0JZakFHRnZtbVFaNDljclB2ZmpvbzJsRV9mS3U5MUtqZWd3SHl4ZkhCVzhiY1dxUW1mbmh0UVVYYThpMVh6ag?oc=5"
+        },
+        {
+          "title": "三星全面導入ChatGPT OpenAI拿下史上最大企業合約",
+          "source": "DIGITIMES",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXN3djlrbFRscW92eWRmYUU1S0NtZWdPZFVyYklkUzBnZVZUbENRVXhaNFROOW1GNXZweFZ0bmZyakF3ZHJBTXkycTJMbjE3YTZEeWtPYWpPMkNzTGFSMEJVd2NpXzJRN0FyTE90cDVaeDdyVmh5Rm4zUDR5bTJvMmgyUlRMQWU5bzl5S3ZB?oc=5"
+        },
+        {
+          "title": "OpenAI 大模型進化 催化算力需求帶旺鴻海、廣達等 ODM 大廠",
+          "source": "經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3ejBPN2NUX0ozYmxTSnhXTVBtbmtnakF6QlUtU01nZFZpM0tTSi0tcDZtdDBFUEtxZ0FVWEJua1RRdXNyQVBZUVIwaHQ2R2FrYzFMWjVLRXF0cFnSAWBBVV95cUxNdzZwbDJNQW1kU2xRV0xQVW1QZnJHSVpTTU9tMjF3ZnBGTFZZUklOclJTbGZEc1F4OWxnTTRzX0tvcFd6RkJvTVd4U3M0X0E4ZVVoMWFHMlBnSGttQlpEeTA?oc=5"
+        },
+        {
+          "title": "美光獲Anthropic記憶體長約訂單 股價飆近7%登史上新高",
+          "source": "Yahoo 財經",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUkJLMjRqQWM1Q3BWSlN2c2hSb2w5ZmpJNnRBOEU3N2NTaHFWbGxzYkdXSW1mWkIyeFNNMjA0OUx4UUJ4UWNYS0E3RWx6R2FXUFNRbmlJN0pjenU1WHQ4Znh5dnNpdG0zajkxUl9YN243SlJocUNBaUp3TWRlazBjSGszVEwwcFNJaGdKSVNqTnlpQ3ZnNkluZXJhaGZPTVM0Vm1pOUJ5YlM0aVRLeXRCd1k1Y21JSDdFY0dTZFNsVFBrUlJ1N2JHOXRmTFBWZi1SVFBpZmEyMHV2UTFQNWsxcE9YSXlWaENzSXJuRFc4OG9YekdRRTFqaGpjempEcGRVam13RXRPYnl0cFpFLTJxVDJEb1pGUUpRUlVyeU1ZWHV5ZWVlSG5mT3hoYlJMX2JKNm8zazZ1czNfdXFIaE5DWk5fUmlxVU9sMTBXUk1OQ2owZw?oc=5"
+        },
+        {
+          "title": "Anthropic 新版 Mythos 訓練完成，Sonnet 5 本周發布在即",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOEJ5OWJKZ2lyM3N1Y0R2ZlNFdG0xZHZ1emFZZWZMRkdWYkh2UVZ3UE1VRElMTERXN29COVNoOE50b2s0SFVRRVJIbjRXd1RzV1hKU3ptZnFRc1BoT2ZXUUJYSTV0aTBwTXBxaEZEeUpGOHlXZGdsZXY2Y2UwQ0lTNFByZ3JMeExRdmotaWRSaW1Cc3ZMVmFvaUxiM3BfbUk?oc=5"
+        },
+        {
+          "title": "微軟AI資料中心找上雪佛龍 簽20年供氣協議",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ERUV1MWx5ek5WMTZ6YkgxNUtCUFpLMnl5UFFWZjM0N2ZlaE9VZGJIczByTnFuNWVsLUk0bVFBUDB1X3dza0dPMVJCOEdobm8?oc=5"
+        },
+        {
+          "title": "成本壓力大過政治風險？微軟考慮引入 DeepSeek 驅動 Copilot Cowork",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19STnNrS1ZnbXFXZ01kb2EwT3FzQXhxV3NFVTRCNG5GcjRnMkpxTGZ6RTNJa0stdnZEWEEzdnNIMS1GeVpwR3hiZDM0VHNsclU4N0NxWm56MExtMlNsWVJKV21OQ1ZtOWV3R21DV2NMOUFfaFVPMDUyeExCbDRqelJMY2Q5SVdD?oc=5"
+        },
+        {
+          "title": "微軟推出專為效能與靈活性設計的全新 Surface Pro 與 Surface Laptop",
+          "source": "Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3VPcHRXVjVVVjZreWpSb1NjQVQ1ZU4zZ01haDYwRUFRdHFTRHdQUV9xbDBONklJMWg2RmszcUF4bmVsWUI0dHhpc005UTZSNDBuNDc5bU8yb2tCNDNxZkxuZ2lpaHRKcUNjMFY0QnctVVVVT3BRV280YmV4aERxZnJMUTF6N0U?oc=5"
+        },
+        {
+          "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+        },
+        {
+          "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/"
+        },
+        {
+          "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/"
+        },
+        {
+          "title": "The AI world is getting ‘loopy’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
+        },
+        {
+          "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
+        },
+        {
+          "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"
+        },
+        {
+          "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+          "source": "Wired",
+          "url": "https://www.wired.com/gallery/best-mushroom-coffee/"
+        },
+        {
+          "title": "The Ninja Slushi Is Only $200: Early Amazon Prime Day Deal 2026",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ninja-slushi-amazon-prime-day-deal-2026/"
+        },
+        {
+          "title": "Steam Machine launches today",
+          "source": "Hacker News",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
+        },
+        {
+          "title": "Runing GLM-5.2 on local hardware",
+          "source": "Hacker News",
+          "url": "https://unsloth.ai/docs/models/glm-5.2"
+        },
+        {
+          "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+          "source": "Hacker News",
+          "url": "https://github.com/dorukkumkumoglu/optocamzero"
+        },
+        {
+          "title": "Cyberdecks, going analog, and convivial technology",
+          "source": "Hacker News",
+          "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/"
+        },
+        {
+          "title": "Stirling-Tools / Stirling-PDF",
+          "source": "GitHub",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+        },
+        {
+          "title": "garrytan / gstack",
+          "source": "GitHub",
+          "url": "https://github.com/garrytan/gstack"
+        },
+        {
+          "title": "heygen-com / hyperframes",
+          "source": "GitHub",
+          "url": "https://github.com/heygen-com/hyperframes"
+        },
+        {
+          "title": "Long-term health risks of e-cigarettes after smoking cessation",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04470-y"
+        },
+        {
+          "title": "A case of artificial intelligence-enhanced diagnostics leading to heart transplantation",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04454-y"
+        },
+        {
+          "title": "PROTEUS trial heralds perioperative therapy for prostate cancer",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00032-4"
+        },
+        {
+          "title": "Biological aging and generational shifts in early-onset cancer risk",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04448-w"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "title": "新聞雷達 (2026-06-22)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-22-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "快訊／草衙道國賓影城持刀！男「亮刀架脖子」對峙　警持盾牌戒備",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZ3U3ZWtEbkZodW1TdzhfM3MtWC1fNzRwU1otRTBIVHJ5cm15Mm5aS1k0d2xQRE5ibU55SzJkM2F2LXF4QVJDN3RfQW1fQmVkcWZmSmR5TlNnR1YtbmfSAWhBVV95cUxQTk9Fb2pma3QyVGo1RjVzMDJzZW5aaVUzX0R1MVFiakVFN1JTR0dYVWZXMzByZU5sVF82d1JUUlJxd2gxOFpXYTFhX0Q3c2NIMFRnSmlQY28yZEtlT1FxMGJocE4wQ0Fnag?oc=5"
+        },
+        {
+          "title": "萊雅與OpenAI深化合作 加速生成式AI助攻內容行銷",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOOFpQOTRJVUlqb1JJV01qR3ppTTc0SWtFMXE4QzlDVnRMcHB0UVROT0lzRngzYnQwbXdSWTU0R3pBUjhPYjAwUTVuWkE0b0hteU1LcU5ZUkgtb2JjNFhtaWtyRDBJVXlnWVFrSGZscXpON1lNWlNzRDQ2b3VEWlB2U1E4NEpkSEdjeHFld3BPQ2RRT0hGR3pacjM4R3c0STNHZjhVZWJqa2JaTHhudVFwQ1Btei1ZajhramZLMGtjdnQwVGlnUXg4bENVX1dvMmhVVVdwQWJ2YndqOXVEQmw1SGFkbld5SjlNVlktR2FXU0NFYWF1TGc5c0VucTM5TE10YjJXaHFmQUs4UDNrempCbGpaSlRBRHk5aTFMaGZobTZ2Z1NIbDB4cUdQdDlIU0o0U2dJWWZFeVVocndveTRJ?oc=5"
+        },
+        {
+          "title": "Anthropic AI拒助「氣候否認者」 國會質疑言論審查界線",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOYUZYM3pTTnNqN2YtTlk2aGVzMUhWMlA3UXBWWkg5anhfakM5YjNxT3lYQWp3NVNHTndMak1sb0Z6Mmk3Z2piOEFlbkVNeWU2QWxvcURYSmNUX3N6R1NuR3VVY3ExOVdYSnkxMUVjLXU3RkY1SXdxUDZDLUdjSkh5QkdiOExfeXlnanhoaDNFVE1tZlo5M2xDTWJMSTQ4Y2hWUjJOVXYxUnJSSk5adHVCclhUZTh6OFk3ajJwWTdaNFh2UHQwSHJPVXBvU2VGV3NGNHVGYnQ5ZGhnd3ItM0RkbmpfdllSdlMzVFRDRHhZUVo1SXgtMFhLLWFmTEVyWEFnMzFraURvS1o1X3U1bVh2OGNNM3JOVHMwdS10ZnZGM3NTbmFzYnkyRnlPTzhNeHZla2dDY0o4X01lUQ?oc=5"
+        },
+        {
+          "title": "南韓拿到關鍵AI授權…台灣卻不在名單上？看懂「Claude開發商」跳過台灣的商業現實",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBidVZvTzdiMkIzTmRKdWYxTF90Rk9rdWxqQm5raGw3UFVzUDRZZjhwT2xEeG1tNmJROU9hSmhCQjBoWndrRWdwZWxWbllreEFM?oc=5"
+        },
+        {
+          "title": "AI時代微軟CEO拋新概念：每家公司都要投資這2種資本",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wOUdPbDNHWUhhVy1MZkRtVGl6WGh4OUt1VDlhUk5yMWZtN2h0QmFTSjdTcVJIdFlyZmIyWlRDckxrbll6eGJSaE56b3BRY2tG?oc=5"
+        },
+        {
+          "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/"
+        },
+        {
+          "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/"
+        },
+        {
+          "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "source": "Hacker News",
+          "url": "https://apertvs.ai/"
+        },
+        {
+          "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+          "source": "Wired",
+          "url": "https://www.wired.com/review/review-wooting-60he-v2/"
+        },
+        {
+          "title": "[Rust] tursodatabase / turso",
+          "source": "GitHub",
+          "url": "https://github.com/tursodatabase/turso"
+        },
+        {
+          "title": "[Python] ZhuLinsen / daily_stock_analysis",
+          "source": "GitHub",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+        },
+        {
+          "title": "[Python] bytedance / deer-flow",
+          "source": "GitHub",
+          "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+          "title": "[Python] mukul975 / Anthropic-Cybersecurity-Skills",
+          "source": "GitHub",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+        },
+        {
+          "title": "[Editorial] Migration: a reality, not an emergency",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01240-7/fulltext?rss=yes"
+        },
+        {
+          "title": "[Comment] Announcing the Lancet Commission on schizophrenia and psychotic disorders",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00916-5/fulltext?rss=yes"
+        },
+        {
+          "title": "年輕族群生病時，除了醫療費，還擔心什麼？一項最新研究揭示了你可能忽略的隱憂",
+          "source": "JAMA via 照護線上",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMlB5T1E1QVRhVlZNekp4YVJ4OFBLU0dwdmZHSTIxVm1rbXdybEcwVW9yTnNVdFBIRzhaa3ZkLVJXYVJtVFFCaW5EZkRPY1A2b2RiX1ltWGx1alRzNGhJWmVJWEpHQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "title": "新聞雷達 (2026-06-21)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-21-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "伊朗軍方再度宣布「關閉荷莫茲海峽」稱美以違反停火協議",
+          "source": "三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GT1pWazJkM1dTTm9UQVcxYjRIeHEwOXF2a1ZNY0RQdmNCSDRvQ2I3c1h0RS1uaXlRMUR6cHM3WFdOTUdVZTBDVS1FNXlXS1BOdFppVXBrajjSAV9BVV95cUxOi_COBE8NuZ_60r6pfZrp9DMbVU71JkSQGvaucujVuSTy36Wv4m_7tfpLN2TC0d0Mo2nVwNimsWHyvktIGlO2ZeM4?oc=5"
+        },
+        {
+          "title": "持刀砍汶汶遭送辦 凶嫌上車喊：汶汶逼我的、主辦單位會受良心譴責",
+          "source": "udn.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBacWVsdWxxNjdTa2lfb2diMlcxV1pVWHB1SUJEenJFNGN5ai05VUxwRERYWHZFMEtmeWdNYi1SZkVBMnRqMU40NVFPdDJtdUxS0gFWQVVfeXFMTXJKcmNqZFRXLXBxY1dpQlZUeGFhZHVuODdqLXY4VUI0TDVyeWUxZWNoU3ptRzlmSUxhQ2hWS2xoa1FfLU1CQ3ZQby1wZzU4eXo0Vm9udXc?oc=5"
+        },
+        {
+          "title": "家裡請的看護「竟是印尼大小姐」 他曝3細節！網點頭：這點很指標",
+          "source": "ettoday.net",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOWhRMDlYU1U5YV8wdnlVUTA5d2k1N3JrQ3NYaFhUWDVUY1NpbkFmUmowR2V0ZFM4TC1xZE01TWpqeXBDa0NZeWVwT1dnX2stXzlJRzBFUzRJZDY1RnfSAWhBVV95cUxNLXk4cUppX2drcFp0MmZmM01nVjJZRTJkeW4tYXVFU3BiUzdFNnJOWUVhYUl3d3pXeU5WbUI4QnJBSnUzU2N2Vk1QX2w0R0t2X090U0JZMlJxdmNIUHN0dXR1SFJXRnF5Rw?oc=5"
+        },
+        {
+          "title": "AI 讓專家越來越笨？Nature 最新研究：醫師偵錯率掉 6%、工程師測驗少 17 分",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeG9xa1ZZN2EtVE4tWDZmVTJkTzRtRTAxRmhCX2owS3V5YkctXzZUSEZwaEtzRC00MTNFdE1XeWNJRWUycTFDSWVBY1hRUmRvZTgwWTdTOGhLaEVOeWNDLXk5MlRQb1V5RldoNEVjeFJBdEJYbUVzMVJteTczdTVOVGxYOXBnamNHelk5MklJNDFReUJjajNkUG1WUDFLTGduaGxmcA?oc=5"
+        },
+        {
+          "title": "AI丨OpenAI傳快公布最新模型GPT-5.6",
+          "source": "信報網站",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdTlkcms2RVJtS0pRMTg2RG1iZEozeGhpRjM1QXhGWVV5dDZ5MUxfWHNjdXNTeEp2VnVYN1NuQlN6MGs1Q2hFTEVLZzJkQ3hWREViT19kWF9Zb2s4cjJvRGlqYXdoQWZRM0F6aDZYVE05N1B0MjFSX21lV3JPWXdmUVpLQTZLZWRQUHl3T0R6RjFSM0Y1RHY2dUl5UE9pRmtSNmp6d1h0cWF5SlRtbE1wc29kMl84ZEVQZjNrXzdCNDctMEs0ZnhLZmFvQ09LZjl4S245WnhDbW9va240ZW5R?oc=5"
+        },
+        {
+          "title": "無視中美科技角力？微軟轉售OpenAI模型在陸大賺AI財 他砸10億美元成最大金主",
+          "source": "udn科技玩家",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhNy1fMFN0eGk3Y2szODdiSjBOcGViV2FMYmRidXI1RmRhWTNfQ1BnV0xVUXFDR3JWQ3Q3cWhSNFVVUmZWcEFLdUNGODg3cXl3d1lTTm91Q3B6d9IBX0FVX3lxTE5yQi0zU3ZlbzZuT29lNTh4dDY1eWhadExXNnVzYkxtbGZzNDgtN25HUHpON0Z1QWYtejVtZlF2b3pUS1FDRGhIRklyYUhrNUxkR0MxZHFJWGE3VmNKWUhv?oc=5"
+        },
+        {
+          "title": "OpenAI Codex 推出 Record and Replay：做一次給 AI 看，自動學會你的工作流程",
+          "source": "電腦王阿達",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHVzBCdzZyVl90X0dvc3c1ZTdiUDRmdGU5d0hMMUtlbUdNZF80bThoWlZFQ2c0Q01XMHlEZUdOeEhzcjFqQVNDbnZnRVVrRUk?oc=5"
+        },
+        {
+          "title": "Anthropic與白宮爭議降溫？川普讚：負責",
+          "source": "PChome Online 股市",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGc0RmQyLUQzaDd1dXh0TUU0czBnS09pUkw3b19Md1dTcGN5dGRTSmtHLVk1ZUU0TEhmcV9tcm11aDdrY1AyQU5wUlRockZ3aV9tZ2M5Sk1Ic1lUX05DMmJZSW05eUpkMUNXMWlNaEpXeFhXbV84OHpfUXZES3VCNA?oc=5"
+        },
+        {
+          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+        },
+        {
+          "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/"
+        },
+        {
+          "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/"
+        },
+        {
+          "title": "Founders Fund’s outlier bet on humanely killed fish",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+        },
+        {
+          "title": "palmier-io / palmier-pro",
+          "source": "GitHub",
+          "url": "https://github.com/palmier-io/palmier-pro"
+        },
+        {
+          "title": "penpot / penpot",
+          "source": "GitHub",
+          "url": "https://github.com/penpot/penpot"
+        },
+        {
+          "title": "twentyhq / twenty",
+          "source": "GitHub",
+          "url": "https://github.com/twentyhq/twenty"
+        },
+        {
+          "title": "jamiepine / voicebox",
+          "source": "GitHub",
+          "url": "https://github.com/jamiepine/voicebox"
+        },
+        {
+          "title": "Stemness as the Engine of Checkpoint Durability",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMcibr2601002?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Moving beyond R-CHOP in large B-cell lymphoma",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01069-X/fulltext?rss=yes"
+        },
+        {
+          "title": "CAR T cells take on precancers",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04473-9"
+        },
+        {
+          "title": "Medical innovation in LMICs: can India lead the way?",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04499-z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "title": "新聞雷達 (2026-06-20)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-20-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "黃金又出事了！瑞士1聲明 金價狂瀉逾2％",
+          "source": "自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MenF2REl6Yk9nNm0zMmJjZG01Nm9jMlg4UE1qLU1JTHdPNHkzX0RYSVprQmtVdTdDamlPcjUxX3NkZUVTUzJHZkNFOGlfaHp6T3Ftc3d4ak5DVU5mQkNj0gFkQVVfeXFMUDlRTnprQ3J1M1IyekVJZ21nbnVYblZiYkt0V3NVM0NNYW9GNGlEcjR6eXczaWlOYjBUaGV2U1gyY0JsSHhkUDlXaVhUUXZQR3FmTkZIaEdPd0ZjRzVwR2E2elVkRA?oc=5"
+        },
+        {
+          "title": "梁文傑稱鳳梨釋迦仰中共鼻息 事隔一天要選台東縣長的陳瑩發聲了",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSzI2Rk8yb0ZVY3NvYWMyejBxSjBZcnRycjhSNXZRWFlkQTlrRmRvUmFlQmhnc0hmaWFSUXJLajBQZXRGTmVnM3YxUk1TeWZoYS130gFYQVVfeXFMTWM3UHh1c2N0V0pwWlozaHNwMU1TcV9RcnB5ZThnNmdqS1Qxc0duTlptbjJkcGo0Wkw0ZjNPX2tyWGNNVDZ3ZHY5czFYekhYb2dDUU80NEtSNg?oc=5"
+        },
+        {
+          "title": "超商賣350元戰鬥陀螺 主管「開票式開箱」5萬人看傻：這才是民主",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iQmhHSk8xS1poMWh1RHEwdGNnR1cxekNYQWRSWFFRYUNWNjVILTVmWFFvZkRremVwYTJ3TUs3Y2ZOakRjR0c0RkFUc0g2NG55ZjNvUGk2RlRIbUdKd3fSAWhBVV95cUxQY3RYTzV4bXNlRjFVb3RWQ1pqQ3FfeE1YZ2dDNGRtUkVZUzY4OUEyVFpscWNBQjlBbGY2Q3VBcjZnQUVHNGJJWXkzRWR4cmV3a3hLYVFwbk9BZzJOd0Z5S1BYa1hBd3VRaQ?oc=5"
+        },
+        {
+          "title": "快訊／高雄街頭驚傳當街砍人！一男子背部受傷送醫搶救 嫌犯逃逸",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NWjNVYmFNRGJIRjlOa0liNVhrVXY1TjVyUUt4dEJzVi1LNERydFlTSEFNTDl2NHF2RkV0eUFLM0lLOTU2SFh5aDhZLTZnUWQ4U0ExTWdBdGVfT0ZadnfSAWhBVV95cUxOLWlaUE1jLUxfUWJYemlpcVpva014TDN0dTlFVTJZcEs0QzhEcndyZ3pBZnBRODJMd3dkVnlaaXJ3VnYxZGNBUURpOElxSl92UkpLeVpYaThzRFZ2NHZyd2dNay1icVVpMA?oc=5"
+        },
+        {
+          "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+        },
+        {
+          "title": "提示詞越改越爛？Anthropic工程師：問題不在模型，4步驟救回失準AI系統",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQT3VZang0dlNGT1BnOElkTW4tLVlYemRrbno5ck9ROHI2bk8tTWU5VkNCTTBqaTdOdlZ4VV9QRjQ4Zl9wdVREd01KTHdaSmVYa2VmZm9RU2x3STNmWEFmbnBxX2hHUWVkRGxpaHhmYkRlZ1pYTHU5TE5Jd1pNcTBkOVdIdlIzYzV6eGVwTTBMZHpJVkRJVE1TV3U5X1VEUHMwYmtfNF9wSjNZZUhLdElJUnpzLS1EdEJYRmVBdDQ2aklVcXdFT0RrUjZHMl9FZVdYdVRFYUJZTV8xbHJmVk5FU0lONGlHaV9MTHZOM24xLXo5R216UENUXzZ6dEtrQVpyd0NTV3lUaENRTHc0X3E2ZFU0ZEhrVGtGQWZMb2s5dE1lLV94SUFRNGNpRGJhNFVMa2ZzamIwbnVDUDRnTDB5Y2RCQUJsLW53OXBaUlBXUWlHWF9STmdXYm01VEJ0UEZWcXIzSTJQV3o2MkppbGRqbktwVGFyY1hPRnY4ZGJnUHo1Qko5cXg0OQ?oc=5"
+        },
+        {
+          "title": "微軟攜手泰國 AI 協會 強化當地 AI 工程人才發展",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSy1BNmNYTUpGMXFMNFptb242RmFLdElZUU5Sc3JnVUhhVzVGMUZsQTh2T2lDa1ExdjVFYVNBWEd2QTllMW02d1l3MmI1ay1sSllTdmNhMUlkcE9sWE5qbU5RWndXMUpEQ184dkFDQ3BuelhvTGN0Q2JYNk53WUZQbWQ2SXV2YVV4eEM0Z3U4UTZLN2hac3ZodUJFWFBvd3Nyd0g4emJmaUZVLXktamtfS1ZHREhteWJLSHY3UzYwakxvMThyV2ZlZlhMd0thSkd5bkFtNkMyTzhNa2tUaUVCaVpoaUhFX1RCUGpZMHJTdl9vdDI5Ymc?oc=5"
+        },
+        {
+          "title": "【AI證照】Microsoft AI-900停辦倒數！不到一個月該衝刺考照或準備AI-901？",
+          "source": "104職場力",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ERU1IaWN4Mno4b0ZYOTdvZWFrc0xYTGQwdS1ZTzRmdjV0UjZvRHlxLUFhOWRJWFlTZExwWFpJcGxnZmlYSURab1U3eDVmNnhqNG5xXzhMbnc?oc=5"
+        },
+        {
+          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/"
+        },
+        {
+          "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
+        },
+        {
+          "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
+        },
+        {
+          "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+        },
+        {
+          "title": "Every fusion startup that has raised over $100M",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
+        },
+        {
+          "title": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/solomaxxing/"
+        },
+        {
+          "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2606.19464"
+        },
+        {
+          "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2606.19501"
+        },
+        {
+          "title": "koala73 / worldmonitor",
+          "source": "GitHub",
+          "url": "https://github.com/koala73/worldmonitor"
+        },
+        {
+          "title": "正向情緒療法：更有效緩解憂鬱，找回缺失的快樂",
+          "source": "TiBIA 台灣生醫創新學會",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnY2M3NTVmckx3ZncwLUNMZzRlcUU4bmdQVGFTdXNKMmE4WEhMRk1SZFJ5dWFRdzZGSnFFTV9TX01GZTF4dU8xUXlkanpmQ0hNTFhCaVZGd3N5RDBJT3VkRFBRcHE5aFZVUFE?oc=5"
+        },
+        {
+          "title": "APOEε4關鍵基因加速認知退化國衛院首以台灣族群證實",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQ1hYUWF5cGVrM3hsYXBWVGxtQmNEMFpMRXN0YnFnOXNaTjRLZElVNElra0dvUklBSGRmQkg4VGplYURpRS1lY0ZLVXhKZ3FsaG9ZamluVXBGVzZWbFRj?oc=5"
+        },
+        {
+          "title": "Prehospital Whole Blood in Traumatic Hemorrhage — A Randomized Controlled Trial",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2516043?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Treatment potential of oral small-molecule GLP-1 receptor agonists",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01135-9/fulltext?rss=yes"
+        },
+        {
+          "title": "Why large-scale randomized trials of live-attenuated shingles vaccination for dementia prevention are urgently needed",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04474-8"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "title": "新聞雷達 (2026-06-19)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-19-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普簽了、伊朗也認了！美伊初和平協議正式完成簽署",
+          "source": "Google 新聞/UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrT1BmUTRyaTZBeXEzOWpYYUg5eVlBWVlzMDQ5dEhLR1J6NWhscVV0aHg0ZkRtdUNwblRhdHlYNkdtaUJYNVc1NER2X3pxQlZuMEUw0gFYQVVfeXFMTjhOMlAzNVhBbFo3WUYyZjlrUmI4Wm5wbDNfSGhPbGMxNmYybm5EXzhRVzkwREM5Yk83U211UWtsUWFxZEwxbl90SHFGa1hyNzhsQXNxMHV2YQ?oc=5"
+        },
+        {
+          "title": "震撼影片曝！莫斯科最大煉油廠遇襲 澤倫斯基：你們將陷一片火海",
+          "source": "Google 新聞/自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WQ1k5NlFJa2F6bDRqdnBHQ0NMeVZEaHR6R1FqcVZIMWdiSVo5OEc0RDdfT0hTNXNQdTNVYXdLZU44NUM3SXhJeVlwX2dCNlVONXI0c251WXRtMmViTXliVGU4WGstZ9IBa0FVX3lxTE55VjVVYWNOZkVvc0FJVkJuSEFpOFE0ZktUTl8xQWxJbFFlcVZ1YU9uYmNxejFZYzRKNmt2YVB0eTZEX283TzNlMWFrUHA3SmdpdmJOa2VFSHVWdW9YVXdTNVJzbDVaZkVCR1FZ?oc=5"
+        },
+        {
+          "title": "10.38億威力彩頭獎開出！幸運兒一人獨得",
+          "source": "Google 新聞/Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNenBXbVFneUFCc1FqOHhDVHlHdVdVeXQtQlprc0VGWTQ5MWFIbVdaZEkxbjd6RHFvXzVjUlQ0anZZcGl4ZlNaZDNIekJodVlEaXFuVi1Id2xpTy1wc1k1cHRwMEJzc3BLdFhxd3A3MFFUdEZzVGJ1N1J0Z3lQanQwM0YwTjQ0bXNDenFQYVlxVnUyVVo4Mm9RT3p4YUoyTVFNOXBZOTFaMHU1ZGg2TVNuQW5oTlpITlZSbjYxOHJ0Q1ZtV1AxMDlwVTB2bzNDblRoTjM0dm5vU202aU9BSzNDZ2pNdElCT0pHb3dzbzN3dER4NlduandHdjNTN2QwYll4RTJkWEJVb19RTFhqTlZTNmV0Mnc5Rzdza0ZUelZyQnN3Ny1XYUIyOG1aY2NqZzJfU2NqbFZPTDFWNVpaWWdNTFFsbVRtYUdOaGVjbzRtOXhWUjZZcjdGWXNZcG5nVlZCclNlcG1kT2V4WUNzVVA1NTZ1elE0eGVFdnNiaUJ3?oc=5"
+        },
+        {
+          "title": "震撼業界！Gemini 共同負責人 Noam Shazeer 加入 OpenAI",
+          "source": "OpenAI News/TechNews",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3ZuOGo4X1U5ci1MTkJEMWo5bUdZT0wyWkwtVDhHa2tTNUdnRGtrTHkyY0tLMzdTTElYNVlNdEdDYkQtZ2NncUhaR3EwdTJGaS1SamZfS0hoQms4c3NGR3NuZERyZlozMXZmdXdqYXRPcmdXNXc5cG1OOVFGZUl0SElrSENLenNTSUhjYw?oc=5"
+        },
+        {
+          "title": "不能只懂寫 Code！Anthropic 揭 Vibe coding 真相",
+          "source": "Anthropic News/數位時代",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ReVpvRXJIY3QzS2MxbzJQMUY5amJ4cXQ2UENBSmVId2hlaENuZkkwUUhOczlPQW1iVUF2Wm5wczVYQWlDeEx0SmU2Qkswb0VpQXktX1MwamhGWmZRR3B2cHEtU2o4Q3NkMDF5MlRRSlJuWTQ?oc=5"
+        },
+        {
+          "title": "微軟發佈最新《工作趨勢指數》報告揭示「AI 前瞻企業」興起",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOUTJBY0QyM3pweC1HV19NMDRJNTI0Q24wZWpqamMtaDJkM2c4UDdvVjltXzdjZXNOMWdNM1F0c1BIWnBOamJjNUhQVTlWV2NxXzlQNDdHVXpRYXQ2dXdDbUROMGtfV1Ata3VhZ2hGTl9hN1lwN3F2eUxHb1dtYVA1ZVdxTDhwemRXQTF4dFRYSi1QQjJZbU9idTAyZGdCaVNjWGRtZXBYZEQtQ2JVN2pHZTZaT01mV1VsSDJzUHZTU2VpM1cyNDJzaXFOVzVQaEZfdTF3MTRiOWVuLVpIUFVyaVVaZXJ6eXFlcnRFeF9KcUhDMTV3N3ZYLW9iRjdUQUhKRENyeC1tUjRvakNTLTQ0SmYyNTdFWnc1TU1XbC1ZVFNBc0VTZllHZU5haFZaMUk1eWhyOUJGTlNsc0JrUFZzcEYzOUxSMTQtMm9TdmRxNA?oc=5"
+        },
+        {
+          "title": "驚！一萬個 GitHub 專案被偷塞木馬病毒",
+          "source": "Hacker News",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/"
+        },
+        {
+          "title": "CEO-Bench：AI 代理真的能放長線釣大魚嗎？",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2606.18543"
+        },
+        {
+          "title": "Kilo-Org / kilocode",
+          "source": "GitHub",
+          "url": "https://github.com/Kilo-Org/kilocode"
+        },
+        {
+          "title": "google-research / timesfm",
+          "source": "GitHub",
+          "url": "https://github.com/google-research/timesfm"
+        },
+        {
+          "title": "通用大型語言模型在醫療跑分上輾壓專業臨床 AI",
+          "source": "UpToDate / Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5"
+        },
+        {
+          "title": "JAMA 警示：美國醫學期刊研究顯示 AI 早期診斷錯誤率高得嚇人",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55TVRBTjVKQ3gwcTB2YTg1LTFlSnB2cEh6Z0ZDTGRLa1drSGZjNnRjaW5DWmJrdXV4V1hvanAxRUpZaHE0cWhBcnluTDgzdw?oc=5"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "title": "新聞雷達 (2026-06-18)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-18-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普簽了、伊朗也認了！美伊初和平協議正式完成簽署",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrT1BmUTRyaTZBeXEzOWpYYUg5eVlBWVlzMDQ5dEhLR1J6NWhscVV0aHg0ZkRtdUNwblRhdHlYNkdtaUJYNVc1NER2X3pxQlZuMEUw0gFYQVVfeXFMTjhOMlAzNVhBbFo3WUYyZjlrUmI4Wm5wbDNfSGhPbGMxNmYybm5EXzhRVzkwREM5Yk83U211UWtsUWFxZEwxbl90SHFGa1hyNzhsQXNxMHV2YQ?oc=5"
+        },
+        {
+          "title": "快訊／國家警報響了！北北基大雷雨狂炸",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbHpka2Z1STBnR0pNT3Q0bEdOT3RBOTJqSlRFSkxlUW96eVlZaHNkeTRYaWp3OVFMcmpoaURaUnI0M0E4eTZEdDhwdjQxLUhiZkpQOA?oc=5"
+        },
+        {
+          "title": "震撼業界！Gemini 共同負責人 Noam Shazeer 加入 OpenAI",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3ZuOGo4X1U5ci1MTkJEMWo5bUdZT0wyWkwtVDhHa2tTNUdnRGtrTHkyY0tLMzdTTElYNVlNdEdDYkQtZ2NncUhaR3EwdTJGaS1SamZfS0hoQms4c3NGR3NuZERyZlozMXZmdXdqYXRPcmdXNXc5cG1OOVFGZUl0SElrSENLenNTSUhjYw?oc=5"
+        },
+        {
+          "title": "AI漏洞自動開採釀國安疑慮 美國禁用Anthropic Fable 5",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQVXRIRHM3ZVo4ckYzS3g5a0hTOVREcHFWUXNXNm0teVJWSHZrLUdlZUs3cm1SQzdlQmV6MUVEbF9TUVg0dlNaOUVYSHNQdmdBSXJXaVRTa1BkRE1zbmZVcDlfUUZrT05vVHkwY3hHQjZwdl9pUl9DTWwzbUJzRE9YanVwQk9PUlV2YUpKaFJSZnNtd3U0NVcwMTdtZy1vNzRpTWpLeDdaLXZ1bklpYmdiMDZqa0ZJcl84SHFWMjFCa3hoZGY4b0J4MW44UEpGMFBxWk01VGdoLXJ3NVdJVG1FcVhyTnlPV2s4MlpHX3FTQkg3SjZKS2dFemkxSVVvZTlJTzBONDhvMWI4WE5hRWJzdVd4UzBNMTBMS2haSEl6cmJCaG1IOXRybThR?oc=5"
+        },
+        {
+          "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
+        },
+        {
+          "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/"
+        },
+        {
+          "title": "Panniantong / Agent-Reach",
+          "source": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach"
+        },
+        {
+          "title": "DeusData / codebase-memory-mcp",
+          "source": "GitHub",
+          "url": "https://github.com/DeusData/codebase-memory-mcp"
+        },
+        {
+          "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
+          "source": "Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5"
+        },
+        {
+          "title": "從治療到陪伴臺大醫院以醫病共享決策打造安寧共同照護模式研究成果刊登國際頂級期刊JAMA Network Open",
+          "source": "JAMA / ntu.edu.tw",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mR2lhWHVTd2tnMklrdVlrVlljZXk5ZDRVT29hZlVBSHh4XzhvOVFFTmRRNUxuTUhya2lhMFFoOGV2aFVUTE5EYWMwd0d6dWJpcnkzUm9BVjRhellCdTloeVpESXhnZVk?oc=5"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "title": "新聞雷達 (2026-06-17)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-17-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美砸3000億幫伊朗重建？知情人士爆「背後金主」",
+          "source": "Google 新聞/ETtoday",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBla09YNEladGZ6MUdBczVuQ0hnNU1vYXlCMzIyT1BJM1JuenVhc2kyRU0tSDY4YmZSNVZoMHRfWlduRlFkMEZFb3Zaa0sxcW1UR1NTZDh6TWlLYXRNdFHSAWhBVV95cUxQZl9BNWVtSjBSbGtCaXBNYkQwSDhudWhCTGpnUFFsWU05bW44aGpBZDJMcGlSemlnVlpTeWpjUWIwRTVsbkYyVWpoMndtck1HeWZQOW4yOHJhandsLVZ3YUY1cDV1elRacQ?oc=5"
+        },
+        {
+          "title": "高雄越域引水 南部第二大水庫蓄水率突破85.66％",
+          "source": "Google 新聞/自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaUnBPRk1NMEFjMUNFN1RhSDNJeDV5bG94Tzl0cFVTNzBoT0NuOHVFWXl4Nks1eHppd0I3bEJFeUlwZjBabmZwaWVyRlZuNEFIc3RwUFk3TDRVVjh4Z3hiUWxpWHXSAWpBVV95cUxNWFpmTDEtYlZ6ZFNXX01jV2hqUDdIQ2d2QVcxRzZwb1BQVE1zU2JmQ1MyVzhPc3RHM0JrVENsR01LUzA1cnJqdVJfN1BrT0tvM05hdDJoekZUMURCaVM0U0dsSTQwREFiXzdB?oc=5"
+        },
+        {
+          "title": "OpenAI 神祕硬體要來了！前蘋果設計師操刀",
+          "source": "OpenAI News/T客邦",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3T05pSzZlOGRsR0FFMUlKLVdGTEtRcVVRcjhtc2ZZUWZKYUpSZEV0ZWx1TnRQVjVnVlNrWUg1U0Q4NUdYcV8zRWs0alJ0NEZpd2Z0N19hTHN0OGFaNTk1enAtZGVfMll4b3VOa0VvVm1XQlo0MGl3amtvTURHX3M?oc=5"
+        },
+        {
+          "title": "微軟發布7款AI模型，強化Microsoft Foundry模型陣容",
+          "source": "Microsoft AI News/iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkZm1MNVpHa2RtblNSRVJoY2J4ekZoYWhfMEZDRWQ4QTR5R2M3ai1nNkhwYjZ0OWlTUHpVYXU5czV0M1J3VHEyRWdMT21jZw?oc=5"
+        },
+        {
+          "title": "Anthropic新模型遭下架 加拿大、歐洲齊籲自主研發AI",
+          "source": "Anthropic News/DIGITIMES",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUk3eGJMRTdYSmNwOGluUkFkRDNXZGdWVElvRXRadHQ1V2tpZEZ3blgtdHVaLXFaajVmYjlaOXBoN29ITmhfUXAtMU9oODVISW0zZ0dCMWdZcGw0R3VsZndBNjBEWldDRXoxWUJadTBFRXpNM2RRbzRmT2ljTF9ZLXdmaVYtSnRVWnhYcUJB?oc=5"
+        },
+        {
+          "title": "SpaceX 估值飆升至 2.6 兆美元，短暫超越亞馬遜",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/"
+        },
+        {
+          "title": "Qualcomm 想要成為取代智慧型手機的終端晶片霸主",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
+        },
+        {
+          "title": "本地運行 AI 模型現在是個好選擇 (Running local models is good now)",
+          "source": "Hacker News",
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
+        },
+        {
+          "title": "freeCodeCamp 開源程式教學平台",
+          "source": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+        },
+        {
+          "title": "VoxCPM: 免 Tokenizer 的多語言語音生成模型",
+          "source": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM"
+        },
+        {
+          "title": "Universal Android Debloater (UAD) Next Gen",
+          "source": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+        },
+        {
+          "title": "通用大型語言模型在醫學基準測試中擊敗專業臨床 AI 工具",
+          "source": "UpToDate/Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5"
+        },
+        {
+          "title": "夜晚暴露強光下心衰竭風險增逾5成",
+          "source": "JAMA/健康醫療網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZX3drRzB6bjI4bzkwTzMwazVDelFWNVQwNmZILS1SbXBOdXh0c0dTQW90aTNlN3JsRVlGa2JPdVl2Rzc2VERidnFLYmx0SkxGVWtGUndn?oc=5"
+        },
+        {
+          "title": "Finerenone：超越第二型糖尿病的腎臟保護作用",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01091-3/fulltext?rss=yes"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "title": "新聞雷達 (2026-06-16)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-16-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美伊和談14點備忘錄草案曝光",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sME94b0hZaUJFLWcyR1hLOWZSZ3JkaDRDMHBJRDZDT05XVy16dW5tUU9jeWJlWTZydWl0ZU9hX2d6NVpEQ0NxTXd3UjNOeW9iTGZR0gFYQVVfeXFMTkFadWlQREVxYW43N2t4UVNUR1NiVUhVbkhOWlV4UkZfRHFEMDU1MDhlYWNJSllWVGprb0JKakg2SzFTMGNTa1Zwa2NXLU1Kd0hIb1pZYnZPUQ?oc=5"
+        },
+        {
+          "title": "梅雨還沒完！新颱風恐生成最新路徑「大迴轉」",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kYk1HdE1nV2QyMi1GUEp0a2c5VXREVFduYjZqanA2R0JSR0lrVXN2UjctbEVBRFJCR3dyT3pRMHBWSC1mcVg4MXNZVldXUQ?oc=5"
+        },
+        {
+          "title": "美國政府管制Anthropic最強模型",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zOG5xY2pCd1l3N1IxVkJDRDhmUVE1b0F6VjVaMFNTeFRzdXQwbnpoU1IwbkNZOENkUWg2b0JoamNPWUdpV3Aw0gFMQVVfeXFMTVNORjYta3g2NEZqTGZ3bmdOZ3lUMndlWTBUQnh1OFowN1VWdWRqdTd1bS1VVDZKNk9tR21PN3N2RjVNZlV6TmplZ3B3SA?oc=5"
+        },
+        {
+          "title": "ChatGPT安全惹議 美國多州檢察長傳對OpenAI展開調查",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1FIOEdKMjFjaXk2bFVMVm12STBOOHkzUU1mWkZENHJ1NTZhWFNCYnljSGNkamhTU01sMWhaM0dSWmgxS2JxNzZhWGEzMFk5MlVXZEMySVpnMXRTRXQ3SWItS3RWWHpZUnNuZEhXT0JleGp3ZjBFUEVCU2ZXanR1dTVXU2ZyX0ZYVERqQzllUkFaaHFCNkJn?oc=5"
+        },
+        {
+          "title": "微軟 CEO 主張打造「前沿生態系」而非最強模型",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS24tNnVGdnRnSExsS2xLS1VxNE51eEMwTHVma25SUWRNdkZPbW9EbXVpLVpaQVlCZTd2alVxYmlvN3hvYk1CR2tEb1EtcWx0SWx4RVJuMXNXcl9aa0NManlpY0NESWdwS2oweDJ4QmNZSTBhQnZPQ3ZybGFsek5PUUY5M2ZfZ2hQV3Uw?oc=5"
+        },
+        {
+          "title": "Sundar Pichai 在史丹佛畢業典禮遭學生噓爆並集體離席",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/"
+        },
+        {
+          "title": "三元進化讓 AI 成為更好的「深度研究員」",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2606.13710"
+        },
+        {
+          "title": "Agent-Reach：給 AI 裝上能看透全網的眼睛",
+          "source": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach"
+        },
+        {
+          "title": "CUA：控制電腦的 AI 基礎設施開源",
+          "source": "GitHub",
+          "url": "https://github.com/trycua/cua"
+        },
+        {
+          "title": "失智症並非老年病：記憶變差前20年大腦已開始病變",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WSzRNXzdtMVBLTy1XODl4S3YtX0RBTi1RN2RRTVY3ZjluOEpYUTduUHBGNDduSTd5V3dZLWFCWjdkSXhBaG1qMDlQODRmN0RRQUpyVnIxaks5dk9IX0htQmxCOXB4bDZuUnfSAWpBVV95cUxPVks0TV83bTFQS08tVzg5eEt2LV9EQU4tUTdkUU1WN2Y5bjhKWFE3blBwRjQ3bkk3eVd3WS1hQlo3ZEl4QWhtajA5UDg0ZjdEUUFKclZyMWpLOXZPSF9IbUJsQjlweGw2blJ3?oc=5"
+        },
+        {
+          "title": "夜晚暴露強光下不只干擾睡眠！心衰竭風險增逾5成",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZX3drRzB6bjI4bzkwTzMwazVDelFWNVQwNmZILS1SbXBOdXh0c0dTQW90aTNlN3JsRVlGa2JPdVl2Rzc2VERidnFLYmx0SkxGVWtGUndn?oc=5"
+        },
+        {
+          "title": "通用大型語言模型在醫療基準測試中擊敗特化臨床 AI 工具",
+          "source": "UpToDate",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "title": "新聞雷達 (2026-06-15)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-15-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普搶宣布中東終戰協議 伊朗踩煞車生變",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94VjNFa3FYenJtdG1HNU5taDN1TnF1OXBfaFNIb2dkUTE0T2NkVl9EVHRmb2p5bHptVk9wajMzdGE5SnViTzBZbjR6bTBVMjVqdjhvWV83YThmRTg?oc=5"
+        },
+        {
+          "title": "9縣市豪大雨特報！端午連假慎防劇烈天氣",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOOUFOY2E0YS1aemVWTWRJWWV5MXRBcHZnZ2Ixc1BQbDYwd0JOZ3I2bjlnOFJCcGJ5LTUzXzRQVVRmTTZ3VGp5U2ZGdzFhMlRZdmlhWFVJbXhrTjZwb2ljNG1jRHk4UFpaRFBERkVaMjJHYlR4YnM0Znk1dWVGTjBXVVZKb0JNLXJTR1JfZWtiYVNiNkV0Q0FmMTZGSFJPU1A2NVp4TldLcGNJTlFORnhKaEtHUW9Eb2RPaGRfMlZaY3NPUzdtM3VCTjJ5OGFKOGl2Mm1iRF9sVjBHZFRWejJsR183ZGRtc2tWOWJZeG1DYW40bHU0cHJUcEltd3FISWRxVUlJTk9reWgzbkRuck9lSHVPUTVtb1hMNTVhQ1RmamZQTDZ0NE11eTdEVmRCUGkwdnNNWDhQQUo0M1pzUlA2UFM0amJnd0NjWUJSM2FpU1prWnVwQzlOeUZFOW96VV91WFJEQk5KQ1JXeTc2c0RoSVNKcE9NX2dhOWhTTzlIdGZ5cE9SZ0ltZXNNVG85QV9idEE?oc=5"
+        },
+        {
+          "title": "監委提名衝擊2026選情？藍綠攻防戰開打",
+          "source": "風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTeUJvbzh4TGhkVnBiMzkwWUtERE9fVUZqSXZFTEZCbHFEa2NlN1ZfLXE3RU5VLUdKM2czc1Jrc3dWNlV2VURZSk5GM2tiUQ?oc=5"
+        },
+        {
+          "title": "最強AI獨角獸上市前夕！ OpenAI申請IPO突遭調查",
+          "source": "東森電視",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYOVVYcnJ0bm5CTU5la01fVWFvekdWYzkwNVE1c2RPbktnQ2dyX1MwSWc2NlVTbkRYRW11ckpucnlTcVp1TFNicEp0SVh0a2pHaFdtSHFUVU5wZw?oc=5"
+        },
+        {
+          "title": "Anthropic 最強 AI 被美國限制出口！多國斷線",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQm1LZ2N5QThRcjIyWXBzbTRpWEJ2N3dYVzV5MFpscnlTTWc4TU94UkxEaWFqVjJ5RnR3SHNyUmdJMU81SkhsTEFpdlNQRmhuc0lQdkx6Rk83TWw0TDN5LXBPWkpVVEJwQkRELW9zblpmWTVCdkVaeFBDS2kzSlZYWW8tV295cXJKTUxJRjlfV2pjVU5meVNpV1VDY1VlMW1uTDY5Y2h5N3p3Z25oT1BnRw?oc=5"
+        },
+        {
+          "title": "微軟發表最新 Majorana 2 量子處理器",
+          "source": "Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmd1Slo5WnFKWlozSXVOLTdlaDlFMlN1VlZkcXFUeHBiQmJxR0lfd2V5dEh4SGY0TU9xMzhqNmMzREhwMG1WQVh3dk83VmdYMzl3dm1RU2dLZTlPanBVQ25xTlc5UnctMEZOTkNiNWx1bWxDR2lyeVdPb25KZDZGVDJKWWZLdjQ4WndiQVZPRFNhd1hNYUYydW9Jcw?oc=5"
+        },
+        {
+          "title": "英國擬立法禁止 16 歲以下兒童使用社群媒體",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/"
+        },
+        {
+          "title": "荷姆茲海峽封鎖百日，為何全球油價沒有飆漲？",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/"
+        },
+        {
+          "title": "100+ 知名網站開源複製大全",
+          "source": "GorvGoyl/Clone-Wars",
+          "url": "https://github.com/GorvGoyl/Clone-Wars"
+        },
+        {
+          "title": "NVIDIA AI 代理安全掃描器",
+          "source": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector"
+        },
+        {
+          "title": "通用型 LLM 在醫療基準測試中擊敗專業臨床 AI",
+          "source": "Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5"
+        },
+        {
+          "title": "早上「回籠覺」增加 30% 死亡風險",
+          "source": "singtao.ca",
+          "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNeGdaMzZYTHJKY3dOZEczYk50X3VyUUh6SGNZWHVYN0U5SHFTZmtwN1JyTzZ1d0R1LVlvZVpRNDNOWXBwOFZocG9nV3p3WE51OUVDNzlHTGxNSEtOZ3pMQTh0NndxTmJQQW1iaTRGanBxdHNBNkFoRWw5UEdiWVAwcUZuZDBlUkp0MzhaRFJ4OXdGQWRsbGdPVnVyWTlGUG5TaXJsQlR5bTQ4T3NrVi1mNXRUb0xMUUhZaGRZcXRpVDRoU2pmVGczT0ZiTS00SURONEFCYk1yTTVGbVV3cnNNUzNXNWotQW9qWEVMamk1NUtWQnotbFMxZXNpb1haeGdCSExMdG5uZGl5cllYVVkzbkRGVDhFZHBPb1VrV096cDJ0RmdwbUgzS1lYejdqMUFkb3pxRWdPbXpUbU1SYTljN0dTX0RqdXJySFdsblBFOW5yOFpLSm9VNUhYWHFMeXVtamRBeXdBTm5sR1NWSHhOWFZHVnlxYkRfSXpldDdwY3JuYUpkaDdWeVk5cmlWcXlsM3R5T1YtU3ZsSzFYVnU5dlpydkJsdVVDV3czZjZoWmZxWmVOeTBNbWdBQWNQZ3VFWGpob29oajJCc1B2QjNQOWt4RW5qdG44WklhTkp4QUc1cnduRTQ5TXFYbHlEVE1VVWUw0gGPAUFVX3lxTE1ZVzhuYnF4b3p6RTZOOWRvQ0hWelRoN1pNclNhN2haU1cybDNLTjZHLXJPeFB6eWxQT1hvc3p4VmZ1al92WnI2eF91dTZVWmdmaHBWZ3p3WUVYNm1xZXVEWXE5aXRYWlE0VWNuTHY2WkJvS3NzOHhwTXdTNXV3RmtSYkJ2UWlsbVk0SHkzU2tj?oc=5"
+        },
+        {
+          "title": "美國醫學期刊研究顯示 AI 早期診斷錯誤率逾 80%",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55TVRBTjVKQ3gwcTB2YTg1LTFlSnB2cEh6Z0ZDTGRLa1drSGZjNnRjaW5DWmJrdXV4V1hvanAxRUpZaHE0cWhBcnluTDgzdw?oc=5"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "title": "新聞雷達 (2026-06-14)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-14-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普搶宣布中東終戰協議伊朗踩煞車:不會在14日簽署",
+          "source": "Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94VjNFa3FYenJtdG1HNU5taDN1TnF1OXBfaFNIb2dkUTE0T2NkVl9EVHRmb2p5bHptVk9wajMzdGE5SnViTzBZbjR6bTBVMjVqdjhvWV83YThmRTg?oc=5"
+        },
+        {
+          "title": "高雄鋼鐵廠驚傳爆炸巨響！「兇手」找到了",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DU0dsSDA1d1NzSzBSUUo4TnUxUGJKbkZEV0d2X2trMmc3N05SY2FGcVEtOXZtSmlacE9GdERObVFiS1RkRlQxdEZzSThyX3JOUkE3LVJB?oc=5"
+        },
+        {
+          "title": "美下令外國人禁用！Anthropic 2款AI模型全球斷線",
+          "source": "自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84QUhQTEZDa3kyQnVCVHVfWUtmYUlEWlg1azNsNFlvbzBYVjBrVmJiS1ZkUThhcHZFTTVVOU9qaHUtZmVFYnFNeFp0R1lSOEoxM1FkNDNpY0FEVTJqeXh30gFkQVVfeXFMTVd6WGRRUFFaLUoyUndJNnJCakpEQzJIbHRUNlVWYlZHU0o5Y01xWkxpNDdxVTJZQVFyWklmemZ6REJONkJ5ekZ3NURyaU80ZlAtNXpLb2stZXpjUmR6bzBYSjVPLQ?oc=5"
+        },
+        {
+          "title": "微軟發布7款AI模型，強化Microsoft Foundry模型陣容",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkZm1MNVpHa2RtblNSRVJoY2J4ekZoYWhfMEZDRWQ4QTR5R2M3ai1nNkhwYjZ0OWlTUHpVYXU5czV0M1J3VHEyRWdMT21jZw?oc=5"
+        },
+        {
+          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+        },
+        {
+          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+        },
+        {
+          "title": "agent-skills：Production-grade engineering skills for AI coding agents",
+          "source": "GitHub",
+          "url": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+          "title": "LMCache：Supercharge Your LLM with the Fastest KV Cache Layer",
+          "source": "GitHub",
+          "url": "https://github.com/LMCache/LMCache"
+        },
+        {
+          "title": "夜晚暴露強光下不只干擾睡眠！研究揭：心衰竭風險增逾5成",
+          "source": "JAMA / 健康醫療網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZX3drRzB6bjI4bzkwTzMwazVDelFWNVQwNmZILS1SbXBOdXh0c0dTQW90aTNlN3JsRVlGa2JPdVl2Rzc2VERidnFLYmx0SkxGVWtGUndn?oc=5"
+        },
+        {
+          "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
+          "source": "Nature / UpToDate",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "title": "新聞雷達 (2026-06-13)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-13-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "明起新鋒面接棒「中南部雨最猛」 全台雨下4天",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFV_yqLO0kSmwuwtPTm9xmDepQ976fe97AhNMs7E2CHHVNV1BKXR4PzGO1KnZPFDVZP18Q2LoYrW66laMHERnEsa6--NuSA0gFoQVV_yqLNPa42PGRyqgMfKpxgdFZEHKtcmL6ImKJiD3CXLgakooivmmmQylN-ZgPpz7N-NsQMcS1QJLs0RdojXy5rf1XYsHs85chdfMZ0uB?oc=5"
+        },
+        {
+          "title": "川普稱美軍已完全勝利！伊朗「51軍事基地遭炸毀」",
+          "source": "三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiWEFV_yqLNcE5DJkMG8yMt4Wuceqi8qmJ0i_VbBC_t_d6t1bHaNveE-nPDYvNdnzvRLoLtb8V7_R0BQS8mrG-5yQZ6tIBX0FV_yqLOHVXyJtlpkBLpVR9eT1WpM1yNBCUPa-02c7M9k6MhiNz-lOjCzN9B0zlTsdsK-YYwqM0eHMphjQJsGHT8tuPoyRQE?oc=5"
+        },
+        {
+          "title": "礙於美政府國安顧慮！ Anthropic暫停最先進模型服務",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFV_yqLOyFcyleIgBKQKiNCdXqyr0U48q09ePyCEB1vKRPUQswsBVrfN8sOPthogptEI004LxBZtfmdk6?oc=5"
+        },
+        {
+          "title": "電腦關閉或斷網仍持續運作！OpenAI收購雲端平台Ona",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMizwNBVV_yqLOOwb2Iq_7a5WSziZIZg_OeEkLtVbXSsX49uyp6EcaK2JT2ORIrJdpSARYp1TP9qFUhcr7qFJwnk01AKOlPN2gUPmL3aBjbbR-1Pwzga2T6NArNC2hW2H9Awxm1lv0IpDVP2AOYVo5kqvx5QYfpSWlD1HKlkiRwK3HmtFQRWTBOksStKnKTOpmIckgtoWPI54A-7NjM7UjMKPVy7QEnul0LL6yElj09NdNHaS0YaydbGj5nzthfYXglX12NV4cvGcJRUOwd2IHgO_icOtE1zGvfiFy2i5CK3rdGEW1gzPZpdP4ZGhsJTB9ZqmJRwcNxCQo5HXTd4g56Vit-R332YGKV4OnaC96PWZ5hzhlfLl0o4VmFPzOmBVqN6AAHrnLUu4jJ6HP3WZvCrUb1Jvv1BEZafXNJrnL8qjK5Xwyc9QQ4zcng_aU_TCyuVa0OiyBfvtME1fqsMs?oc=5"
+        },
+        {
+          "title": "SpaceX IPO: Live updates on everything you need to know",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/"
+        },
+        {
+          "title": "Meta’s months-old AI unit is a soul-crushing gulag",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"
+        },
+        {
+          "title": "obra / superpowers",
+          "source": "GitHub",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "title": "LMCache / LMCache",
+          "source": "GitHub",
+          "url": "https://github.com/LMCache/LMCache"
+        },
+        {
+          "title": "美國醫學期刊研究顯示AI早期診斷錯誤率逾80%",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFV_yqLNyMTAN5JCx0q0va85-1eJpvpHzgFCldKkWkHfc6tcinCZbkuuxWXojp1EJYhq4qhArynL83w?oc=5"
+        },
+        {
+          "title": "腎結石與癌症有關？台灣研究揭示上泌尿道癌的隱藏風險",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV_yqLN02xWEvwE6qZbtyNGfVO46JfmU0sjowyLO3duLHVNtSsuH2FOIyyLXEYKngugXR09LNXfM2nCPe-8uxVAf5sPOa7vFAzuy8JXiWPPXbSDI9QA-7kn6R7equNFlpCdHE-dqMb1NBJi2cB_vsE61H93_2J5CFx9LwfRual2Zvk?oc=5"
+        }
+      ]
+    }
+  ],
+  "weekly": [
+    {
+      "date": "2026-06-28",
+      "week_str": "2026-W26",
+      "title": "新聞雷達週報 (2026-W26)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-28-W26-新聞雷達週報.md"
+    },
+    {
+      "date": "2026-06-21",
+      "week_str": "2026-W25",
+      "title": "新聞雷達週報 (2026-W25)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-21-W25-新聞雷達週報.md"
+    },
+    {
+      "date": "2026-06-14",
+      "week_str": "2026-W24",
+      "title": "新聞雷達週報 (2026-W24)",
+      "file_path": "News_Report/新聞雷達/2026/06/2026-06-14-W24-新聞雷達週報.md"
+    }
+  ]
+}
