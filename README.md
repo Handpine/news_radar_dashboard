@@ -85,4 +85,21 @@ npx serve .
 
 啟動後瀏覽 `http://localhost:8000` 或對應的 Port 即可。
 
-> 💡 **注意事項**：若在手機上測試發現 UI 未更新，是由於 Service Worker 與 GitHub CDN 快取所致。請直接清除瀏覽器快取，或將 PWA 應用重新啟動即可看到最新版本。
+## 💡 行動端 PWA 踩坑與優化紀錄 (PWA Gotchas & Optimizations)
+
+1. **iOS PWA (Home Screen) 虛擬鍵盤無法喚起 (Suppression Bug)**
+   * **問題**：在 iOS 獨立應用模式下，固定定位 (`position: fixed`) 容器內部的 `<textarea>` 或 `<input>` 點選後僅有游標閃爍，無法喚起虛擬鍵盤。
+   * **成因**：
+     * 字型小於 `16px` 會觸發 WebKit Viewport 自動放大，導致固定定位元素座標偏移而失去焦點。
+     * 設定 `body { overflow: hidden }` 鎖定背景滾動，會阻礙 WebKit 移動視窗定位輸入框的行為，從而壓制鍵盤。
+     * 父級容器的觸控監聽器（如 `touchstart`/`touchmove` 側滑關閉手勢）未隔離，導致 WebKit 誤判定為非直接使用者互動。
+   * **解決方案**：
+     * 將輸入框字型強制改為 `16px` 並啟用 `-webkit-user-select: text`。
+     * 移除 Drawer 開啟時對 Body 設置 `overflow: hidden` 的邏輯。
+     * 在輸入框的觸控事件上呼叫 `e.stopPropagation()`，並在 `touchend`/`click` 時手動檢查並執行 `input.focus()` 以啟動原生聚焦鏈。
+
+2. **Service Worker 離線快取更新延遲 (PWA Update Lag)**
+   * **問題**：由於 `index.html` 被列為靜態資源快取優先（Cache-First），即使 Git 倉庫代碼更新並推送，手機 PWA 在開啟時仍會使用舊版快取。
+   * **解決方案**：
+     * 每次更新靜態資產時手動在 `sw.js` 中升級快取版本名稱（如由 `news-radar-v1` 升至 `news-radar-v2`）。
+     * 在 `index.html` 中實作自動監聽 `controllerchange` 機制，一旦背景偵測並安裝完新 Service Worker，會自動觸發頁面刷新 (`window.location.reload()`)，確保使用者無感獲取最新修復。
