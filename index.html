@@ -794,7 +794,7 @@
 
   <!-- Toast Notifier -->
   <div class="toast" id="toast-el">
-    <span id="toast-icon">✨</span>
+    <span id="toast-icon" style="display: flex; align-items: center;"></span>
     <span id="toast-text">新聞已更新！</span>
   </div>
 
@@ -824,15 +824,16 @@
     </div>
     
     <div class="header-actions">
-      <!-- Mailbox Refresh Button -->
+      <!-- Wind Vane Refresh Button -->
       <button class="icon-btn" id="refresh-btn" title="整理/拉取最新報告">
         <svg id="refresh-icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <!-- Official Lucide Mailbox with post and flag -->
-          <path d="M22 17a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9.5C2 8.5 3 8 4 8h16c1 0 2 .5 2 1.5V17z" />
-          <path d="M2 9.5C2 7.5 4.5 6 7 6h10c2.5 0 5 1.5 5 3.5" />
-          <path d="M12 13v8" />
-          <path d="M18 10v-4" />
-          <path d="M18 6h3" />
+          <!-- Premium Compass / Wind Vane Vector -->
+          <line x1="12" y1="12" x2="12" y2="21" />
+          <circle cx="12" cy="12" r="2.5" fill="currentColor" />
+          <path d="M12 12L19 5" />
+          <polygon points="19 5 14 5 19 10" fill="currentColor" />
+          <path d="M12 12L7 17" />
+          <line x1="5" y1="15" x2="9" y2="19" />
         </svg>
       </button>
       
@@ -1151,9 +1152,14 @@
     }
 
     // Toast Alert
-    function showToast(text, iconHtml = "✨") {
+    function showToast(text, iconHtml = null) {
       const el = document.getElementById('toast-el');
-      document.getElementById('toast-icon').innerHTML = iconHtml;
+      const defaultIcon = `
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="var(--accent)" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2L15 9l7 3-7 3-3 7-3-7-7-3 7-3z" />
+        </svg>
+      `;
+      document.getElementById('toast-icon').innerHTML = iconHtml || defaultIcon;
       document.getElementById('toast-text').innerText = text;
       el.classList.add('active');
       setTimeout(() => el.classList.remove('active'), 2500);
@@ -1781,7 +1787,12 @@
       refreshBtn.addEventListener('click', async () => {
         refreshBtn.disabled = true;
         refreshIcon.classList.add('spinner');
-        showToast("正在拉取最新新聞數據...", "📬");
+        showToast("正在拉取最新新聞數據...", `
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="spinner">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M12 2a10 10 0 0 1 10 10"></path>
+          </svg>
+        `);
         
         const success = await loadRadarData(true);
         
@@ -1792,9 +1803,19 @@
           if (success) {
             renderDashboard();
             renderHistory();
-            showToast("數據更新成功！", "📬");
+            showToast("數據更新成功！", `
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="var(--accent)" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 2L15 9l7 3-7 3-3 7-3-7-7-3 7-3z" />
+              </svg>
+            `);
           } else {
-            showToast("拉取失敗，請確認網路連線", "❌");
+            showToast("拉取失敗，請確認網路連線", `
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ff6b6b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="15" y1="9" x2="9" y2="15"></line>
+                <line x1="9" y1="9" x2="15" y2="15"></line>
+              </svg>
+            `);
           }
         }, 1000);
       });
