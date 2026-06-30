@@ -1441,7 +1441,7 @@
       // Convert them to native HTML anchors linking to the specific section index
       
       for (let i = 0; i < lines.length; i++) {
-        let line = lines[i].trim().replace(/👉\s*/g, '').replace(/^✦\s*/g, '');
+        let line = lines[i].trim().replace(/[👉⚡]\s*/g, '').replace(/^✦\s*/g, '');
         
         // Handle Empty Lines
         if (line === '') {
