@@ -1485,26 +1485,27 @@
       
       const lines = content.split('\n');
       let html = [];
-      let inList = false;
+      let listStack = [];
       
       // We will parse Obsidian jump links first: 👉 **快速跳轉**：[[#一、 上週大勢點評|上週大勢點評]]
       // Convert them to native HTML anchors linking to the specific section index
       
       for (let i = 0; i < lines.length; i++) {
-        let line = lines[i].trim().replace(/[👉⚡]\s*/g, '').replace(/^✦\s*/g, '');
+        let rawLine = lines[i].replace(/[👉⚡]\s*/g, '').replace(/^✦\s*/g, '');
+        let line = rawLine.trim();
         
         // Handle Empty Lines
         if (line === '') {
-          if (inList) {
+          while (listStack.length > 0) {
             html.push('</ul>');
-            inList = false;
+            listStack.pop();
           }
           continue;
         }
 
         // Jump Link Box
         if (line.includes('快速跳轉') || line.includes('👉')) {
-          if (inList) { html.push('</ul>'); inList = false; }
+          while (listStack.length > 0) { html.push('</ul>'); listStack.pop(); }
           // Replace Obsidian [[#heading|label]] with local anchor link
           let processedLine = line.replace(/\[\[#(.*?)\|(.*?)\]\]/g, (match, anchor, label) => {
             const safeAnchor = encodeURIComponent(anchor.trim());
@@ -1518,7 +1519,7 @@
 
         // Headings: H1, H2, H3
         if (line.startsWith('# ')) {
-          if (inList) { html.push('</ul>'); inList = false; }
+          while (listStack.length > 0) { html.push('</ul>'); listStack.pop(); }
           const title = line.replace('# ', '').trim();
           const cleanTitle = title.replace(/\^summary-top/g, '');
           html.push(`<h1 style="margin-bottom: 1rem; color: var(--accent);">${cleanTitle}</h1>`);
@@ -1526,7 +1527,7 @@
         }
         
         if (line.startsWith('## ')) {
-          if (inList) { html.push('</ul>'); inList = false; }
+          while (listStack.length > 0) { html.push('</ul>'); listStack.pop(); }
           let title = line.replace('## ', '').trim();
           const safeAnchor = encodeURIComponent(title);
           
@@ -1552,7 +1553,7 @@
         }
         
         if (line.startsWith('### ')) {
-          if (inList) { html.push('</ul>'); inList = false; }
+          while (listStack.length > 0) { html.push('</ul>'); listStack.pop(); }
           const title = line.replace('### ', '').trim();
           
           // Parse title link format: "1. Title ([Source](URL))"
@@ -1567,12 +1568,34 @@
         }
 
         // Bullet Lists
-        if (line.startsWith('- ') || line.startsWith('* ')) {
-          if (!inList) {
+        const listMatch = rawLine.match(/^(\s*)([-*])\s+(.*)/);
+        if (listMatch) {
+          const indent = listMatch[1].length;
+          
+          if (listStack.length === 0) {
             html.push('<ul style="margin-left: 1.25rem; margin-bottom: 1rem;">');
-            inList = true;
+            listStack.push(indent);
+          } else {
+            const lastIndent = listStack[listStack.length - 1];
+            if (indent > lastIndent) {
+              html.push('<ul style="margin-left: 1.25rem; margin-top: 0.2rem; margin-bottom: 0.2rem;">');
+              listStack.push(indent);
+            } else if (indent < lastIndent) {
+              while (listStack.length > 0 && indent < listStack[listStack.length - 1]) {
+                html.push('</ul>');
+                listStack.pop();
+              }
+              if (listStack.length === 0) {
+                html.push('<ul style="margin-left: 1.25rem; margin-bottom: 1rem;">');
+                listStack.push(indent);
+              } else if (indent > listStack[listStack.length - 1]) {
+                html.push('<ul style="margin-left: 1.25rem; margin-top: 0.2rem; margin-bottom: 0.2rem;">');
+                listStack.push(indent);
+              }
+            }
           }
-          let itemText = line.substring(2);
+          
+          let itemText = listMatch[3];
           // Parse links in bullets (handling nested parentheses in Lancet URLs)
           itemText = itemText.replace(/\[([^\]]+)\]\((https?:\/\/[^\s()]+(?:\([^\s()]+\)[^\s()]*)*)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
           // Parse bold text
@@ -1582,9 +1605,9 @@
         }
 
         // Paragraphs & general texts
-        if (inList) {
+        while (listStack.length > 0) {
           html.push('</ul>');
-          inList = false;
+          listStack.pop();
         }
         
         let pText = line;
@@ -1593,8 +1616,9 @@
         html.push(`<p style="margin-bottom: 1rem;">${pText}</p>`);
       }
       
-      if (inList) {
+      while (listStack.length > 0) {
         html.push('</ul>');
+        listStack.pop();
       }
       
       return `<div class="md-body">${html.join('\n')}</div>`;
