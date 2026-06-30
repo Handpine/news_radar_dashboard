@@ -1720,6 +1720,26 @@
 
       noteInput.addEventListener('touchend', handleNoteFocus);
       noteInput.addEventListener('click', handleNoteFocus);
+
+      // Intercept anchor clicks inside reader content to prevent URL hash change from triggering popstate (which closes the reader)
+      const bodyEl = document.getElementById('reader-content-body');
+      bodyEl.addEventListener('click', (e) => {
+        const link = e.target.closest('a');
+        if (link) {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('#')) {
+            e.preventDefault();
+            const targetId = href.substring(1);
+            let targetEl = document.getElementById(targetId);
+            if (!targetEl) {
+              targetEl = document.getElementById(decodeURIComponent(targetId));
+            }
+            if (targetEl) {
+              targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          }
+        }
+      });
     }
 
     function closeReader() {
