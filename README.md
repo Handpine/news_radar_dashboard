@@ -101,5 +101,18 @@ npx serve .
 2. **Service Worker 離線快取更新延遲 (PWA Update Lag)**
    * **問題**：由於 `index.html` 被列為靜態資源快取優先（Cache-First），即使 Git 倉庫代碼更新並推送，手機 PWA 在開啟時仍會使用舊版快取。
    * **解決方案**：
-     * 每次更新靜態資產時手動在 `sw.js` 中升級快取版本名稱（如由 `news-radar-v1` 升至 `news-radar-v2`）。
+     * 每次更新靜態資產時手動在 `sw.js` 中升級快取版本名稱（如由 `news-radar-v1` 升至 `news-radar-v3` 等）。
      * 在 `index.html` 中實作自動監聽 `controllerchange` 機制，一旦背景偵測並安裝完新 Service Worker，會自動觸發頁面刷新 (`window.location.reload()`)，確保使用者無感獲取最新修復。
+
+3. **iOS PWA 鍵盤開啟時游標與版面飄移移位 (Cursor/Layout Drift on Focus)**
+   * **問題**：如果在報告頁面處於下拉狀態（iOS WebKit 彈性橡皮筋回彈狀態）點選輸入框喚起鍵盤，游標或整個輸入區會猛烈往上飄移、跑版，頂部導航列被擠出螢幕外。
+   * **成因**：當頁面處於下拉 bounce 回彈時，視窗具有負滾動位移量。此時喚起鍵盤，WebKit 嘗試將焦點輸入框滾動對齊至可見視區內，受回彈狀態干擾，導致計算錯誤的 Viewport 偏移值，將 `position: fixed` 的整個抽屜頂部擠出螢幕。
+   * **解決方案**：
+     * 在 `.reader-content` 與主容器加上 `overscroll-behavior-y: none`，消除 iOS 下拉回彈（bounce scroll）現象。
+     * 監聽 `visualViewport` 的 `resize` 事件，當鍵盤彈出時，動態將抽屜容器的 `bottom` 設為鍵盤高度（`window.innerHeight - window.visualViewport.height`），使抽屜高度完美收縮在鍵盤上方。
+     * 在輸入框的 `focus` 事件中強制重設 window 滾動值 (`window.scrollTo(0, 0)`)，消除任何臨時位移。
+
+4. **SPA 雜湊狀態與行內錨點快速跳轉衝突 (Hash Route vs Jump Link Conflict)**
+   * **問題**：點選日報、週報內部的快速跳轉錨點會導致 Reader 抽屜被直接關閉並退回主畫面。
+   * **成因**：為了適配 iOS 手勢側滑返回，我們在 `popstate` 中監聽 `#reader` Hash。點選頁內錨點會改變 URL Hash（如 `#toc-1`），導致 `popstate` 誤判為退出抽屜的返回操作。
+   * **解決方案**：在內容容器監聽點擊，當點選目標為頁內錨點時呼叫 `e.preventDefault()` 阻止 Hash 變更，改用 `element.scrollIntoView({ behavior: 'smooth' })` 執行平滑滾動。

@@ -601,11 +601,29 @@
       padding: 1.5rem;
       line-height: 1.7;
       color: var(--text-primary);
+      overscroll-behavior-y: none; /* Disable iOS bounce scroll to prevent layout displacement on input focus */
     }
 
     /* Markdown Rendering Styles inside Reader */
     .md-body {
       font-size: 1rem;
+    }
+
+    /* Special callout card styling for the Daily summary paragraph ("今日/本週最速報") to prevent text/title mixing */
+    .md-body h2[id*="%E6%9C%80%E9%80%9F"] + p {
+      background: var(--card-bg);
+      border-left: 3px solid var(--accent);
+      padding: 0.85rem 1.1rem;
+      border-radius: 4px 8px 8px 4px;
+      font-size: 0.95rem;
+      line-height: 1.65;
+      margin-bottom: 1.5rem;
+      color: var(--text-primary);
+    }
+    
+    .md-body h2[id*="%E6%9C%80%E9%80%9F"] + p strong {
+      color: var(--text-primary) !important;
+      font-weight: 700;
     }
 
     .md-body h1, .md-body h2 {
@@ -1720,6 +1738,34 @@
 
       noteInput.addEventListener('touchend', handleNoteFocus);
       noteInput.addEventListener('click', handleNoteFocus);
+
+      // Force the main window to reset scroll position immediately on focus, preventing iOS layout shift in PWA standalone mode
+      noteInput.addEventListener('focus', () => {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+        }, 30);
+      });
+
+      // Dynamically shrink the reader drawer height to fit the visible area when the virtual keyboard is toggled on iOS
+      if (window.visualViewport) {
+        window.visualViewport.addEventListener('resize', () => {
+          const sheet = document.getElementById('reader-sheet');
+          if (sheet.classList.contains('active')) {
+            const keyboardHeight = window.innerHeight - window.visualViewport.height;
+            sheet.style.bottom = keyboardHeight > 0 ? `${keyboardHeight}px` : '0';
+            
+            // If keyboard is open, scroll the noteInput into view smoothly
+            if (keyboardHeight > 0 && document.activeElement === noteInput) {
+              noteInput.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+          } else {
+            sheet.style.bottom = '0';
+          }
+        });
+      }
 
       // Intercept anchor clicks inside reader content to prevent URL hash change from triggering popstate (which closes the reader)
       const bodyEl = document.getElementById('reader-content-body');
