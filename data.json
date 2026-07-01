@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-06-30T19:43:40.048913",
+  "last_updated": "2026-07-01T14:10:19.677055",
   "daily": [
+    {
+      "date": "2026-07-01",
+      "title": "新聞雷達 (2026-07-01)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-01-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "中共制裁新法鎖定 8 大族群！台人過境恐遭拘、外企去紅化也觸法",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14b0ZCeGlMX20xVEVDQjV0N3dyNmJ0RXl1OWtCYWltVVJRNUlMVlpUQ2pVdWhrZGNyckczOHJtNHpmbHI3MzV6ZkdlRGh3Ulo1WVdfNGhRc2lWUDd6czNYdm11bkpkZ3RhSXfSAW9BVV95cUxObU5tTU1KVDJzdTJLS2tiREhpb3BPSjl6SDhBNHJxRUxnSHdzNVlxcW5ONmVnWTdja0VvTmRZZG1hX2I5cVphN05HTHRmLUp5Z2xYVkhDbVBWbGF4MXMwallQeEo5aWQ1ZnhhT1RuYXM?oc=5"
+        },
+        {
+          "title": "法國熱浪釀千死逾 8 成是長者 巴黎太平間爆滿",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yb3VKNmlKWGhiTFpRYTZvVlZSYUZBMnVoVjlGcXhQLU5rVlFxWTN3eU5kQlRBeFc1Q2g0bFFVbG1wMzNZZXFtNDZCaE5PY3lNc24wTnRYbEdzYk5YTDlr?oc=5"
+        },
+        {
+          "title": "卓榮泰稱三鶯線通車昨天才接到行程 新北市府：上周宣布就已邀請",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hczNhUEd6dzdoaVFXSzdrQTUzWmktdXBIVGZmTmhxX2xKS25HNVg1MWVMbmlDWmJSbk5lc3B0X3BzOHJNakpYUDB5VEl1NlRL0gFWQVVfeXFMUG1CdGJFUWlHTGN6aWVJYWRVcmtBMEdGUU1EOV83YWlZZjItc2FjR1VNRHFYUE9ndTVHb3hFVzZpVjhIMFRDRWRFX3BxcXRiSE85NWRBV0E?oc=5"
+        },
+        {
+          "title": "川普政府突轉向！解除 Anthropic 兩款 AI 模型出口管制 Claude Fable 5 重返國際市場",
+          "source": "風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yNXZvZWN5MmdGdmptOVZSNFJEakxQVFFvMDFPNHhvTldJLVB1MlE2QlppLU5lN2lJMUpTUjZkaEdleF9YX1FHbnlFcGRNQQ?oc=5"
+        },
+        {
+          "title": "AWS 宣布成立 10 億美元 FDE 組織，跟進 OpenAI 與 Anthropic 搶攻企業 AI 部署市場",
+          "source": "inside.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYVdiMndHaU51eEp4cGJLbmlsN2tCaE40UGNhQTlPc3dZUEdHeGtGdWRDU3REclZEbllCV0hHZnNaMHdGc3hNeE8tdVJRaEp4RTJpcXFmWWF5WlZCdWR2QnRzQWlQVS1fNzEzWEFqUlJwaWIyNldJSmZOVU95OXVMa29vNHdTXzlkclFwZUlCcVY0VXpKLUw3TWxsaWRfdENkQVdQaWpWd1pNMzBS?oc=5"
+        },
+        {
+          "title": "AI 太燒錢？微軟傳下週裁數千人 Xbox 也難逃",
+          "source": "LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMlBjclY3UnRYTmc2S1ctNWN5R2d1a004T3JpRVRiNEFUTnA3Tnp1X2h0Rlc4dmFtdXlsQVJvS0pOYnd5SFlRTHFCajlRRGY4Qk9aRFp3?oc=5"
+        },
+        {
+          "title": "The ‘Father of the Internet’ is finally retiring",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
+        },
+        {
+          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+        },
+        {
+          "title": "OpenClaw is finally available on Android and iOS",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
+        },
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "source": "Hacker News",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography"
+        },
+        {
+          "title": "The first early human eggs from stem cells",
+          "source": "Hacker News",
+          "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells"
+        },
+        {
+          "title": "hasaneyldrm / exercises-dataset",
+          "source": "GitHub",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset"
+        },
+        {
+          "title": "Mebus / cupp",
+          "source": "GitHub",
+          "url": "https://github.com/Mebus/cupp"
+        },
+        {
+          "title": "google / agents-cli",
+          "source": "GitHub",
+          "url": "https://github.com/google/agents-cli"
+        }
+      ]
+    },
     {
       "date": "2026-06-30",
       "title": "新聞雷達 (2026-06-30)",
