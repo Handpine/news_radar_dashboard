@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-07-01T14:10:19.677055",
+  "last_updated": "2026-07-02T14:34:13.367259",
   "daily": [
+    {
+      "date": "2026-07-02",
+      "title": "新聞雷達 (2026-07-02)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-02-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "軍公教通案調薪4% 主管調幅最多11.56% 政院拍板",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQXJwcVpKcmJjUHFpMlRmMUthTzBtTWFlWW9kZ0VGaExDWWFuYktfNml2UXFuVTFoVU43TlRMVjlnY2FuRndIaW00NFM3VVVHc2U0b2lqREZfT1RxWm5zRUNRMDZGYjhBMVllX2ZRWG4xbjRMVWdhWGVkU3FDSy1Vb01McUVqMjFxN2xKR04tVkRZZmJ3NG5DcmJLT0RBcEQ1OFRmQ2JPenFJVjZaMm51ZVZsbmJKNkxPQWdOZy1OR2ZUQUlrTDd4ZVNOOXQ4Q2VJS1BIVDZZRWVjWjBvb29MYzhUMHppM1pjajhxZm5MdEZYZ3pyYTJraFFrODUzbUoxeGdHb2FkU3dHYllxRmItRVdkRnBucmFCSXliU3FKQUFXelJVeF9ZLQ?oc=5"
+        },
+        {
+          "title": "大豆沙拉油原料致癌物超標影響15品項泰山、福壽與福懋急下架",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUm5ub2lReUdNWk9yU2dvWHJVVjJUSFpZZ1ZlTy1QX1h5VFlsUk0yMjlyWXJOMk9zRUZnZWxXOFV3aGo4N0RFblZuQmMxeTlHeW5VUHg5QmxGNWFCRFNJ?oc=5"
+        },
+        {
+          "title": "李洋改革掀波1／爆李洋請辭烏龍傳聞內幕　「反改革派有人想逼他走」",
+          "source": "鏡週刊",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OU19uUUNjZWpUNjJhemZBWXl4aHJuWk5FY09yU2VpRFJRZDl1RmpGclVKM2VBRUxndmRhd3Q4R09xTDgzTHVpR0VscFRpVnNuZzdHOUZCUGtJbm5iY0dnMDJPQWRYZ9IBa0FVX3lxTE5Ba3UtUTNTX0ltYWl1YkdwWV9td0NEb1pHSHFwdENZMTcteUNYakpzOTMzR0FJbHlEWGhlaDgxeTJ3UXFnMjREN29pWjlMUXk3VlhpNXh4N1VobXR0dmxEQV9wb3UtQTFqc3Bn?oc=5"
+        },
+        {
+          "title": "軟銀集團對OpenAI追加出資100億美元",
+          "source": "MoneyDJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1HUkpIOUV2ZHdPMFZ3NmcwY0ZrN04zdGlLcjRXNGRPTnJ5M3dCMGNUNnhXYlU3TTlDUm1nZF9mczZRUkhGOFE4UDFNWjlRU3ZfNUQ3U19La3FFV3lPMzB1UUJRNU1nNmo2WS1pUDFWS2VTTktIeV9sYnBjTVZKanVkWG1SdU9YQ1hyN0d1N3R2Zw?oc=5"
+        },
+        {
+          "title": "OpenAI提議送美國政府5%股權！全民共享AI財富化解政治阻力",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Oc1NPLVFZb3Rlc20xZ0ZPVGVKQUxDbUFsRkhodGR4TUxMVVNTZllWcEZzbVBBVENsUHQ1SGRxM3R1WGQybU96eVlFWmRCUVdz?oc=5"
+        },
+        {
+          "title": "重大技術突破！傳OpenAI提升技術助推理成本砍半 GPU用量驟降至數百顆",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQZzBHSFRXekJldVk5LTBMTzA2TUg3dzVzQkRuckx1TmhxaUtJVGFmX2ZfZlhTb2ktdzlZYno0RGN1SFNFYnF0aWtwbVlYQllYYUY0VkRuMnBVYjZjUURDVnFRaktEQzI1eHZ0ckRZd2NrU1kxWjZlLTJnYUJZdjBqU0dJTDQ0bTFXd1JrQjVoRFBIWG5MX2tSZnNIZkFTYzdLYTU1MGZDQ05YZTdXTVkzV3d3ckZDc2tfczVCcWw4ZXY3cE85bFQ3Y2I3R09HVHIxS3dWNUFSVlppRXZpSU5JM1JoaVVOYmlHRW9RcEFSTmREajRsM2k2NDVtUEFMUzZXbHJyUHVlbE9tMGN4VjhCWENfQ2dfSkVYOVNCdXNybWx0eXZWcmNyYlVaMUpiZ1R5OC1GaFluZS13VXoyTnd1MnBWVm1UVno5QWM4dkE0VnBPdmlFVE5UV0ttQWdlNXhVYTE4dWI1Um9pUUVqNjVLbmhoS0J5TnZBNU5ucURqOHV3VV90cVBwa1JLUmJ6WVlDbmk5NGplLWpzMXUxT01OTTBB?oc=5"
+        },
+        {
+          "title": "亞馬遜改採 token 計價，與 Anthropic 合作付費模式 2027 年大轉變",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVZYZlBqQUpLSGlqM2tNTlJTQjZ3OENBc1hhcEgyTndnV2FGYTBhdkJxMjN1V244R0NNci0tYTJ1dzd6YmxGLWVhd041TzlRTDdLaE80SVhMMDRqcTJRT1NDd0RQeWNHWjdCVUwwWXl2M3ZaUHJVWkcyQW1tUWlMazVHcWl0R29IcGtCOTJ2TVFiOTB4eFVhT0RRVWtyVTBFb193?oc=5"
+        },
+        {
+          "title": "美AI巨頭OpenAI、Anthropic陷發展困境 中國開源模型趁勢崛起",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNSldtOF9OdlFSMmFWdnNGUUpEeHdDTXF6bGFieWhUenN2VmRXVFVhUTdFOEhqX1JheFh4RHEyZ18tdW9aN21WSnRjQ1FqaTV2TlJ5bTM1V1gtVGdOSUZYd1pHSFRFUXlZdlpMdWhDV3JJSEZDaF9obTZDN1ZYdDZXdzN5MmYwNE9uQURRRXd4djZfRG9WdEs3WndGVVdsWnB0N3BFaXdkUF9EdFM3N1loMmROb0JrTFFuUnJHWDlRSHgzRW5EeFVhU1JJcGVtUGJsV2w3MGJwQ0lOWUVQc0hOUklnclNLSDQyWXRkRGVfN0hNbWFWcFJianpJT0pZMlAzMmdQNFZqQ0FSeTB3NFZ4N0k1STJicGZPeU80TTVkejM3R2FURFIzN3Qyc0tTcFdjX2hoUE5ibVM1bE5INVRjejVUVVZ6ZWRVQi1Zeg?oc=5"
+        },
+        {
+          "title": "強化 AI 雲端設施，微軟攜手五公司籌建印星馬新海纜",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDVJVUVZNVNWVjIyWlc1RFBoWk50ak1FaklkZEotWXRseHFhdXcwWG52TnpUazJHeTlsRENHOE44YjRnSXNMOWkzWmx5bVlxbFU0eUhHY1psa0pfSDI3NG1VTU9KX0M2YTFfYkhES3haeWV1dGI1OTd3a1dhZkc1VUFvQkx1NUxhcFZiTi0tb2oyblVBeFcxMURaTnRKdndlUW9kQk95YnJjaUw5OEM3SUkwUXhEakpRZjJETzJoSQ?oc=5"
+        },
+        {
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+        },
+        {
+          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
+        },
+        {
+          "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"
+        },
+        {
+          "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+          "source": "ArXiv",
+          "url": "https://arxiv.org/abs/2607.00001"
+        },
+        {
+          "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "source": "Hacker News",
+          "url": "https://senior-swe-bench.snorkel.ai/"
+        },
+        {
+          "title": "facebook / astryx",
+          "source": "GitHub",
+          "url": "https://github.com/facebook/astryx"
+        },
+        {
+          "title": "allenai / olmocr",
+          "source": "GitHub",
+          "url": "https://github.com/allenai/olmocr"
+        },
+        {
+          "title": "logto-io / logto",
+          "source": "GitHub",
+          "url": "https://github.com/logto-io/logto"
+        },
+        {
+          "title": "北市聯醫進駐「圓通居」 無家者精神醫療研究登上國際期刊",
+          "source": "自由健康網",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyX0NsNjM2T21TQVNDbmdTXzhGUTJkaW5NXzE0MF9sdHVmQmFsd3hNeWdQSnNYdFR4ako4YkJybnBkeHlHQ2prV21xczJhc2ktbDJ2RjNSdEg1WjNqVU5oVlNFOU9oSmhlVnfSAWpBVV95cUxQMl9DbDYzNk9tU0FTQ25nU184RlEyZGluTV8xNDBfbHR1ZkJhbHd4TXlnUEpzWHRUeGpKOGJCcm5wZHh5R0Nqa1dtcXMyYXNpLWwydkYzUnRINVozalVOaFZTRTlPaEpoZVZ3?oc=5"
+        },
+        {
+          "title": "Blood-based circular RNAs for early diagnosis of Alzheimer’s disease",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04485-5"
+        },
+        {
+          "title": "A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04514-3"
+        },
+        {
+          "title": "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04483-7"
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "title": "新聞雷達 (2026-07-01)",
