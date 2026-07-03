@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-07-02T14:34:13.367259",
+  "last_updated": "2026-07-03T08:14:54.866051",
   "daily": [
+    {
+      "date": "2026-07-03",
+      "title": "新聞雷達 (2026-07-03)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-03-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "賴清德要蔣萬安檢討淹水！謝龍介嘆：以前嗆人當上帝、現在卻檢討地方",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOVmpIanJwb2J3T3E2MzlEcnMyZVNLUDJhMUZhVkRieVNQZ19JZ2FENmx1RGpXUWh2N2NOenhwNUVDMkFmbnhiOHhxbXYxbGdfcTBsbnFoY0ZFQ19kdG9ia2F4VkVpTXprd1RYeTlsWkRZWVc0alhCRlpOQW1PMDVGbTBKNDF3MUpYSVA1bklCaEoySjVEVnhJS2lodzhsZlJWNGRxdk42eFRFTFhvOE1pVnoxOEdnYkZ5T2hQUHcwUk4wOTdrVnl0SGF1NXljMVNhczFhQXFwZVhwN0FWM0c5eHZjbFBNNmdEdC1FOGhBLUxhTHNPSVFKNXk4cHR1OGtmOUtMWjNYUnRMcFd1U1RMelRWQk54WU1GTnBRYTlXSmZaY2lhYXpoQVdVVUt0S3BLNWlWNS12d3lDc2dpdExSRTNvV2dJYTBzZmt1bGpsYUlKajlRZU9xRVZFa1VSbnh2REZJZGVpSEllSUFTb0Nfd3RYTjZIUjFVcG5JMXgtcDlrYVV1QXFLczlFSXN0b3pRa1cwaEN6aTczdmxGSGFxNnlNeFE0WUlpNFJOZkhpZVZudW8?oc=5"
+        },
+        {
+          "title": "與AIT舉辦無人機論壇前 盧秀燕透露：預算再增加500億",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mMTJEZDg4dmNBSG5YOXRFZEkyZzlpT09vWW0wTmNwdU5sRVo3RHFWdGdEd256UFRqRTFNczZsQ01DNDdianBLWjlZdy1wS1d30gFWQVVfeXFMTmlHYkRRdHdKcGFQVUNNVGlCemtjckdWRkRiajlHSzFfZk9DWlJaeXBVZmpmd0hMX3NKSG96WEJMeEdzaHprblFmR3k2VlFKY29YX0dDYXc?oc=5"
+        },
+        {
+          "title": "Cognizant 與 OpenAI 推進前沿 AI 網絡安全防禦：從發現漏洞到經驗證的修復方案",
+          "source": "經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIUW4tVWNSODAzWm04Y2FqQ2hfc0h2ai1ZcWRPS3V5cWdaUGpmdDlfLVViUnRqdE9JNmRaR2NyeXlnaWlOMDhMN0ZXOU1hUk55N083YWdQdUZTcFQ5Y0tRR0FyeWYzMDNjSGVwMzZaZGFzdXo3WjhEZENn0gFiQVVfeXFMTmNpNkZTM19yUWpoZTN2U3ZLbXhyR3U1cDdvOExUZFoxdmRaQ1h6cEQ3VThXVWRORnpHYkNPUnhfelJSY2NYMjcyNkRhOU44T2pvakxMUUg4M1h3SDlkdjB6SXc?oc=5"
+        },
+        {
+          "title": "AI軍備賽升溫The Information：Anthropic找三星談自研晶片合作",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CSnpkNXp5ZlVJYTJaUTM3b01VSzRSTG1jTzcyYVYwWUpJS3hHY2FCeEJydThzSzlhUjRNQVV0NHhQemhjSElkUkdhZEljc2Fq?oc=5"
+        },
+        {
+          "title": "微軟斥資 25 億美元成立新公司，強化 FDE 力拼 AI 部署",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFNmZzJYNl9Ud21Xb3phbTRJdlBaWjZrWnpnV3NGTm9hR01TaGw5ZDRvWWtFX1pwdUJaZWR3dkJ0S0xhYmpoYkM0ZVNKaVcwSzB6Z1dkTHZrbWV6c2huQzBoOENxLTJNRUtzdDdrdlUxX2dPS2lDa3F5bzA2aGdJVXBaN0xxQQ?oc=5"
+        },
+        {
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+        },
+        {
+          "title": "Private space pilots are flying orbital missions for the US Space Force",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/"
+        },
+        {
+          "title": "Why high scores do not mean application readiness for health AI",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04500-9"
+        },
+        {
+          "title": "JuliusBrussee / caveman",
+          "source": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman"
+        },
+        {
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "source": "GitHub",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+        },
+        {
+          "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2518245?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Rituximab versus Ocrelizumab in Newly Diagnosed Relapsing Multiple Sclerosis",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600993?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-07-02",
       "title": "新聞雷達 (2026-07-02)",
