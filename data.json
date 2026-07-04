@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-07-03T08:14:54.866051",
+  "last_updated": "2026-07-04T08:09:06.901933",
   "daily": [
+    {
+      "date": "2026-07-04",
+      "title": "新聞雷達 (2026-07-04)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-04-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "豪、大雨狂炸11縣市 雲林古坑淹水一級警戒",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OSUtVZng4X3hEN3RsbU5GTU1FRHdaSURQYnl4SURSay1WRGRfcTBIWDRzbTN1aWRxZXhXbHBYNDlDNGE0YWFabEJGb3lVcUFWa0Zuaw?oc=5"
+        },
+        {
+          "title": "全民普發3800元？賴清德批無人機在野版違憲 他考古「消費券條例」：你們也幹過",
+          "source": "風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13Z19kdm1Yb3l2MkNWWVBudGVRUzY5a0ljeXo3TDJwT2JMWVM4dmN4SmFRX1l4SjhZX0FwTWhGWVJLSVZCTTVybV9Dak1FZw?oc=5"
+        },
+        {
+          "title": "靠GD、鄧紫棋演場會撈翻 警逮全台最大黃牛「強妮」北檢聲押禁見",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ETWk5ZUZXaWhEWkVFOVo1Nkh6RjMwNEs0bnh5TG0zeTAzLU9oWGNrZVp2ekk3NWdFaWJtM09nMDFRQThfVFJTNlU3Mmx0QU450gFWQVVfeXFMTUJlQTNUQTN6R2hzNkJKcURmNW0zYS1RQmJpcjJaRV9wbFpGUHBpVVVUWnNxT21zR2ZVX2MxYzBOZ1VWVjg2MjBMOXhmNTJLbG92a25HSHc?oc=5"
+        },
+        {
+          "title": "微軟神秘「Project Aion」Windows 11 演示流出：AI Copilot 取代經典「開始」按鈕",
+          "source": "XFastest News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDdJMEJmazktZ0o1d0xyWkxLTzVRTDlyNm16OHdMTHZjSy1BdzlPYzdiblJQVVJTdmZLQ3pKNFdZdS1vZmlrbWxEYkZkUmpCNnZGeTFLc0FjS0twaVRzRlBDTHJZVERWWGpSbFZ2TmM2WjVKMzFRempESDBPbVVSVlB0MVZnREdVZ2NfX2dKYTBHazF1enNpRWhyUzNfSXJOZnNTMVNCeUxFekJULUVJUUlZTGJVOFhZeEpMdWVZVFFEMTZQeTIzZ01uY2NnNWRUVTNRNjZOZGlXek5kUG4w?oc=5"
+        },
+        {
+          "title": "AI 帳單燒出企業怒火：Palantir CEO 為何說OpenAI、Anthropic 的 Token 計費模式「出大問題」？",
+          "source": "TechOrange 科技報橘",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaVXZYRHhEZURTSVRSZk14Q1pzaGhFZzg1OUV1VGUxbGhKWlBOOS1TZkhnQ3QxZTI2Mm9XcWwyRUhMeGhmY2dyZXN4azZabW4zeXN2eXJ6TmsxZVVYaHNSRGhkX3lTVFllYURIenJGUG91SmpqTHZWLU5ObllwQQ?oc=5"
+        },
+        {
+          "title": "拍好卻不給上映？亞馬遜為保戰略合約，放棄發行 OpenAI 奧特曼傳記電影",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzlSYnpYNWRyOHJYYjlSY2xVU0p5alpKM2xJZDRoVjRxTW1SQ2hZMjV6bW1sa2NrbmZHWkZrZk0tTnpxRXR1eks0Sjh4R2JSQ1FjNWU5RENaekJuOXE5Qi1uR0ZadXZtbDFLWHRzSWRRMnpOaDBQMENDTlNLdlR3em9fQTk2XzI1aGVnWnhsVzRYMC01b0hERGw5c3pWb2Jtc3JF?oc=5"
+        },
+        {
+          "title": "The Wiola Architecture for Efficient Small Language Models",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.01394"
+        },
+        {
+          "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/"
+        },
+        {
+          "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.01426"
+        },
+        {
+          "title": "openai / codex-plugin-cc",
+          "source": "GitHub",
+          "url": "https://github.com/openai/codex-plugin-cc"
+        },
+        {
+          "title": "rommapp / romm",
+          "source": "GitHub",
+          "url": "https://github.com/rommapp/romm"
+        },
+        {
+          "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04502-7"
+        },
+        {
+          "title": "Polypill for heart failure with reduced ejection fraction: the POLY-HF randomized trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04504-5"
+        },
+        {
+          "title": "Kidney–bladder transplantation: redefining surgical options for patients with concurrent bladder and kidney disease",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01025-1/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "title": "新聞雷達 (2026-07-03)",
