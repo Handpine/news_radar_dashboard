@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-07-04T10:02:54.976436",
+  "last_updated": "2026-07-05T10:49:14.647982",
   "daily": [
+    {
+      "date": "2026-07-05",
+      "title": "新聞雷達 (2026-07-05)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-05-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "吳釗燮：中國沿第一島鏈部署逾110艘船艦創歷史新高",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cUJSYjFzdGZLWXIzZWJxaExvd01MWEc3T0NadmxVMFlOQlJ0SzJtS0I0eFVXR3daRVkyMnFTM2Y1U1pjdlRUUlRXeFAtdmNKTWNwS1RTc2VxQUpXNWpJ?oc=5"
+        },
+        {
+          "title": "林靜儀「男人沒保險套就別跟他上床」惹議他嘆：多次風波仍坐穩官位",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvZ0RfR0htZnFuRmgzMEZ0Z3Y0aFlZV2pPOUpUUDkxT2dqdGc5REFuOXhqVE1BVG52cVQwV19YNEZJcjVEYTg4Si0yX2hKYVF5M1c3YkFrUmlpQkJza1diSTVqVTd1Q2wzQ2FJYzdn?oc=5"
+        },
+        {
+          "title": "快訊／雨彈升級！豪大雨猛轟3縣市 警戒範圍曝",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSkc5eFl6Y0RjemhzTTRCNk5fTVZVaXpOdlJGSEhFWUs2YVFRdUgzaVJ6VE0yT1lra3d4WWphNk1KMzBkV3JfaEpfaXhGVlVWTEZ6bQ?oc=5"
+        },
+        {
+          "title": "26 歲華裔天才 Alexandr Wang 揭露 Meta 新 AI 已追平 OpenAI 旗艦模型",
+          "source": "Business Insider Taiwan",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42LVM3c3VuOXNJY3A1a1VBZGV1VFQ3TUJhVXpiaDdJbHItaEtyVkEwSEUyZktCU3VnRzAtb3Vtam1BdkUxODhTczdrbDI5OEc1RmRFcjRn?oc=5"
+        },
+        {
+          "title": "一天部署4500次，然後呢？Anthropic與Spotify炫耀AI開發成果，社群反問「App 比以前更難用了」",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOMFFXN0FZVFM2THpIYUhjTXpBdWdDdmRYd05ZTWZJNkgwb2RwSURvLTdYYkFYR1Y3TjRCa3lMR2E4VGVRMmstNXFIUFdEQTdfdEhTZjM4d0pBRjA0NWVQaTdOVmZMLUlVbFdYX3kteENJREIzYWJmbE1NeFJMNjRNN1Ryb3lPWk5FWURYMjd2UGpxcUlGRkdtRjUweGpvd2pzay15QWMydGNZS2RiMDN3VXZMT0hOTmlER08wdS1jT2ctLXU2aG90WWpmU254X3dsTVRpdEJOemVrdmQ0d2VYbnR5X2xZa0hfT0RWc0pTWENuRzk4cEVoZUhuWnJfeExwTU1sbTN1bmdjbGxnczd6OGg4elgzQzdQOW00QlpZOG9weThrNnItTF85S3VlNHQ4UDNOLUdwRW5CQXBQa18yOWZZeHNOaDVtanNBY2JTVVEzUQ?oc=5"
+        },
+        {
+          "title": "微軟《2026 工作趨勢指數》報告：當員工已就緒，組織準備好了嗎？",
+          "source": "Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFIxREd6eE9hNFhINFJJbi1SQUNQa2VrcUZWQ0ZVVFVXeG95ejRjMnZLQUZFQ0xENUVKTWROcWJYWDBVcUZxakxmazRwN0xwZEMzb3I3cmxDY0ZacVNmNmsyc2NkZ0NEdFZEa1YyQW1aUEp3akFTc0loZU4yZHlHRkdjNlRrQQ?oc=5"
+        },
+        {
+          "title": "阿里巴巴傳出全面禁止員工使用 Claude Code 工具",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+        },
+        {
+          "title": "科學家靠一罐「鼻腔噴霧」成功逆轉大腦老化",
+          "source": "Hacker News",
+          "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"
+        },
+        {
+          "title": "GPT-5.5 Codex 「推理 Token 聚集效應」恐是效能退化的元凶",
+          "source": "Hacker News",
+          "url": "https://github.com/openai/codex/issues/30364"
+        },
+        {
+          "title": "Midjourney 反將一軍，要求好萊塢片商公開「你們怎麼用 AI」的細節",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+        },
+        {
+          "title": "[TypeScript] alibaba / page-agent",
+          "source": "GitHub",
+          "url": "https://github.com/alibaba/page-agent"
+        },
+        {
+          "title": "[Rust] Zackriya-Solutions / meetily",
+          "source": "GitHub",
+          "url": "https://github.com/Zackriya-Solutions/meetily"
+        },
+        {
+          "title": "[JavaScript] asgeirtj / system_prompts_leaks",
+          "source": "GitHub",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks"
+        },
+        {
+          "title": "血管攝影衍生的血流儲備分數在心導管介入手術的應用",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600949?af=R&rss=currentIssue"
+        },
+        {
+          "title": "超越胰島素劑量升級：REIMAGINE 3 與晚期第二型糖尿病照護",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01074-3/fulltext?rss=yes"
+        },
+        {
+          "title": "專為臨床試驗設計的「免疫老化生物標記」框架",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04493-5"
+        }
+      ]
+    },
     {
       "date": "2026-07-04",
       "title": "新聞雷達 (2026-07-04)",
