@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-07-07T13:54:32.510360",
+  "last_updated": "2026-07-08T11:07:51.709168",
   "daily": [
+    {
+      "date": "2026-07-08",
+      "title": "新聞雷達 (2026-07-08)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-08-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美軍開火！宣布打擊伊朗回應荷莫茲海峽襲擊事件",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81WnoxQkg4NHVEREY5VHlUaWM0UDYzMnd3WHVSTkxodnRaX0YwNFFlNVh4U3h6UGdBSFhLVHgwTGEwNF9TUXJ1dWpIcEVEUFBBNW9HbUxpdm5seWlheFHSAWhBVV95cUxPMGlYaFFWNHpiYVJxaW8tdVJBYlBJR2tjblI2aDhtWk4tS2hPRzg3cmMtMDdnaVp2RVpTdWNQMF85bEQzemlGWG05elZsU1BtVnlBZDN1QVR6aEg4dUppeTI5S3YyRV95Vg?oc=5"
+        },
+        {
+          "title": "OpenAI為何狂徵HR？逾15個職缺、年薪加股權上看千萬",
+          "source": "數位時代",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVXFZM1E0cnJLamdJN2E4b2w0WW85a29TRVpkQUNCTXZuNmVRaHk4N0RVenVxNVZlUU9KbFpYNm1HTjNDbnJCZFdUTmFfeXNpU3l4VURjMG0ta2QxR3NCRGlRT2plWXp0amNJOER2SkJTcFhTSU94bw?oc=5"
+        },
+        {
+          "title": "Anthropic揭露Claude隱藏思考空間「J-space」與跨平台爭議",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vQWs5LTZXUGlHMjNGS2duNXc0NkdUNmNVQnBEdVNieGhnOGMwUXdlT24tTnQtay0tX1dyZV9wRDlUR2E5aDVRUGk4S3ZFOEk?oc=5"
+        },
+        {
+          "title": "Fable 5延長開放至7/13，付費用戶免加價使用",
+          "source": "數位時代",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeFNwR2JnSG9BVnA2Zk8ybTZLMUVocUQ5OXEzbzBCNFNjWnBFT3lwNVpiMGZzUWNnN0FFaExTbUIxLUxUclBlVTZDaW94N1g4NzByUW1zWjRqejBacG1palg0QlJRVUkyZUNXWkRQV0hnSnFCenNmdmFn?oc=5"
+        },
+        {
+          "title": "Expanding Managed Agents in Gemini API",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+        },
+        {
+          "title": "Microsoft 推出全新 Surface 設備與 Teams 的 AI 會議助手",
+          "source": "Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOYW9sQzZuQWJad0RtVEFMZnBYdDBKa1hUYmkxSllYVVFybklweG9RVElaTTFPTDVKWG9sZ0JXUE1OdTdrTS1GRk5GaGx1ZXFVX0g5YUpQV2d4QkFWaVRBRWdLVUduWllHY2J2SkdlREdaLVRWUzZDNjRqNG1lUEdxWkZjN0lYdk56UTViZndaT1pISW56d2kwcmV6Z3hTcm1zWVdLbFphZVIzc0NKa0NRRjdibUV5UUVoeUw3bnJsTUxYNGpxQWg2aDFaWVlvdms0MU5KRjNpZzY2dU5wUVdRZnlUZWZsQWtjakdBRUtNT0VsQUtET2ZPQkpLSmJlelBpLVpueWg0Vi0tbXJwYTZMV1NGbmFNZU9MTEVkWFJvZFNtWmFoOXRnV0VJVElQajZnYUU3RHNwT3ZManlKTmZwNGZQQTFuU0V6MDZZZEFOZzZEejlRN3U3LTM4Y2ZvbXBMSXRPWk5pS05aak9UY2l2QUwzNXo3NU0?oc=5"
+        },
+        {
+          "title": "Meta just launched a new AI generator, Muse Image, and users are pushing back",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+        },
+        {
+          "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+        },
+        {
+          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+        },
+        {
+          "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
+        },
+        {
+          "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"
+        },
+        {
+          "title": "Mysterious Compound Detected on Pluto and Titan",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/"
+        },
+        {
+          "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/"
+        },
+        {
+          "title": "Automated Data Readiness for Scientific AI",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.02771"
+        },
+        {
+          "title": "MadsLorentzen / ai-job-search",
+          "source": "GitHub",
+          "url": "https://github.com/MadsLorentzen/ai-job-search"
+        },
+        {
+          "title": "TencentCloud / CubeSandbox",
+          "source": "GitHub",
+          "url": "https://github.com/TencentCloud/CubeSandbox"
+        },
+        {
+          "title": "steipete / CodexBar",
+          "source": "GitHub",
+          "url": "https://github.com/steipete/CodexBar"
+        },
+        {
+          "title": "iOfficeAI / OfficeCLI",
+          "source": "GitHub",
+          "url": "https://github.com/iOfficeAI/OfficeCLI"
+        },
+        {
+          "title": "Bispecific 10E8.4/iMab broadly neutralizing antibody in people with or without HIV-1",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04472-w"
+        },
+        {
+          "title": "Spatiotemporal diffusion of the 2024 Oropouche outbreak in Cuba",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04411-9"
+        },
+        {
+          "title": "Longitudinal multiomics profiling of extracorporeal cross-circulation with pig liver xenografts in human decedents",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04511-6"
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "title": "新聞雷達 (2026-07-07)",
