@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-07-08T11:07:51.709168",
+  "last_updated": "2026-07-09T14:23:29.620473",
   "daily": [
+    {
+      "date": "2026-07-09",
+      "title": "新聞雷達 (2026-07-09)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-09-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "雲林縣長張麗善座車遭預拌混凝土車追撞",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZW11Z3phaTJSaGppa0dsUXk5UzNlR1oySUpKNGtyalhRTWdlUktMRHRSUl8wN3BKeDFyRVJ2NjJORDJZQU1EOXVWX3lfOTFma1VKTlNR?oc=5"
+        },
+        {
+          "title": "OpenAI 上市前哨戰！美銀豪擲 5.2 億美元信貸助攻",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTG9WRWd1YjFDWFhsejRPM2I5QUZlWEc5RUZwbVBSN0xkYlVGcXh4WFRlbVluRkFGVmRIRGkxcTRxTDJ2RWdCQnJLeEstTUJ3OEUwQVBqYk8ydHF6cDJFUVNCS09TR01pTThqa2pVbkZfX3pRVEs4Y1ZxVmVkUEhtSFJCdktpLWFOS0VzUHZ2S21rb0FBRW5YX2J0eW8yOXBlRktxUGs5QlBRYTZHb0c3cWRCZkRhZWNHMGdfelk4NzhZMjZVcURick9hMDY2ajc3alF3M1dIZU1CdmN4dWtFUHozYmI0NXN2eThWa3Z6eVRlSmlzME10eXNzbw?oc=5"
+        },
+        {
+          "title": "Claude Code 跨平台擴張：網頁與手機版從 Max 方案上線",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SUlpuWGxtMlk3Sml1OUtHdDAyQ1g2Z0s5Tk5kNzJ3elNPRjNzUHpTa3JDQTE2UjgzR1lMRG5pTHF5NlpVRXR4TXlqTmxjQQ?oc=5"
+        },
+        {
+          "title": "Claude Cowork 爆隱私爭議：跨平台便利背後的追蹤疑慮",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQTlnbHRiQ0ZNel8teDJXZ3RhUU5tNEdKeVgzYms5QVZaeEMtMEtQOGdQT2tmZmlQM0N1NFRBUE13WnZQSi1qOTVRR2xIZ0tfX3dWbzhmekZoNnBTQk5jOTVOV3Z3ckR3SHZZNmdLRWtsbkJDTk5SVFd0WE1PeklpajBPNi1lbDdTN1hLRXl1aHpDUHJscWZQUWxoNzN6VWhuNDFrUVZMYXJyZWNUSHNDNnZWMTlyZy1FM1VaT3BzamJlR2xOSTdhaEYxbHpnVi1aLXVjbElrTURnVi1NLXVWMThzcldmZEJFUmRvU2FsRGwxN3R0ZjlEajFzV2hESWhaWkZUOE03U29RaXpXc3IyY1Nhc0tFVkJSTHhTZDdoNUlGVF93aFFVcXpydW5SYzA?oc=5"
+        },
+        {
+          "title": "AI 寫扣太快反成災難？Anthropic 警告技術債風暴",
+          "source": "商周",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zWnZtSUpEZ0Zxa1VCVnpBcXBlN1VVVlJRc3RBVjVpcTRDNEFjMUI4dXpQS3pKVEphZEhzcXRiTW9ialRZRkNPZ3M1MzJiUDRrUThGQ0xRZEhxMVMwVVZZRmtIUmQ?oc=5"
+        },
+        {
+          "title": "擋救護車惹眾怒！美政府下令自駕車公司改善阻礙救援問題",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/"
+        },
+        {
+          "title": "蜘蛛毒液竟是解藥？科學家發現能殺死蜜蜂寄生蟎的新方法",
+          "source": "Hacker News",
+          "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming"
+        },
+        {
+          "title": "農民的勝利！聯邦貿易委員會促成 John Deere 開放農機維修權",
+          "source": "Hacker News",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
+        },
+        {
+          "title": "Google 揪出假圖片：AI 偵測系統成功識破參議員病危造假照",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
+        },
+        {
+          "title": "TencentCloud / TencentDB-Agent-Memory",
+          "source": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+        },
+        {
+          "title": "obra / superpowers",
+          "source": "GitHub",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "title": "alibaba / zvec",
+          "source": "GitHub",
+          "url": "https://github.com/alibaba/zvec"
+        },
+        {
+          "title": "癌症病患的隱形殺手：腫瘤學必須正視標靶與免疫藥物的長期副作用",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04554-9"
+        },
+        {
+          "title": "WHO 全球乳癌倡議進度：2017–2021 年全球 194 國存活率大調查",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04531-2"
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "title": "新聞雷達 (2026-07-08)",
