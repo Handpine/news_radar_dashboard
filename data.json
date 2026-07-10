@@ -1,6 +1,68 @@
 {
-  "last_updated": "2026-07-09T14:23:29.620473",
+  "last_updated": "2026-07-10T13:35:08.953209",
   "daily": [
+    {
+      "date": "2026-07-10",
+      "title": "新聞雷達 (2026-07-10)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-10-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "上線不到一年》ChatGPT 宣布 AI 瀏覽器 Atlas 八月退場，呼應超級 App 策略",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1g0WHdWS1RPYVZfQWJIaHBhbTRRSnotLUZxQ2tZanJQeUR3X2VRVDFrUWVqc0JJVEJ5cUUyNGVhUDhJdndKd2NoTTZYdzhwNFgtTk5QZXhHWXY3b01la09rTzRsMWRmdXVDWGZ4UzlxOTZZcDR4OGVrTzl5bEx1SERwZmlIWHR2bm1oYXFhVmdZMk9W?oc=5"
+        },
+        {
+          "title": "馬斯克罕見認輸？稱Anthropic當前AI領先者",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FMkJfRnZFVmNDN3NOVDFzWU1sTmNscUdwZHRwWU5CVXp2VXoxWExNRVFGX0Ytem0wUzZLMnBrZ3BCWkNRMDkwYmZBN2xHelE?oc=5"
+        },
+        {
+          "title": "Anthropic上市前夕 邀前美聯儲主席伯南克入局 將任長期利益信託成員",
+          "source": "Yahoo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQVnhPNVpBM3VXSGREZFplU1lMLXNHbk9KREVsWGtDaTYtVElEVkE5QlpmTVJrM1pHM29MNWltdjIxQ2FsdWZIdW9NeU9EQTdHQ3VSRzExUHZUeXBWZWdZTm5IeXM3V1lJRHg3dkV3WWxNN0xFNVpHSkVrR1BNelhiRWJwbW5zVTEycHJUMkY0TkxmLTFQX3FhRkdTajZDWk9wUVZlY0xOcndEcmtXREItVEZHS2ZqVWMzX0t3dXNmb200Ui1iYlMwelM5YW1OcVZIYXBIQmU4cnBzeXpORHNHbFJoMG96Tzd0cEcweE9pUDZHS1hEb2NoaEtPdzhodTJwWTFDY296ajBScEhuOU9GSlN0bkpnT3R1alB1Zkk4QjdxeUc4YzNZTDdjdWc1bWloZmYwS3J3SzBkTlRZdVZfMF9PcWwySTZYWmQ3M0xyQU1WU3I2cTliSUFpNGhDQktpRlE4d0FrQVVvX1BYNkVELXdzd0pMbUt1QWt0NmU3UVhpbXpPSEtIMDBDNUhTLXZRdS1BbldyVDFOdFozNXpPVU1KQjlubXljV2QzUldJS2s0WFhUVGl5R1hOVkFRbzNqZHJ0ME9qenRYUQ?oc=5"
+        },
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0",
+          "source": "Patrick Breyer",
+          "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"
+        },
+        {
+          "title": "Context Graphs for Proactive Enterprise Agents",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.07721"
+        },
+        {
+          "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/"
+        },
+        {
+          "title": "VoltAgent / awesome-design-md",
+          "source": "GitHub",
+          "url": "https://github.com/VoltAgent/awesome-design-md"
+        },
+        {
+          "title": "unclecode / crawl4ai",
+          "source": "GitHub",
+          "url": "https://github.com/unclecode/crawl4ai"
+        },
+        {
+          "title": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2512275?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Human embryonic stem cell-derived dopaminergic cells for Parkinson’s disease: a phase 1/2 open-label trial",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04525-0"
+        },
+        {
+          "title": "When the real world becomes the trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04484-6"
+        }
+      ]
+    },
     {
       "date": "2026-07-09",
       "title": "新聞雷達 (2026-07-09)",
