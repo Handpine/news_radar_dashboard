@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-07-10T13:35:08.953209",
+  "last_updated": "2026-07-11T15:05:49.029695",
   "daily": [
+    {
+      "date": "2026-07-11",
+      "title": "新聞雷達 (2026-07-11)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-11-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "蘋果怒告 OpenAI 指控其竊取商業機密",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
+        },
+        {
+          "title": "微軟 AI 資料中心擴建推升碳排年增 25%",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZEZXdkljbzVEODVpOGdSZXVjM2J0VEYzcmF3amNfaGo0amhDaF85ZF9KcDlCQjFabEtsVnAwVWl6TmFXUnFtclU2TUtQV25Wak83RTQxd3pqaEdfelA5aW1LY1NqMmlTdUc0ZGdjVE1HeEE?oc=5"
+        },
+        {
+          "title": "Anthropic 工程師：Claude Code 團隊砍掉 8 成系統提示",
+          "source": "數位時代",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVVQtWnZId3lUME1hcEtIQ3hCck9neGoyQVFvYlNUcUtLaF9RN0dEd0ozMEtQTXNBS2o1M2RwX0RrYkloTG9DdVI2cHNDZVpXYkM1NUx3bEVaXzNwOTJDbDNhREkxRERIS3VPdWJNZVA0Wm91bU1yYW0wbFI?oc=5"
+        },
+        {
+          "title": "微軟成立新的 AI 工程事業群 Microsoft Frontier Company",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15TTFqZ0N4Z3I4bVQ1a0tjcGNBZ2pUWGtUd0szVUlmR1NhSGJrMGNIOWZvLXlNdHo4eUFhblNBdVFLdGxuMGgtc3Y3cFhTQQ?oc=5"
+        },
+        {
+          "title": "Meta removes controversial AI feature on Instagram after backlash",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+        },
+        {
+          "title": "Meet the Battery Startup Taking on China’s Giants",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/"
+        },
+        {
+          "title": "QuadRF can spot drones and see WiFi through my wall",
+          "source": "Hacker News",
+          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "source": "GitHub",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+        },
+        {
+          "title": "oven-sh/bun",
+          "source": "GitHub",
+          "url": "https://github.com/oven-sh/bun"
+        },
+        {
+          "title": "Ensartinib in Resected ALK-Positive Non–Small-Cell Lung Cancer",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2518990?af=R&rss=currentIssue"
+        },
+        {
+          "title": "夜晚暴露強光下不只干擾睡眠！研究揭：心衰竭風險增逾 5 成",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZX3drRzB6bjI4bzkwTzMwazVDelFWNVQwNmZILS1SbXBOdXh0c0dTQW90aTNlN3JsRVlGa2JPdVl2Rzc2VERidnFLYmx0SkxGVWtGUndn?oc=5"
+        },
+        {
+          "title": "Anti-LAG-3 with or without anti-PD-1 in recurrent glioblastoma: a phase 1 trial",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04475-7"
+        }
+      ]
+    },
     {
       "date": "2026-07-10",
       "title": "新聞雷達 (2026-07-10)",
