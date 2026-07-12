@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-07-11T15:05:49.029695",
+  "last_updated": "2026-07-12T22:31:04.988960",
   "daily": [
+    {
+      "date": "2026-07-12",
+      "title": "新聞雷達 (2026-07-12)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-12-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "扁嫂生日被諷「不是快死了」 陳水扁怒控網路霸凌",
+          "source": "聯合新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OdVBwTkZrQmp2NmpzUl9sTUYtWlBMLTBJWngzN1NVcTI2NFV5YkRweG5SZzQxTDdIcTNhbTZOWEtUWkl5Vm1WM3dmM3JYc2gx0gFWQVVfeXFMTzEzbGhCRzFvd0RYSHVIaXZRZmMtbGhRNHlrN2VTOF9vWk5MM0pYazlnY1Q1aGI3UjBpSFNUcDNGZkJ6THp1Mnl6Vk5VbUNmdlJ0aDhSeVE?oc=5"
+        },
+        {
+          "title": "再惹議! 網紅林倩擅闖白鬚神社柵欄拍照 日網友:滾回去",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZUNFbnV0a25tNmlQR1RETW9jZk54QTZqQjMzRDJIOXg2aVo3LVk4Tjh0VExSTkRvcU02d3FiclhYLVhCM1NtcnB6YWFjamFGLXRlVU9EOWpCTElnU1dTSjNNMzM5WmRmSFhlRXJTZU90NjFmVy05VFN0M1VRZTNjcTJfTkpzWi1xa1lnQkVXcVc2SlJCMjNhY0pFSUlNQnZ6SHE3ZHpzSVRKRkN5eUZTMm5OTmtYcXZrTTE2LWctVTVrelJMWnVrTDUwNzJzNzM4ZDUxYUIwaGVfQWVFYk5ycUR5Nm1ULVIwMFdpeXdMYTVaaU53by1RVTZpamZiV0pTbWx4Vzg0MDBUQ0NEZnZka0xVZFo3RkVBVUNYdmI4MGxEWmIwNmlma3BMNXRhbU45MUNVekFhVFdxbmhMdFlpMEJCaUQxc29IRlhqTF9qaVJKUmxyQnU3OG1YenFEVU42X1AyTEhMRGFiV1E?oc=5"
+        },
+        {
+          "title": "傻眼！韓國開發者收到 Claude 超 5 億元天價帳單，寫程式寫到破產？",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3JaS1hhSllBdlNGVFJjN1NOcFpSTUVBQ0ZNWUYtWXVLNWJMcmF2dnl2WXg2RWY4MFFzWW5paGNiem42bFA2a1dYb3F5TzJEeUR4SDVtb3FIVUtFa2tRdEs3R0hhX3c2eGtLT0JXV3pEV0VPSXZXRDRpc2UwanlGSnpBMFFKN0xSR0FjcTJfMk9wc25BOVctZWpEZ3paUQ?oc=5"
+        },
+        {
+          "title": "GPT-5.6開放，跑分之外的隱憂：Anthropic反超、微軟去OpenAI化",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fUUVvTUVjTmhPQm1lX05zbmpPVlZVYi04S0swMjdFTHVINHMtdUlNSFhNOEpsWHFFUkoxYWN1aTdEQnEwWkVKMzBYak4tWnJId3c?oc=5"
+        },
+        {
+          "title": "馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rNDBERnFhdER2cFJFd2NZY0lTRTRmX1ltSk94UF9zdWJ3WEJkNU4xeHYzN3ZJNndoejQzeGZBc21EZnBrMzN5R3hNbTZjalE?oc=5"
+        },
+        {
+          "title": "數萬假帳號發動「蒸餾攻擊」！OpenAI 與 Anthropic 齊防中企剽竊",
+          "source": "蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZmg4YjdYOFlfcER4ei03VUpfdDZVSS0tMGVycHNYWklxV1ZVbEJsZmZwMGptTU9qaERtcFppVnN4U0VYZzZMZlhDeGRyQ2lTeFE?oc=5"
+        },
+        {
+          "title": "OpenAI 黑客松登陸台灣：北中南串連冠軍可拿 5,000 美元 API 額度",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUW9OUkxJaDR3RHdVelhka3FTZEg0Q0hTRGVJMHp6S0dTaU01U1NPa1RoeU9ndUtuSmJLTkhpc1N1T04tSTZyZ0U4ZmtPSUNoV0FGanVKa1pfbHZ2RGw0ell0Ny13UHhHM0lVUkRIdXIxYjBGVV84ZGZqTF9Qck1PWGRLc0VXbmx3R1BRaVRjcWFQLVVsaWtMbl9aeDNfQUQ2bW9RMQ?oc=5"
+        },
+        {
+          "title": "Anthropic 4款 Claude 原廠證照出爐！考照指南與費用總整理",
+          "source": "硬是要學",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkJJNFFkdGJrZV9BVFdGYjF1OHBSVS1RY1NQakxzVlZCTktVS2NUZW42QXJGdG16NG5JMUxxNENyVTg5NG9abGFCQm4tNUl4OGlDaDJSVTB1WlIzNV9md2FvSUdBM2FQMkptdk1SUkRiUldqenBCODBJOE9qSnM3bm01LVI1dw?oc=5"
+        },
+        {
+          "title": "Old and new apps, via modern coding agents by Terry Tao",
+          "source": "Hacker News",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"
+        },
+        {
+          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+        },
+        {
+          "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "source": "Hacker News",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
+        },
+        {
+          "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/"
+        },
+        {
+          "title": "[Rust] Dicklesworthstone / destructive_command_guard",
+          "source": "GitHub",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+        },
+        {
+          "title": "[Python] Shubhamsaboo / awesome-llm-apps",
+          "source": "GitHub",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+        },
+        {
+          "title": "美國醫學期刊研究顯示AI早期診斷錯誤率逾80%",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55TVRBTjVKQ3gwcTB2YTg1LTFlSnB2cEh6Z0ZDTGRLa1drSGZjNnRjaW5DWmJrdXV4V1hvanAxRUpZaHE0cWhBcnluTDgzdw?oc=5"
+        },
+        {
+          "title": "Health system learning enables generalist neuroimaging models",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04497-1"
+        },
+        {
+          "title": "從治療到陪伴臺大醫院以醫病共享決策打造安寧共同照護模式研究成果刊登國際頂級期刊JAMA Network Open",
+          "source": "ntu.edu.tw",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mR2lhWHVTd2tnMklrdVlrVlljZXk5ZDRVT29hZlVBSHh4XzhvOVFFTmRRNUxuTUhya2lhMFFoOGV2aFVUTE5EYWMwd0d6dWJpcnkzUm9BVjRhellCdTloeVpESXhnZVk?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-07-11",
       "title": "新聞雷達 (2026-07-11)",
