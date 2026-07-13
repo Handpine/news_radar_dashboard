@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-07-13T14:13:11.015784",
+  "last_updated": "2026-07-13T14:28:27.142304",
   "daily": [
+    {
+      "date": "2026-07-13",
+      "title": "新聞雷達 (2026-07-13)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-13-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "台積公司2026年6月營收報告",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DVUlTbjlhN1l6Rk5BeE9HZXQxZ2Z5dTBObkpXdVFYTXp1NDFQZTNRdkRFVFh5b21ZcDI1aDkxNDY4ZXNCa0pRb05CSjEzdw?oc=5"
+        },
+        {
+          "title": "突然就出現了！氣象署宣布：第11號颱風「海神」形成",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMmlqdTI2UDhTd2hJOW95NDctR3VFdW9YZHBvR2JCc0UwZF9sUElGV0ZFMmdra2NFRzZYN1E3anFvR1A0bkREbjk2U21zRnlOd2Eyc2ZFVGdIVEs2Zm5Hejk5djbSAWpBVV95cUxNSEpUZXRGbVp0LWlBWnY2a3c1dE9BMHNoNkxIdkgzdFVGSm9oUWx2YVNKT0NGZElsVWYtY1pwLVFSSUQxcDJiaV9IV0twZFdoRGtqUlV0MGtUZ2UtM3dLZ0VlNHBVc28za29R?oc=5"
+        },
+        {
+          "title": "快訊／7縣市大雨特報 一路下到晚上",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STUp6UGo1dTBjdVdiOGhlSHRlWEh6N3NEVGtTWDhXMzlhbHpwTDB6c0RmYlo1MURyeGFMSUNIMWdsNEVMdllKZDZ4SG9jWWJuZXpnMw?oc=5"
+        },
+        {
+          "title": "企業客戶隱私反彈，微軟 Teams AI 政策急轉彎，Copilot、Facilitator 可一鍵關",
+          "source": "inside.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYndKUmlnVjdQYWY5NnllSjlZekxiYzg4cW9CN3M1Sm9NeDN4TnhjekNxMW1vdFZYZHF0NmZRcF9GSUJ2XzFpNmwxTnRXUmlacFpYSmM2V3hKS2ZhWmNLZms4ZnNVb0JuR1BwVWl6TUo3clNESV9VYVJyUTcteTFjQWtROVFtLXlj?oc=5"
+        },
+        {
+          "title": "市場報導： OpenAI、Anthropic和DeepSeek都在尋求客製化AI推理晶片，趨勢顯現",
+          "source": "科技產業資訊室",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01WURpeXpuZG9VaXNXMDhxVWZIaTZPYy1Ea1Y2Qm1vRklEbm56VUhEa3NOM1I2M19YUlQ5NUJiVzBjS3B4QmZSNlZwd3FCb0g4LVdGM0tpaFhyQWl4S24yTy1EdDdLNXdoNUE?oc=5"
+        },
+        {
+          "title": "OpenAI高層再異動 安全主管海德克宣布離職",
+          "source": "自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TaDFkdzFxTFlhNFdHZm1ITEI3QU5TOE9KZFZnejBfWUY4bl8tMnVybFU1dUMxNFkybHpFcVRTd2RuUWlVQUwwRzFVNnJZY1hrZU5NOS1KSXRXTWNDYjJZ0gFkQVVfeXFMTTNQem5FUGVCdHhfalF3cmFid1hJaWNyTGJpSjdXaXpGVFBHUHRaLVBwbWJwR3A4YXFhZDlNVklwb1lld2NrdnZiek9RNDFlUE42YmlwQUlpcldVZDJyQkJuZWhNNQ?oc=5"
+        },
+        {
+          "title": "爬別人的資料叫「合理使用」，自家模型被抄卻喊侵權？AI 大廠雙標挨批",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalhzMkFDUW9tS3RMMWdBQjlTeVU3dzF4ZmwzN1FBLS1UR1didmMtY2M4d3pHeEFvY2JLaEFJOEQ3blhzbTZrczNBZ2tfTnlhTV9HR2dwLWNEbTk3NW5rMG9jUHhLaXRRam52RnVRbTFEdFhxYndxX2IyYUg0bEhKc1ZSZXJzdGhKbS1ob0lRTVYtaFcwN2JCc0V6R0JwQU9GcXhXb1hB?oc=5"
+        },
+        {
+          "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+          "source": "Hacker News",
+          "url": "https://nebusec.ai/research/ionstack-part-2/"
+        },
+        {
+          "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/"
+        },
+        {
+          "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/"
+        },
+        {
+          "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.08894"
+        },
+        {
+          "title": "PrefectHQ / prefect",
+          "source": "GitHub",
+          "url": "https://github.com/PrefectHQ/prefect"
+        },
+        {
+          "title": "anthropics / claude-cookbooks",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-cookbooks"
+        },
+        {
+          "title": "Crosstalk-Solutions / project-nomad",
+          "source": "GitHub",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+        },
+        {
+          "title": "下背痛有救了！每天走路100分鐘，風險可降23％",
+          "source": "JAMA 報導",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Q29MTVRhWEEwamdvSklXRDhpSFM5UkVjQmJ2WDNVN0dPSnFZaFBEOHpqUl9CaFJqeVMwVkpZd0t3N3RRdDZSQWJSVHh0VDlDM2FLd3hZTjI?oc=5"
+        },
+        {
+          "title": "Phase 3 Trials of Inhaled Treprostinil for Idiopathic Pulmonary Fibrosis",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2501488?af=R&rss=currentIssue"
+        },
+        {
+          "title": "[Comment] Can oral GLP-1 receptor agonists ACHIEVE the same as SGLT2 inhibitors?",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01040-8/fulltext?rss=yes"
+        },
+        {
+          "title": "Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04490-8"
+        }
+      ]
+    },
     {
       "date": "2026-07-12",
       "title": "新聞雷達 (2026-07-12)",
