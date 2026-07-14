@@ -1,6 +1,208 @@
 {
-  "last_updated": "2026-07-13T14:28:27.142304",
+  "last_updated": "2026-07-14T14:34:15.656220",
   "daily": [
+    {
+      "date": "2026-07-14",
+      "title": "新聞雷達 (2026-07-14)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-14-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "「每月發1萬津貼也不生」 中研院曝少子化3大原因",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91X0pNc0ZpN0Zvd0U3M0QwMFFBNjlMYzI4NVkxZWp0VTM5bDV5VXZkNHV5dW1COWMyU2VtNlRvdHdoM21sZXdZdmcwYTB4UTI4cHZ6MHhWZUdXODM5WEFtZzFZNDRqQTZIdUgtUG9n?oc=5"
+        },
+        {
+          "title": "巴威還沒消散！橫掃中國華北、東北釀創紀錄暴雨 明出海調頭襲北韓",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UVkJWVHlDS2lSR2ZjM09zQksxQnFOc3FsZUl5aW1ZOFBZdHpvTmtSelBBQjZfRkx6X09uVDMtR2NrQW5sSEVVWnUyZ2J4NUlCeWlQZWNkU1M2NFJRVjg0LW9HOUbSAWpBVV95cUxNVDA4X0tteTluZ3QzdERyM1pmQXkyaVNtWXRKNU9wdG53eExOb1FYdkFMM0Q4RnBXTTBEeUttcFNSOWt2M04wZG0zWG1zYlF0RGktaFgxOTdpYUlSbTQ3TFEtakQ5aktYWmRR?oc=5"
+        },
+        {
+          "title": "OpenAI 公布 GPT-5.6 提示詞指南：只給結果與紅線，其餘交給模型",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaV83MFJjM19SZU95REFIVldSdUs5dTMzUU9US19sNWdXU3dES3JlNWRPSndUTUNiV0w1azY5MUhDeXVmdlA2cU9maFdaOU81SnEzZUZoaWYyUy1NeEpDTmxqTU5GcjRwU2pJMDVPS00wQ1Z2WExZS0ZvUEJLSGtqWmxCOHlEVW9iMmprSHE2N1R0UTBVMVNR?oc=5"
+        },
+        {
+          "title": "OpenAI 權力洗牌：安全元老 Joshua Achiam 離職，白宮政策操盤手加入",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPLS1KSDVLTGhUSnZ2cjRnZ0J4NG9XemZUMzhIZUlraHhZNnZLd19QX3M5Z01kRk1rdmhkWTJnZnlXbkFoai1BSkk0X2d5ejR3VS0zWHREM2xoeTVPTVhEbUhfMWprcmE1V0oweXlqcGVfT1E?oc=5"
+        },
+        {
+          "title": "印度貢獻 5.8% 使用量是 Claude 第二大市場，官方改用盧比計價，卻比美國更貴？",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0pyTjlHdGVaSjRKN1FSZzkwSmJoT0dUVldTaHdPeXNoc1hPVTNDMzlBbDJlRkU0MlZHRDVRWlUzVmlIazA4bEN0UDVMMXNCaVg4bHFxMENvamNZa0U1eW5SdVhoazJyc0g3Q0NvMzBkOFdoVTdnYjBjbnNNVWpneThjTTk4OEkwYjdvYklhZmpEXzc5cWpOVDB3MElmNEJD?oc=5"
+        },
+        {
+          "title": "封殺速度加快，美空軍內部下令提早全面移除 Anthropic",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVdzM1hzeldCaWJuM1NKdDAzUFRWbzBzcjl0bkd5SzZGUnNQMjVuVnY0enFJU0lTeWF5d085eW5fU0Zkc1lkQ1hUWHVBekNPeW10bDFiNVZOTS1rVmhycFNDbFBXRHA1UTVVcUV0X092bjlrLVkyMEFIc2Z4U1lNRHJKWTFrejdJc3JDSWhYWGRMd3M0NGxWRkgwNy1QR0k3bHNTdW1OM2tmc3ZTeVozeGRxNndwZW44cHdVc0E4QWxQSklQVXRGMmpNb1IzSDdx?oc=5"
+        },
+        {
+          "title": "LTM與Anthropic攜手合作，加快Claude普及並擴大企業級交付能力",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOLXh3RzRLVXVDc3FuQWNKX0xFblJCdldWVzU0R0dmU1hyY2g5eGtEWmRGQW11RHk0M3dncDMxaG5xSzBJNE9rTW41Nmx1ZkhXd1RsaW5KTUpLSUEwbTdJR013RDc1djZrMmticUtjajQ1U0tVU3N0aW1lWXVMYUx5d3ZoemFZTVNLTl9id0dFX21ZU2YxNEwyS1RRdHhfZHViUVBQVE1MTGt6UktFVS1aWk9QYXBBU3JpU3BXa2JPUkFmN2o4VGJaaFR5R3FkSGVZaW1NU2NDODVMX1lsQmN5U0N1TFVVMWNGUVZvRXJyOE00aURvTFNCd29iOE9oVy15WTZFOEtVTllnSVVLUXdoeFFtaDZ6WnR0T1dxQ3BmM1ZRdWtMMldIWjFET1pqNFA0VWdVNDZNY21EYkIwYmJyR0xrQV9xcnVlOXVPVG8tLU5UaFd3NFRkMg?oc=5"
+        },
+        {
+          "title": "The latest AI news we announced in June 2026",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+        },
+        {
+          "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
+        },
+        {
+          "title": "新型釣魚平臺Forg365結合AI技術，鎖定Microsoft 365帳號發動攻擊",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92UEFBRllRSEo4QS12RjU5NjY0eEt1dDhkME9WMkZSLVNzYVBJUWo0dTNCV1pNbUFVRTVmR2k2UUx2TnFMOUJzZ3ppVkFVZw?oc=5"
+        },
+        {
+          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
+        },
+        {
+          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
+        },
+        {
+          "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+        },
+        {
+          "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/"
+        },
+        {
+          "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+        },
+        {
+          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+          "source": "Hacker News",
+          "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"
+        },
+        {
+          "title": "YouTrackDB is a general-use object-oriented graph database",
+          "source": "Hacker News",
+          "url": "https://github.com/JetBrains/youtrackdb"
+        },
+        {
+          "title": "The Git history command deserves more attention",
+          "source": "Hacker News",
+          "url": "https://lalitm.com/post/git-history/"
+        },
+        {
+          "title": "Australia is offering free daytime electricity",
+          "source": "Hacker News",
+          "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/"
+        },
+        {
+          "title": "Fundamentals of Wireless Communication (2005)",
+          "source": "Hacker News",
+          "url": "https://web.stanford.edu/~dntse/wireless_book.html"
+        },
+        {
+          "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.09664"
+        },
+        {
+          "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.09665"
+        },
+        {
+          "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.09678"
+        },
+        {
+          "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.09689"
+        },
+        {
+          "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.09698"
+        },
+        {
+          "title": "[TypeScript] OpenCut-app / OpenCut",
+          "source": "GitHub",
+          "url": "https://github.com/OpenCut-app/OpenCut"
+        },
+        {
+          "title": "[TypeScript] moeru-ai / airi",
+          "source": "GitHub",
+          "url": "https://github.com/moeru-ai/airi"
+        },
+        {
+          "title": "[CSS] Nutlope / hallmark",
+          "source": "GitHub",
+          "url": "https://github.com/Nutlope/hallmark"
+        },
+        {
+          "title": "[PowerShell] Raphire / Win11Debloat",
+          "source": "GitHub",
+          "url": "https://github.com/Raphire/Win11Debloat"
+        },
+        {
+          "title": "[Python] Graphify-Labs / graphify",
+          "source": "GitHub",
+          "url": "https://github.com/Graphify-Labs/graphify"
+        },
+        {
+          "title": "[Python] github / spec-kit",
+          "source": "GitHub",
+          "url": "https://github.com/github/spec-kit"
+        },
+        {
+          "title": "Nutrition Therapy in Critically Ill Adults",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2506111?af=R&rss=currentIssue"
+        },
+        {
+          "title": "[Editorial] Ending HIV: a reality check",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01375-9/fulltext?rss=yes"
+        },
+        {
+          "title": "[Comment] The US Ebola response and the future of global health leadership",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01291-2/fulltext?rss=yes"
+        },
+        {
+          "title": "[Comment] Treating penicillin-susceptible Staphylococcus aureus bacteraemia: confusing the issue with facts",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00857-3/fulltext?rss=yes"
+        },
+        {
+          "title": "[Comment] The next step towards lower complication rates in fetal therapy for congenital diaphragmatic hernia",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00972-4/fulltext?rss=yes"
+        },
+        {
+          "title": "Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04570-9"
+        },
+        {
+          "title": "An anti-PMEL antibody−drug conjugate with a Gq/11 inhibitor payload in GNAQ/GNA11-mutant melanomas: a phase 1 trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04518-z"
+        },
+        {
+          "title": "A second chance for gene therapy to restore natural hearing",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04512-5"
+        }
+      ]
+    },
     {
       "date": "2026-07-13",
       "title": "新聞雷達 (2026-07-13)",
