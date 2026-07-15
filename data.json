@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-07-14T14:34:15.656220",
+  "last_updated": "2026-07-15T15:08:29.416396",
   "daily": [
+    {
+      "date": "2026-07-15",
+      "title": "新聞雷達 (2026-07-15)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-15-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "陽明交大電機教授闖樂器行刀砍姻親致死",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LX3oyMzdBQXMtREpHbjhrYjJlcm9rc2dfeWRzbUVienlDb2tweG9kdU1VbElGeWFYRnA3YkFGZXZLLXNIYXNBREdZVFp1MG5r0gFWQVVfeXFMT0kyLTQ4ZWk3bWx2RmFsR1hTUjNsN1pPQzY4dURTZDktd2NkZWI3ODUtdG81Wnk0TnpOSlpoYkU2dVdhaGNPV25qaUI0SDFtQnVuaG9tV2c?oc=5"
+        },
+        {
+          "title": "桃園市府證實「可申請改判體位」引爆佀廣洋免役爭議",
+          "source": "三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zZDZwT3RLT25zbS14Wld3cWNmWFBfUy05MzYzdWtZaVE2LTNqY0lvamRpQUxseDdUSzdubk9nVmtfckQ4NE5sZtIBTEFVX3lxTE8xSF9acXlBX09QbDJOUVhmNWVuLXVpOURtOWo1SGhQWDVmazJBbndiTFlCTUY0MDY3MTlFbC1nTlJqbGJ6ekk3ZXA5Q2U?oc=5"
+        },
+        {
+          "title": "政院毒油風暴延燒，卓揆不滿台中市府搶快公布流向",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qb0dHejVvZDJDMmhvSWUtV2FGTnJKZ0FEWHI1eDExcmVEWjQ1QUxab1JmcVlDU2NuOTV3TUVTSk1vc2JDMklyNzB3di02SmpTTVlJ0gFYQVVfeXFMUEJabk83WXpJYlRxN0pqM3QwNEFVMG1DaTI1ZFNRaXVGdmZWd3FxUjd0WUlyTkJ0VU9mTUVuTzJScTUzUFdtVFlPUjRGT3dNSkV0NUlJbDVMRw?oc=5"
+        },
+        {
+          "title": "OpenAI 硬體傳聞再起：無螢幕且會移動的智慧音箱",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQOFhRUG5PX3BQOGJFbk9SRE9ET3dfZE55Q2xRM3hySlktODRxZV9JX1VZMzJpTkNxNzB3MVJtSWJSLTlDVlRMVmlXX0U2V1RIOG9JUVYxYW9GVTJyVkoyd0lwSDExTjZ2V1NmS2ZzMDJwTmxTamZBR1J2MXZGVURmWFFBdWpCc1phYw?oc=5"
+        },
+        {
+          "title": "OpenAI 持股喊價買豪宅，分析師警告「AI 泡沫最危險訊號」",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOWlB2aUFuZHYtSEVCVXladE1tN0RlbmRLQS0wbXV2emxrQk00VHJFSFZPQ3A3MnkyMkh5dEJURHAwSndKMXlzeVdZZXZTTFp6WjZHRFg3Nm4wZDNxSWlUbEFtb1F2dC1IXzI2TmpGaG9EWjJGNWhQZUw5U3ZiTFhJZWhBMUlxcjdkNjkxalhoWmJMYzdGX0NUY3hjd0REUzFXTzB3UVFQbmp0SGFHc0pZekJOWTZSQkZJODN5WnBidnZ3WGNqQmdJcWxOWk1PRzNaWjlrRUFkaXZFZTFCNUk3Q3hSZl9VUkxjb2RnVXVISXBsZzdTdEhGa0NvbnB3ZkdvdmJkOW5uMGNpbjgwcUhRNmtYVm1SRmhZSlAtMXlMSEgtLUt4SnkwMDYxM2JmanYzWjFUcVQ0TVk0X29UZUhxM0ZSRzRBNjZXd0lOMWJmMzg3VFBBTk5qZU1oYURkQUtLOGNoNWZUT1FxVmV5UjhIMXhnLTkxbmNlOElFWGRMcGFFVDVmRUhJeVZDVHYtNFgzYnM5SmhTbThScmR6d3FtQktpOEQybjNDUXFlaTgzd242MlQxeEE?oc=5"
+        },
+        {
+          "title": "AI 也有雙重人格？Claude 英文刻薄、中文卻極具同理心",
+          "source": "數位時代",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rUFRsS2ZUdW1DM1E1cGRsbjh1VXlUdVRBdXZrOTZxc2R5R1hnZy02RklJTDctSW5vTWNXQWt3MmdNc0g3YU1Kb1lGMGlHRjJ3N1p4Z1MtLUcxd0ktZFQzNFZBc1gyMUFzNFZfc3F2Y0tQSFIt?oc=5"
+        },
+        {
+          "title": "Claude Fable 5 導入用量計費，高階 AI 訂閱模式生變",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkRvRjRHbDZ6VE9MZXBXTG9CZFVXU1NZLWt0S2c5dFVMSXRPbUdEVW9rZ2RjOUFMRjZ5Y25XR0dzWDFVWHJyVjNCYUJianliam9MSUt6SWdsZEhjSjFCU2EtX0FFRVlNQ1h6NDFEdFltVE1fd1ZSUlFzblRJbzl5aDVmS2NUa25OR0pfVlBhSFR4d0tFRFJrZVZVMkEydVdKdk1SWWtYaTBWSFdlUXNNbTRLTHFUTldSZlQyZnh3ZGZpRjcy?oc=5"
+        },
+        {
+          "title": "梁文鋒躍升全球 AI 首富，身價 360 億美元超越 OpenAI 創辦人",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrZHpyQnhKOVJMV0RUVXExanI3anJmbUZ6dDIyazFGVnozOHdHNE1tZWthS1dBekR6ekVyX0gyUGhDUmRTM2o2WmViYXVWdWdq?oc=5"
+        },
+        {
+          "title": "OpenAI 新旗艦模型爆災情：會不受控自動刪除用戶檔案",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
+        },
+        {
+          "title": "OpenAI 前研究員籌資 20 億美元創辦 AI 藥物開發新創",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+        },
+        {
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "source": "Hacker News",
+          "url": "https://www.ayush.digital/blog/the-memory-heist"
+        },
+        {
+          "title": "Bonsai 27B：能在手機上流暢運行的 270 億參數模型",
+          "source": "Hacker News",
+          "url": "https://prismml.com/news/bonsai-27b"
+        },
+        {
+          "title": "mattpocock / skills",
+          "source": "GitHub",
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "title": "virattt / ai-hedge-fund",
+          "source": "GitHub",
+          "url": "https://github.com/virattt/ai-hedge-fund"
+        },
+        {
+          "title": "penpot / penpot",
+          "source": "GitHub",
+          "url": "https://github.com/penpot/penpot"
+        },
+        {
+          "title": "運動後大啖奶油吐司？醫：血糖震盪恐更容易餓",
+          "source": "自由健康網 (JAMA)",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xamRhczlabnhPLTdqOUE5b0tfOFJqcFRmVXI2MUZuZ2VVSGlnNXhXczBFNmNjMHhVMmh3aGZOWDA2Rkd5dFNUVTZfa1NITlFvUWxlcmstM1JFVWJTOXdzYdIBYEFVX3lxTE9xamRhczlabnhPLTdqOUE5b0tfOFJqcFRmVXI2MUZuZ2VVSGlnNXhXczBFNmNjMHhVMmh3aGZOWDA2Rkd5dFNUVTZfa1NITlFvUWxlcmstM1JFVWJTOXdzYQ?oc=5"
+        },
+        {
+          "title": "年輕族群生病時，除了醫療費，還擔心什麼？",
+          "source": "careonline.com.tw (JAMA)",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMlB5T1E1QVRhVlZNekp4YVJ4OFBLU0dwdmZHSTIxVm1rbXdybEcwVW9yTnNVdFBIRzhaa3ZkLVJXYVJtVFFCaW5EZkRPY1A2b2RiX1ltWGx1alRzNGhJWmVJWEpHQQ?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-07-14",
       "title": "新聞雷達 (2026-07-14)",
