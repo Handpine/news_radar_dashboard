@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-07-15T15:08:29.416396",
+  "last_updated": "2026-07-16T11:47:41.141958",
   "daily": [
+    {
+      "date": "2026-07-16",
+      "title": "新聞雷達 (2026-07-16)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-16-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "青安3.0設年齡房價等條件個人年收200萬列排富",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VMGV4MDJpd2Y0MWplVWt3aGlMS1lCdXlYZXpwQkE5aVFaZzRqcWRHWi03VktlT3pwZ1l6cjNXWUVvOXRQMVBNM05NR2JDXzJ5MGw5cVRWQkZZWlpVWS00?oc=5"
+        },
+        {
+          "title": "OpenAI 推出 230 美元 Codex Micro 鍵盤 專為 AI 代理工作流程設計",
+          "source": "流動日報",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXNZNVJWM1dLNjFaRW1VQkNxNHhDZHV3dnpzTXRRRUd0WjFhaXVqTWhWaFBlQU1nRkVNaUk5Qkt1SkZleERQR2dOemR0SUdILVJKOVI1VE5Xb1BSdUhFSmJOcTNLcXZHWVpBVlJ6Rl83Mm1TTHN4cEF1T0NWMHVMREZzeG4ya3dLRVN1dWtwRkVjalZwNkE?oc=5"
+        },
+        {
+          "title": "Anthropic估值挑戰1兆美元大關 擬舉辦試水溫會議為IPO暖身",
+          "source": "DIGITIMES",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5cWhhNHlaYW16OWE1cjM2MHFxb2JfeXk0ZzhXLW1wdXhqSTZ1SDkxSXg0WEwwR0JJTmRHckFVV1ZlN1JnUnBCYjVtb0I2X1U3VmMzT25xNm1qbmRzdmlFMlRLQUY1X3ZJUHA0?oc=5"
+        },
+        {
+          "title": "Microsoft 單月修補 570 個漏洞破紀錄 AI 掃描技術改寫修補策略",
+          "source": "unwire PRO",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTE5pbUVUMmw1b3Jad2pNUXowb050NXdIOUVCUFVhZDdaVjNFbW05emVyUC1ueDFjVXMxNG5pR2l4VXc0a0hwRU9BV1lMUFUzcGxWUFdZN2hqam9JbEdlRldWbkw5MThTVkFvNHNvdjFKdE5Fdzg5Q0hGcC15dk9Cbno0RHpPX3NHNmlDVUpyM3IxR3FPS3Qw?oc=5"
+        },
+        {
+          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+        },
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "source": "Hacker News",
+          "url": "https://thinkingmachines.ai/news/introducing-inkling/"
+        },
+        {
+          "title": "openinterpreter / openinterpreter",
+          "source": "GitHub",
+          "url": "https://github.com/openinterpreter/openinterpreter"
+        },
+        {
+          "title": "HKUDS / DeepTutor",
+          "source": "GitHub",
+          "url": "https://github.com/HKUDS/DeepTutor"
+        },
+        {
+          "title": "Immunotherapy with a short-lived anti-PD-L1 antibody in Alzheimer’s disease: a phase 1b, randomized, double-blind trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04547-8"
+        },
+        {
+          "title": "Studying vanishing dietary diversity before it is lost: the World Diet Initiative",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04520-5"
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "title": "新聞雷達 (2026-07-15)",
