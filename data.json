@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-07-16T11:47:41.141958",
+  "last_updated": "2026-07-17T11:54:46.606322",
   "daily": [
+    {
+      "date": "2026-07-17",
+      "title": "新聞雷達 (2026-07-17)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-17-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美軍狂炸！白宮：伊朗續與美對話 盼達成協議",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYYmFvbGRNZjFyRkRaNHJMbnB0eHZhakYzMTY5SFZkOWlRWjc3OU5jQ0RJYWtudE4zR1E5STYyT2JUUWFteklhR3dyRUFqaFlicXpR?oc=5"
+        },
+        {
+          "title": "獨家》虐童疑雲！台南保母全日托2天 1歲男童頭部瘀青吐血亡",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jSDJmR1ZKMWVhZlJFbzRuQVVCX2VFZlBFWFdMaW96c0trNmxjQlNfaFBtcWdFM1hxalFaTFAxUmhPaXZJZW8tdWh3TFQwdmZVbkE5UXplbzY0QjVvbnVLSnNEZmxUYlZZ0gFuQVVfeXFMUG8yTktNVW1tay1haW4tY3dmNFQ5M3NjV2tLM0tRdFdaOGlscVlwREdlTTRIOFktc3VVU0RieGZFVnRCTEVpV2FXYmRSTnB6TWltVzNJVVY2OXMzcHJZamJ0SWdfNnd6UjF3R19wSVE?oc=5"
+        },
+        {
+          "title": "OpenAI是下1個雷曼兄弟？大空頭拋萬字長文預言AI泡沫大崩潰",
+          "source": "自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jZWI4Ym1Wd2lYSVhIUzZGUVhJZHdWZlBXemdKNlFqenMwQXVnR2N1SENJa1hma2k5WDFXNGd4M292aHZXMldiaC1uV0Q2T2FuZzRLaUJWbXFBaDE2N0Nj0gFkQVVfeXFMUFF4clpic1k0ZkNCU21hcW5XQ0QzQWhYZzFQSXFvU09tVUp5WjdWNTVxWG5qUEFuT25HVldEbWhwTmhuQTB5em9pa2lzcXRGb3duSWRtVUJCMF9PeWtNQmNhaWl0WA?oc=5"
+        },
+        {
+          "title": "月之暗面 Moonshot AI 即將推出 Kimi K3！具備 2.8 兆參數，性能直逼 Anthropic Opus 4.8",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0NoTzZEZWFBZUhUYWdJbXpDd0xGVXgzT2FKWGV5bUVpdFZDaW1JVGRmNVVaLVB6dk1jb1phLUdaT2hSRDAyZDZTRHl2TmR6VXB2S3c3SXl1dUxpcHBQQ3NZZm1ZXy1PRlZDMTJDYU5FRDNyVDJpc3Y4WVdleTAtQ0x5MA?oc=5"
+        },
+        {
+          "title": "摩根大通執行長戴蒙示警：Anthropic AI模型恐引發金融資安危機",
+          "source": "PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcU9rc3E3UFBiN1ZKQ1czM0N4Rm5KUDFzVXJGR3dzb0hkM3NyY3JHTW5ySUJDd2txRXB2c2Jmd3U3WXpURU0wWjV3dHBEdUgxR1EwdUphOEFUV05NYW1WelFUUlUtMFRWa0FHSWZIaFZTS19PdFczajVjaWRRUTJ5T1ViUHZ2cFExd18xMw?oc=5"
+        },
+        {
+          "title": "Google Vids now lets you star in your own AI videos",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+        },
+        {
+          "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/"
+        },
+        {
+          "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/"
+        },
+        {
+          "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/"
+        },
+        {
+          "title": "PostHog / posthog",
+          "source": "GitHub",
+          "url": "https://github.com/PostHog/posthog"
+        },
+        {
+          "title": "lobehub / lobehub",
+          "source": "GitHub",
+          "url": "https://github.com/lobehub/lobehub"
+        },
+        {
+          "title": "apache / ossie",
+          "source": "GitHub",
+          "url": "https://github.com/apache/ossie"
+        },
+        {
+          "title": "A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04498-0"
+        },
+        {
+          "title": "Mining antigens for a universal malaria vaccine",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/d41591-026-00036-0"
+        },
+        {
+          "title": "Health Care–Associated Infections in U.S. Hospitals, 2023 versus 2015",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2510881?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-07-16",
       "title": "新聞雷達 (2026-07-16)",
