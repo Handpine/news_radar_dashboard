@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-07-18T13:31:02.413831",
+  "last_updated": "2026-07-19T07:32:49.049628",
   "daily": [
+    {
+      "date": "2026-07-19",
+      "title": "新聞雷達 (2026-07-19)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-19-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "家屬聯繫不上…台北市調查處調查官陳屍辦公室 身旁有嘔吐痕跡",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6NmtJZDU5ZjdQa0JJcVVmeDJrb2xJS08wT2I3YzBIMWhSY1NtYnpwTk5BQVl3U3BqZmt2eXZQZ2IzU183bzhXcHpYaFFGbnlZ0gFWQVVfeXFMUHZhYUQtWmRqdm1Hbno3RGRqR0g5S1M3WlBmeVFwdnB3UG1PMm9tSVhCOEZOZVEwYVlmRWFYaXA0eEphX3NGOXFGcUY1QzdpOGhsZTFiVWc?oc=5"
+        },
+        {
+          "title": "錯過等26年！7/19三吉齊聚「最強開運旺財日」 命理師教這樣做",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fTnAtY0FpejRzbW83NzlJejU0bWI0Z19qUjA3YWp1d2puMmJJd3ZXTmxpMUQ3VnBxRUw4XzdRN2l3UFJfSWZ5VnRoellzaC10YS0tMmc4bWlFOHZFX0VVNWxySUPSAWpBVV95cUxQM1BNUnB5ZEU2MTd6U0hIM3lCbzloTmpxSkZxMXZCbUEtcGhaTW9mMnBpTDF3YTB1VHVXa21ObDJmSExEekZLRnZYb1dfSzFVVUNPTDJfc3NwNkZjQVp1amczc2MtT1NpZDZB?oc=5"
+        },
+        {
+          "title": "菜鳥門檻飆高、老將提前退休，從微軟裁員看 AI 帶來的職場兩極化風暴",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rcXRkRVREN3FTcjhWSGk4ZTBXaDFXZTl3MUhONThnWGszd1VyYVNnMTZhd3ROVWd2ZVhSRmFOMGJYR1JnYTd4ZUxybVBySDBxc21oeUVLaWtkRVN2R1FpOGdBa1FybGQxTkNwb2l0elFTeVM0MzdLcGppYnZkZw?oc=5"
+        },
+        {
+          "title": "Microsoft（MSFT）AI合規壓力升溫，真正受益的是哪一段供應鏈？",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmhlNmVDbWlJZlhGazBfMUhtMThVcHZvWXBseDdsVGs3a2hWWGZ4MThsNFZLWTBGTko2QlBISHc1NzFwZS1rS1RyLWJZUTRPcXlFVjRXdzVFeXJralpOZGR3MG5yWElUMXRRa0dkWXg5b2huWTdPVmc5eW9vUW5HQw?oc=5"
+        },
+        {
+          "title": "Connect more of your apps to Search",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "source": "Hacker News",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
+        },
+        {
+          "title": "Federal employees can download TikTok on their work phones again",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
+        },
+        {
+          "title": "Your Period Tracker Is (Probably) Spying on You",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "source": "Hacker News",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro"
+        },
+        {
+          "title": "rohitg00 / ai-engineering-from-scratch",
+          "source": "GitHub",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+        },
+        {
+          "title": "lyogavin / airllm",
+          "source": "GitHub",
+          "url": "https://github.com/lyogavin/airllm"
+        },
+        {
+          "title": "KnockOutEZ / wigolo",
+          "source": "GitHub",
+          "url": "https://github.com/KnockOutEZ/wigolo"
+        },
+        {
+          "title": "APOEε4關鍵基因加速認知退化國衛院首以台灣族群證實",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQ1hYUWF5cGVrM3hsYXBWVGxtQmNEMFpMRXN0YnFnOXNaTjRLZElVNElra0dvUklBSGRmQkg4VGplYURpRS1lY0ZLVXhKZ3FsaG9ZamluVXBGVzZWbFRj?oc=5"
+        },
+        {
+          "title": "Efficacy and Safety of Obinutuzumab in Active Systemic Lupus Erythematosus",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2516150?af=R&rss=currentIssue"
+        },
+        {
+          "title": "[Comment] Tirofiban and thrombectomy for acute ischaemic stroke",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01232-8/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "title": "新聞雷達 (2026-07-18)",
