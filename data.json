@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-07-21T08:10:25.565527",
+  "last_updated": "2026-07-22T08:09:00.569747",
   "daily": [
+    {
+      "date": "2026-07-22",
+      "title": "新聞雷達 (2026-07-22)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-22-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普關稅大洗牌！60國改徵12.5％ 台灣稅率曝光",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIc090eGZhcUx4MEU1R25RbVFjcWZGdm03Wm42MkRzOHpIQ3VuUzVGQU9YU2dteFdTQmtaZ0F5NGlSbnFpOUtCY3JjdzIyVDhOc2hn?oc=5"
+        },
+        {
+          "title": "OpenAI 模型自主駭入 Hugging Face 揭示 AI 資安潛在風險",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZDhodlZYajZzZ19jSm8ycURGSjh2bzNwMzZRZk9xOTZlaHEyTEQ5bXVQRUN2ZXN4aW1FMUNQVG5NOWo3RmVNd3RORmh4dTNIMnhkbjlfMmNXNHdJZGVSYW1JUVhHZHM2ajc5SWpnZmJBN0ZTdFdoQTFGZmVPUmplYk80X2JOaV81Q1F1akd4MzRZak1ubGpaVTFDZjR4ajlxWDBuU2tzZ01QX2ZhZ3BGOVQtSVE4R1A0cjRhTFFrOW9RUDBWMDBIblo5anhScG12NHh0N3lnVQ?oc=5"
+        },
+        {
+          "title": "GitHub程式碼曝光！Anthropic傳測試AMD AI晶片 降低對輝達依賴布局多元算力",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSnIzd21penctQ1ptSF84SURWdkhfVUlrdzZtT2xoUFRKTmxuWU5PT1J6NnRWeHF0MlRjWmxYZi1jZFhFd291TjJRT2QtODR5aXd2M21vbW9sUFQ4WHVPaS0yXy1WUFNWY0ZWdmxUaW5fQVpJbjlzbmhXeGRxeGNfS21CSnJ6SHFBc1o5Y2RZQkJzUGYxS0RUTHRFOFRac3NtamxQMHpHV0dHV1l2SUJpWjJma0htODR1NEQ0ZGpKb2h2VlV1ZDNQMWR0THZqa2JGREhYOVZibnJ3Z0Z1LXNQeGY4S1lkLXBvQnFXdllUZXo3elB5bnNfN1I1Rm5hbEN2NkZiM01zWHQxZlBOSndPSmc5MkFSbjd1YzFLbnZDUXVVblRrSVkyeEphMnpxdU5vUTNCTklRRUhWUFZMVHNFYV94UFYxVkZLWFhmUXNHMGhuVmhKektqY3JMUnpPakNzOVZSYUF2ZDlkUWYwZ3dGRkxabjBRenFENGwxcDBSSTA4ZUpWcEJScV9xVE1lQQ?oc=5"
+        },
+        {
+          "title": "AI 成本飆升就急砍預算？Anthropic 示警：一刀切恐扼殺創新，聰明部署才是解方",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT24wTkdRN3J0NUNNNDdDZ190MlJ6MUxYcV9TVGNNOHRsdVQ0N3JrcFk5cVFEaHlGTE01Z1pBNUFpWms4Qkk5YVFxSUpiNXItdjFsejdDzPnPNhH?oc=5"
+        },
+        {
+          "title": "OpenAI在IPO前新增兩名獨立董事會成員",
+          "source": "华尔街日报中文网",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUm9sX0FSNHZWRjd1UzkxUkJ6MFh0QzNBUHgzbUhtOXdZVGs0WGZ0VTdVZUVUX3IxQnk0cjJzTkpiV0xLaXpJMjdacmRtMzhrZEVSVkJheXNCUkR0VXhrcEt4V2ZPSm5Gd0pwTExFWkdESWJUbDNoVzRWLVF0NW1sdDVWcFE4UUVCRGMtV3lzbzV0RlFOWjRaaDdRdkx3dTV4YjBFbXJpcFhTczlGcERYT0k2SXpObjVLLUlEaEZ5YW5RalR5TzBYZnEwV0V2WWFhSWM0Qm1vaThMdWFsYWxfRDAxYlhfSUlsLTc4TzZCaklYS0YzMEE?oc=5"
+        },
+        {
+          "title": "新光醫院攜手台灣微軟打造智慧醫院 2.0",
+          "source": "Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcm9sNDFKNXhNSVpnUE5DR2YyY1c4M0pidUIybTlsd1RLbU9ncllua1ZrZjEzZERmemZvMTdXMHVlRlhldi1RVmwybndpamNzdnQ4NnNPWmxIZnpFbUdxV0ppMGp6bDRYQ3VPanJMdHU4S2tJS1pQbjNWa3FncjZNZHI4RWJpSWhiMWt2VXlhYVFkbjNrWTZxS0I0bHVVZWVnRTdvcUlEWnRET184Y1FzMTZxYlBwMlBja3dUd3dKUEp1aVRsY0Rkb0ZIYXRyUU9pdFZvRGtfc2U?oc=5"
+        },
+        {
+          "title": "亞太企業加速整合 Microsoft 雲端與AI，ISG：導入重點轉向資安與營運整合",
+          "source": "三嘻行動哇 Yipee!",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNRmwtcnZuWkNLdXcxd3d6c0lVSFNzTzNSS0JYeDc5ekJkUVVoUGlIOEcyd3dTNWhYbFh5NTNxZVN4NlY3NEhhcTM2ajFuRXVpdk16QWNvS2d2RC1oQkYtck9qNWZZZWdrSHl4aFdvRkNmNHFTWDFWa1IxQVQ2LVVKSUNpUGZZOUJtZXlDazBQMFNna1M2UDdmbUVYMWxSMl9fM1NLLU80X054UjBQNTkwczNONWNIYTJwd01qcXNGVUVqUm0xSXJYVzhaRnphRWZrZlZqV05zUnZYTTh4eF9EdWUyOGdtTHBudmNJZ0lycGgzTHpkWTM5RExFekhudUh2MmhqMjBwejFkRlNwY3NINy1Nd0pvdEtPQ05YZUozUGc2MEM5VTdpUU9EN1JVYzdnMWt5MHVzVVRsem9SNTVEeHF1Smx0Vms?oc=5"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+        },
+        {
+          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+        },
+        {
+          "title": "Meta is testing an AI bedtime story app for people with no imagination",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+        },
+        {
+          "title": "AI and the rise of the universal entertainment app",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
+        },
+        {
+          "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.16199"
+        },
+        {
+          "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/"
+        },
+        {
+          "title": "[TypeScript] koala73 / worldmonitor",
+          "source": "GitHub",
+          "url": "https://github.com/koala73/worldmonitor"
+        },
+        {
+          "title": "[Python] AstrBotDevs / AstrBot",
+          "source": "GitHub",
+          "url": "https://github.com/AstrBotDevs/AstrBot"
+        },
+        {
+          "title": "[JavaScript] earthtojake / text-to-cad",
+          "source": "GitHub",
+          "url": "https://github.com/earthtojake/text-to-cad"
+        },
+        {
+          "title": "[Unknown] ayghri / i-have-adhd",
+          "source": "GitHub",
+          "url": "https://github.com/ayghri/i-have-adhd"
+        },
+        {
+          "title": "A new additive in the opioid supply is causing disastrous complications",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04536-x"
+        },
+        {
+          "title": "Genomas Brasil program: building precision public health within Brazil’s Unified Health System",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04523-2"
+        },
+        {
+          "title": "Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04527-y"
+        },
+        {
+          "title": "An iPSC-derived neural progenitor cell therapy for subacute spinal cord injury: a phase 1 trial with long-term follow-up",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04549-6"
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "title": "新聞雷達 (2026-07-21)",
