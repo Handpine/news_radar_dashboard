@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-07-22T08:09:00.569747",
+  "last_updated": "2026-07-23T08:08:25.251137",
   "daily": [
+    {
+      "date": "2026-07-23",
+      "title": "新聞雷達 (2026-07-23)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-23-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "準颱風紅霞路徑北修不排除23日發海警",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nbGZLV2tkQk5kYjFwWEpXa282cUpiaWVxT1FGcVA2YkpnWlFPTVo4YTJvVzVnUXkwaFM1ZXIyd0RuaE9lTEZYSFMwa2VibElIU3MzRWp3bmlHLTg4Um80?oc=5"
+        },
+        {
+          "title": "17歲少年無照酒駕載女友雙亡...母也酒駕兄無照均亡 父悲",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nWVNXOWt6eko2TGo2b1JJNXREZ1ZBamFDTjlrM0RCSm5YU2lQeXpRbEJiZlFwazRta3hqM0FwblY5cEotSkVLMk1uYmo5VlN10gFWQVVfeXFMUFBIMF92bGFucm1GVlBvTDVLRGVnZGVCVDJFbmJaSmxaMzJKUlRCb1M3ZFd2cEZSRVRkRUQwTXRWM2ROTWx4UkZ6MEdydXJ4cjRzU3AxLVE?oc=5"
+        },
+        {
+          "title": "費多羅夫成功逆襲! 民氣威脅下澤連斯基被迫換將烏總司令瑟爾斯基走人",
+          "source": "Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lem9qbW1jNUZHLVJmbV9VMXVRZlhhNHFWLW1uSDZLaEJDY1hsWnFfNllfaldnLWl4OTdpbkpjeUQ5UkFqTWhQRmVJc3lvbVFJajlvTl9XZERadXM?oc=5"
+        },
+        {
+          "title": "輝達Vera Rubin量產倒數！OpenAI、微軟搶先測試單櫃飆800萬美元",
+          "source": "工商時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZN202cUNjbFBrNzNyenlsM2xpY3NLNnhyQVZDck1ERGFqc21WOTRzSDJjX1JuYWpkSUNubVB4bmJzSHNkLUI4b1Q3cVp0cDhRb3NyajgwMkk5akRXUXM0?oc=5"
+        },
+        {
+          "title": "OpenAI 傳上修算力支出 預估2030年底前投入7,500億美元",
+          "source": "經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rLTY3SmtxRmxZTjI0U3hpeDJOb2VDMlg5YUdCcG04ZWR1c2VQekFYbWNONUYyTnFrQ2FKMHhtTVVlNXlhNUM2X0NrdjQ2LWwxR3RPakRTRXZrZ9IBX0FVX3lxTFBzUU1QX1NlOV9BWlRkSzFEUVZhclB0Qm4xWUMyRUFGUzlhYzhVQ2VRaGFLbmRDd0I4UFdYV0l2R296T3lOV0RMVlNuN01RTUVqQW5XTS01UjN5TDY2WFpr?oc=5"
+        },
+        {
+          "title": "大挖矽谷高管、開千萬年薪請HR！OpenAI為何改搶這幾類「非工程」人才？",
+          "source": "商周",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GTnhnWWtVZ1I5YzFhZWpZZFpHSXFoZmpUQ2I0OTBqVWZEanRpM2phdDZMZDVSVnVwNGNZQ2JUdi1tOUc4Yk44VmJ6UkdFWTZfMVVTVXVkQl9HMTBkaDl4d29sQmd2Zw?oc=5"
+        },
+        {
+          "title": "超微搶下AI超級大單！Anthropic砸數百億美元買晶片",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtX0hlVUlsWWRLU1NRUERfUWR5TVo0SFUtblZ1UU1sUFowY3hmdDdrNFVkZk41bzhWUFg5SEpzTGdxNkQ1NWxud3hCOWRFYU0?oc=5"
+        },
+        {
+          "title": "AI開發商Anthropic遭控侵權 美法院判罰15億和解",
+          "source": "公視新聞網PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uNXpTOWVhSXozN0xRaUJ5YjNSQnZUdDRyalZDUV94QlRuSmdEdkE2ejlmODNnZUpXX3U3RGhMZUwzSmh5UWdPaFRISQ?oc=5"
+        },
+        {
+          "title": "微軟偕Mistral進駐歐洲主權AI雲基礎架構市場",
+          "source": "iThome",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52NG1udUg3N1pEb2NmR0dYN1M5NEVoVVVOSkUxS1JCQjlEcml5QjZNbGhRLWViMFdNN3NNNkFzbm00b0gxdm5CZFZxZHVOUQ?oc=5"
+        },
+        {
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+        },
+        {
+          "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/"
+        },
+        {
+          "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/"
+        },
+        {
+          "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "source": "Hacker News",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
+        },
+        {
+          "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.18239"
+        },
+        {
+          "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.18241"
+        },
+        {
+          "title": "schollz / croc",
+          "source": "GitHub",
+          "url": "https://github.com/schollz/croc"
+        },
+        {
+          "title": "likec4 / likec4",
+          "source": "GitHub",
+          "url": "https://github.com/likec4/likec4"
+        },
+        {
+          "title": "diegosouzapw / OmniRoute",
+          "source": "GitHub",
+          "url": "https://github.com/diegosouzapw/OmniRoute"
+        },
+        {
+          "title": "ComposioHQ / awesome-claude-skills",
+          "source": "GitHub",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+        },
+        {
+          "title": "Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04593-2"
+        },
+        {
+          "title": "Governing the social production of care: the hidden foundation of health systems",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04535-y"
+        },
+        {
+          "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04522-3"
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "title": "新聞雷達 (2026-07-22)",
