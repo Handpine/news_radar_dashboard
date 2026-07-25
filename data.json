@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-07-24T08:09:06.655851",
+  "last_updated": "2026-07-25T12:52:19.685747",
   "daily": [
+    {
+      "date": "2026-07-25",
+      "title": "新聞雷達 (2026-07-25)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-25-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "持續增強…紅霞颱風暴風半徑再擴大 氣象署估明上半天解除海警",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBON1VrLWd3Y3ZiNEFqQnFidlRQdjZQR0N4bDY3NlZQQlZ2czJvZTg0N2VUQjVYa3ZHNTdZclRTY3pVTkZuOWNYc1RGMlh4aE400gFWQVVfeXFMTlltZDV3a3k5V2xCTm9sNEpmbFAzRGxGTVY3Vnd3dVBlX3BzZC1oOURCX0JlQXpNTHdnRVJWLVpZS2wtUzJFVzdWdWhOVWFxMVNraFI2Unc?oc=5"
+        },
+        {
+          "title": "雲林羊肉驗出戴奧辛超標 嘉南羊乳預防下架4公噸",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUekxGYmE0c09rVTRTcFdMOWtUdUM1Uml1UEtZVVhwcjloLTZrc2wybFJYWDBlV1lpeGgyTmRzT1FBcy1uU1AzZFZCbHpGanl0Z05URnhwSlpwV2NQZXpIZ3NyX2_SAWpBVV95cUxNUkRzT2tTVGNhazY3ZWJvS25XZXZ6d2VKN0F6QU4zdXVRaGtXUGZQcV9ieHJhSDdaODZ1dmU0N05wTTFhbkhXc2M0TEpmdnRkWG93VHhSNEJrSHhfR2tDQW1YRnZjS2VVNU1R?oc=5"
+        },
+        {
+          "title": "(影) 伊22億美元雷達變灰燼！美連13晚轟伊朗 聖城旅指揮官卡尼也身亡？",
+          "source": "Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaVlua19lVEZOYzRUYXR2bmlQUkxkYjVzM1loZUE3anBZQkZCNzlhWDkzZ2lGZjNrNFNJV2JJV2JyRngtUlFhMmlRTlhselNaX2pKY1IxcGExNWs?oc=5"
+        },
+        {
+          "title": "蔣萬安才嗆725不站出來「爛命一條」　王金平表態：我不會去",
+          "source": "三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13UTRDNEoybVRuLURiRWJqa2cyYWd1NE5LS1BNNEFVcHZUeERmNnF6clJPR1NFZTAtZGtEX2pqZ3B6RTFFTnFDddIBTEFVX3lxTE1MMnpmamJBNzVpZnlqLU1seno4YUJCTk54SkVyWnNObGVCZldqbnRCM0twNjdTNkY0ZHF3VVhPeDlHRGRKUk42cl83eU0?oc=5"
+        },
+        {
+          "title": "OpenAI代理失控釀網攻 白宮提「AI強制關閉」法案",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sNkEyVDdqWXpTVGhxLU9odmhtSGtpVEhFNXZFeTR3RDFZcjloMFFEaDhlcWlYQ1lreno5WHpYVndkbGNPZ05kUmZvaTc0ZzBwVm5HeGNVVVQxYTA2UG1J?oc=5"
+        },
+        {
+          "title": "Anthropic 發布 Claude Opus 5！效能逼近Fable 5 價格卻砍半，成最新預設模型",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SMEpSZmR1M0h1VEhVRU96aXM0eG9GSHM3T19lWE0zT0ljblowX2RuY3pvU1NoekpVWmZXeVBTU1VjMU9vQm1xa1gxSVZ5UVNrV2FiNGFJOXNKdHg2cnZVd2tYZVpxQThDal9nRUNMbURkblZOUVRoRQ?oc=5"
+        },
+        {
+          "title": "美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkV3htN2ZEaktRTk00R1k2SlpZN01CNUVOcFVlUXRrVWJPQVRKajhXQjQzazlnM0tvcUNvR0kxN1U0amdJMmd2VDNOVkNTa3JEVjdtSGc0aF9yZkI1UHRlcUdVSTNaUdIBa0FVX3lxTFBiMUUwOTVKN19VOXZYQmVvY0FRY2FHWXpsLUs2ZzVGdnlYcG85a3hwVGpITWw1YW1HdlRhVmZadjgxVHZFUDlodVBqQVFmWnJ4cnpwWUtCeWRFZUQtcUVrbHI1RXZDWUhmcUN3?oc=5"
+        },
+        {
+          "title": "輝達砸10億美元入股Naver並擴大和SK合作 SK稱Anthropic有意打造晶片",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFQnVBZ3lEcTFDYlhHbHNHaWpVN0M4NmRlX2YybzlFU3pGMlNKY01NUkJhMmVnTkgydTNobDgtQXI0cWVfUF9zYlZ1ZjN1S0RO?oc=5"
+        },
+        {
+          "title": "OpenAI失控越獄，靠中國AI救場",
+          "source": "日經中文網",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWWRITVJUdVdaUzdKeG4wNFV2MUtwMmc2UFdsTFMxNFBRcTJ2RVkwR0RoU2xwbzROZHNMQ0RVUlhUVTFtUEh5VzZOa3BOeV9wb1lJc0RiTGlMdTdhenliSWF1TTA2QVFlLVB0VDdYMDczZTU4dk5iWjVHMEhjMU5pZm00Q0dRUHh3TWRB?oc=5"
+        },
+        {
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+        },
+        {
+          "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/"
+        },
+        {
+          "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/"
+        },
+        {
+          "title": "Postgres LISTEN/NOTIFY actually scales",
+          "source": "Hacker News",
+          "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+        },
+        {
+          "title": "[Rust] block / buzz",
+          "source": "GitHub",
+          "url": "https://github.com/block/buzz"
+        },
+        {
+          "title": "[Rust] Automattic / harper",
+          "source": "GitHub",
+          "url": "https://github.com/Automattic/harper"
+        },
+        {
+          "title": "[Go] yorukot / superfile",
+          "source": "GitHub",
+          "url": "https://github.com/yorukot/superfile"
+        },
+        {
+          "title": "Mavacamten in Adolescents with Obstructive Hypertrophic Cardiomyopathy",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2601103?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605555?af=R&rss=currentIssue"
+        },
+        {
+          "title": "多花不到1分鐘！台大證實「AI輔助大腸鏡」提升腺瘤偵測率",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FQjZCQjZjaXh1N1VFbjVXemM1WUo5M244UVppUW5UblNOOE5SMS1KaFlmVktJN0o1Mk54TTdqZW1mNnN6ZXRrNW53dUhNN3NU0gFPQVVfeXFMUGMzeldDaXAwQjZxZnU4c2dYNkt3Y3RkSEtyMktxbk42QUxaZWVjWkIwb3owaEp4V1c3SUI1NGw1MURiSlVubXRRcUpLYWw1WQ?oc=5"
+        },
+        {
+          "title": "AI-based clinician decision support system for diagnosis of inherited retinal diseases: a multicenter, randomized trial",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04545-w"
+        },
+        {
+          "title": "Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04496-2"
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "title": "新聞雷達 (2026-07-24)",
