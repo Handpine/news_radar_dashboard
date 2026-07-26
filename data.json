@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-07-25T12:52:19.685747",
+  "last_updated": "2026-07-26T13:39:43.966614",
   "daily": [
+    {
+      "date": "2026-07-26",
+      "title": "新聞雷達 (2026-07-26)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-26-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "725反毒油抗爭塞爆凱道，藍營喊出百萬人促卓揆下台",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aNGtPU1BLVEVGYk03cjBxYUNKcGQtT2hwVGttbVpwbDg1WUNyOW1CMl83WllYNmowMGlGQWFaVUZSNmE4ZnFGT1ZZa3ZmNGxmb2Zr0gFYQVVfeXFMUFprMzliRFhVcnlNOWpfczZlUVFXMmlzM0dPYmhKMkd2am5pN2hFZk5UbWkyLXdmbVd1QnhXel8tdWdrblprcnZwRl9MWnBkdXhRbjB2Q3Z4VA?oc=5"
+        },
+        {
+          "title": "川普深夜緊急喊卡，美軍暫停空襲伊朗改用經濟封鎖",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DdXlGQ1ctSzZfZmxBZ0R1eExwdjl1MzFkN01zYWx2Q0ZSRVczTTZFV2ZNbnE3YjNOMWpHTENhUk43UkdRRnE3ZWNNa3pEMkFzVU84UDFBRFV0YllwSnVtcWo3LWpUVHVBdWtWTDVn?oc=5"
+        },
+        {
+          "title": "紅霞剛走「白海豚」接力！聖嬰年恐催生大又強的颱風",
+          "source": "NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OTUlXcGs0TnBwUVNhQ2xiQWl6QTJVaEptdnRVWnlmOUZzME9yY3FqdjM0bnN1X2M5ZVo2M1d1Yy1aM0hZT0pmTk44T3nSAVJBVV95cUxPeGpyNWJfaV9tSjJFSzVNVlZLNmRyUUJhdm9uYTZrWFBFVzZ3RV9vMkx6RnJ0MU83RW5mcm5DeUtpcnd1NGkwMUtEYTJxOGtnaTl3?oc=5"
+        },
+        {
+          "title": "Sam Altman 坦承算力押注太保守，直言 AGI 將讓人更忙碌",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFk0bWtNY19pZkIwbS1OcHdWb0hEaWZrUndHd0Q1enBwRHg5TFBPUHFzU2hDdUFvN0FIN19wbVJNWE5LZmE5US1QWFRYallZSXRVZXI3cGNsNkx5S3dodzBwVDlwdTlRVFZjYWVZTzZFaDVmY3phaGRTTTF2RDBFeXZvNkZqX0pTYmFhZ0FQa0xYdVczVWJVQVh2TVhJQ3ZnUjg1aXRSZFZPWEp0aXJzYmpvLTgyVDQ?oc=5"
+        },
+        {
+          "title": "ChatGPT 與 Codex 錯誤率飆高！OpenAI 五天內爆發八次大當機",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMExwcnBORFBXaGhyaHFVb0ZNa0J6TDRsS3B2azlDTTV2Nk02ck5lMTdkNzNKOW45UXlyd0taYi1ZRV9zTUlKdmU1Z3d3bnZ5eVdwdFBQVUIyUHdGbEsxc05idGtQM3hzV09nMUtfeGlaQnZfZzNNREY4UVZ1WUxSdnhWWUhSaVZSVVJ3NnBQeTlDcjlOWFVVSTAxQ3ltdw?oc=5"
+        },
+        {
+          "title": "35 家科技巨頭齊聚！發表「開放權重 AI 聯合聲明」",
+          "source": "cyberq.tw",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94S1N0X0NpbE1SeFhSR0Z6eGhJLURIMlVRQ3Utem9xa3Z0Yk9yRnJiclAwazBqT0t0NExLTm5wT2xYSzI3ZmJGR1JMbzVRQ2VKVS15UkJ4Z3p6RWRpQjI4Y09fTnZ5TkE?oc=5"
+        },
+        {
+          "title": "三大 AI 新亮點：Google 於 Galaxy Unpacked 大會展示技術",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+        },
+        {
+          "title": "Claude 5 世代的「提示詞工程」全新規則",
+          "source": "Hacker News",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+        },
+        {
+          "title": "馬斯克的「無聊公司」估值衝上 200 億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+        },
+        {
+          "title": "微型語音 AI 突破：僅用 936 萬參數實現完整功能",
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2"
+        },
+        {
+          "title": "企業裁員新藉口？Monday.com 將裁員歸咎於 AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+        },
+        {
+          "title": "阿里巴巴開源混和架構程式碼審查工具",
+          "source": "alibaba / open-code-review",
+          "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+          "title": "無伺服器藍牙 Mesh 聊天工具",
+          "source": "permissionlesstech / bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat"
+        },
+        {
+          "title": "全球醫療供應鏈面臨氣候與戰爭的雙重威脅",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01138-4/fulltext?rss=yes"
+        },
+        {
+          "title": "重新思考 ECMO 治療期間的抗凝血劑強度",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00872-X/fulltext?rss=yes"
+        },
+        {
+          "title": "雙重活動全人工髖關節置換術在骨折治療中的優勢",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01158-X/fulltext?rss=yes"
+        },
+        {
+          "title": "肥胖與正常 BMI 的代謝風險是否逐漸趨同？",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01245-6/fulltext?rss=yes"
+        },
+        {
+          "title": "抗愛滋病毒療法 (ART) 的最新臨床進展回顧",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2511692?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-07-25",
       "title": "新聞雷達 (2026-07-25)",
