@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-07-27T09:06:30.867399",
+  "last_updated": "2026-07-27T09:12:20.921346",
   "daily": [
+    {
+      "date": "2026-07-27",
+      "title": "新聞雷達 (2026-07-27)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-27-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "多縣市有感！新北雙溪區晚上8時36分發生規模5.6地震 最大震度3級",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWTE0azRmd0lZeUhaU3cwZEVxcDlvZ0wxTk1lS0o1R081SUhJcTZudERVY3JOLXdqZnI0VzA1Y25KR1N3WFk5X3dNR0VDdFRk?oc=5"
+        },
+        {
+          "title": "攸關國安！國內唯一製造仲鎢酸銨關鍵廠商董座遇害 住處監視器竟全壞",
+          "source": "Google 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOVjVUX2ZSZVd6UFExRnd3MHBpanZ4R253R1p0Uk9lVFVoRXFydUZLWkNvUEpld1FmX1dpSVRCY01MOEVnMzYwOEJfREhIM0ZiNzI3elJzNUVNUGxJXzB2djFid2NXMHo5M0FrWEFPNUoyR1BvOU1pZVFMVEw0Z3VYM2o0TXd1Mm1DQVd4c041YXZIb2ZTRTF5OG9OOUVuV0wyaHRKS1ROekJzcHFaZHplZ1d6SkdlcFpJRmUzQnVvNHhGaE9QSXZPRFFhUFltWHNGUE1pMGt4TkhPY2Y2R29xZFh2TlB0emRJUlJmcU51SF8tMnQtMmhZUDVCODRFV2k3aU9VT2NaZV9ISmduckxhMVcweHR0OVZ3WmozX3pLc2NocWpacEY4dGZpQlBTeURmUXAta2EyZTdZNUtNUFBHdjNxWmllaS1LU1Y1TEtqVlNuMEY4UmxMVXdCX1YxZ3F4Tkl1UlB6b0g3bFZSZ1huem84Z2Z2RldZTzVuNnpodGY0Zw?oc=5"
+        },
+        {
+          "title": "輝達傳為 OpenAI 提供2500億美元擔保 助租軟銀超級資料中心",
+          "source": "經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0TDhoeDgxQng3OUZMeC04UHp5NXBvUmtabnB1UUZQcTRZbGQtLUxrZDhGZW9WanRXeWlSMlgtOXdqNUNLUnZiQ29jdHpCWVBTR2V2dURibW5wUdIBX0FVX3lxTFBTRTRpTnAxN0VOZUJiR3ZhMnd2dXdyVW81eGlNUExXQldPN1BRc0NzT3psekdoUzlhT2Y0R3dkTzZLMmotbm1hT0trblRpQ2ZWX0htTzFqbUpQSDVJTXNB?oc=5"
+        },
+        {
+          "title": "Mac用戶抱怨 OpenAI Codex 讓 Mac 嚴重卡頓，還可能狂寫 SSD 害系統停擺",
+          "source": "T客邦",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1paVV4a0JpWUxIQkpHWVpHY3YyajNOamY0eHdMbHBGaXAyczhIVVZtSkVDUzJBNkFfYzZjRGhtakh0d0ZxbzlCaFZwUElyYWplVnYzSzRZNGpjUG55LTVwQ29tRnBtTk1NX2pFQVNxN2FvRG5GRXY5a1RBVXdLdw?oc=5"
+        },
+        {
+          "title": "阿里巴巴一刀切斷 Claude Code，中國 AI 走向主權控制新階段",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVQtVjBDZVFHTTI4MmV1VVp2U0VJVm1BX0RUV0dzNFBSakRmSjh4Q19fVUFIeHV3Vk00ZXFkRDVSV1B2N0pFVFJhR05mVm4tYWlsaW92LVUtWmxUQTdCdlI5eUFfaHdDMlVNZVFhUnlEWE01S3VNeE1fdVRndC1lV19FOXFLZ0pqVGNGMUlZVXVlYm1a?oc=5"
+        },
+        {
+          "title": "OpenAI與Anthropic形成雙強格局 Google算力策略失誤跌落第五",
+          "source": "蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZYk5MNy0zRGtvdDY0RGM0WHY0T1RqeTJ6d2MwN3hUTkRYWDZuclN0NGVBVFp2RUNmOERzQ1JfQXJ6WlVvSmVwN3c1dHltT2pJOWc?oc=5"
+        },
+        {
+          "title": "Anthropic 自曝過度約束：Claude 5 世代，管得越少越好用",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUppUnFBbERnNXRCZjFmVDVDdXhFNGVDbGZwcnNqV1NBRXVwVmdoSC1MejQwTWZpQjFmRV9PekNBS0hKbGtNRnIyb25ZbjB4RjVIbjJNS0MzRmhYZUJhcGtLOTRYckQ0enhLd191VDUtTGktRFVZWnFRbHVCYVU4dVN5VWdzV2dlSk8xbnFRam9oOEdpNEJpdkhxTXRIWDlVS2dvbQ?oc=5"
+        },
+        {
+          "title": "Microsoft 部署下一代 AMD Instinct 與 AMD EPYC 處理器，擴大雙方長期策略合作夥伴關係",
+          "source": "BenchLife.info",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xbjNuTlRIVjBpbnBQN2tlUllmSHJteDNxbzhXZWhidllGRGJTUzM2V1RGVzAwSW5lcUdzZnVfUm00S2s1TlB3ZHpVUXQ0NGhBZlhqeGFfbHhlTmhDX2hKbg?oc=5"
+        },
+        {
+          "title": "Are brain waves the next unlock for physical AI?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+        },
+        {
+          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/"
+        },
+        {
+          "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/"
+        },
+        {
+          "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "source": "Hacker News",
+          "url": "https://beyondloom.com/decker/"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "source": "Hacker News",
+          "url": "https://nikolays.github.io/PGSimCity/"
+        },
+        {
+          "title": "pingdotgg / t3code",
+          "source": "GitHub",
+          "url": "https://github.com/pingdotgg/t3code"
+        },
+        {
+          "title": "CoreBunch / Instatic",
+          "source": "GitHub",
+          "url": "https://github.com/CoreBunch/Instatic"
+        },
+        {
+          "title": "nodejs / node",
+          "source": "GitHub",
+          "url": "https://github.com/nodejs/node"
+        },
+        {
+          "title": "OtterMind / Chat2DB",
+          "source": "GitHub",
+          "url": "https://github.com/OtterMind/Chat2DB"
+        },
+        {
+          "title": "pbakaus / impeccable",
+          "source": "GitHub",
+          "url": "https://github.com/pbakaus/impeccable"
+        },
+        {
+          "title": "誰來主導心臟代謝疾病的治療？",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01497-2/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "title": "新聞雷達 (2026-07-26)",
