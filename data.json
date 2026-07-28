@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-07-27T09:12:20.921346",
+  "last_updated": "2026-07-28T09:06:41.637979",
   "daily": [
+    {
+      "date": "2026-07-28",
+      "title": "新聞雷達 (2026-07-28)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-28-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "數千美軍將奪伊朗濃縮鈾? 特種部隊極危險任務曝光",
+          "source": "Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xaWZTeExPSHhIZ3BkVjFPSEU3a1BRS1dDMHZRdEZLejBIVnhZRElMNDJrZzB0UzdfMW1EbURKem5CVEJIc3VLdTB3T0wzb3JTc2VDZHRtUGllRFU?oc=5"
+        },
+        {
+          "title": "蔣萬安再拋「倒閣」！爆多名立委私下勸進",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUDNyWk9vODB0blF5T3RhRmVOZGtVWGJkdGh5dVh6T1NqaElHajBTQ1RxUVd3VjN6Qlh2Z1RRNTFCeUlkZzNtNC1fWW90MkZUdm5mTGluQ1VxR0dPY0hIc1dPdm1peTZ4b2lUVUx2X3NaTlI0bUxVbWpsZlRvU3FKTEJWZm95WkF6bmZ4QUZ5LVo5RklfeWY4cW5GcHFpaFozRG9icDhYQW5lNC01VU45aHJ5UThuSUc2d0Q1NEZzU25uT3hEV3ZDVU9kSjlZYlBOZ25ENjhaRGE5cEllenEwOGtwbl9nZUkxLTRSdDQ3elVULWZzSXpkeXVwSVYwa2JIMlRFWllrZ0hEM1ZpVjdtdGVjOUNCZw?oc=5"
+        },
+        {
+          "title": "亂刀砍死媳婦公公衣褲染血遭逮畫面曝",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1peThlN2F4Qy1vYURDYUxrU3JzbTBTSndEZkZSUkQzWWI1ZEJ3VFNZNEJwTHM2SmtQMTdNYTRlNTVndk5DU3lzYkJNYU1XWjZ3NGdKMlBkOU5CNTJoaE90MzBjcGxPeERkaGt1eS1B?oc=5"
+        },
+        {
+          "title": "Nvidia 與 Microsoft 發起開放 AI 安全聯盟，OpenAI、Google、Anthropic 缺席",
+          "source": "流動日報",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkVUTS1HVUYtZG1aTGhzZEhHbVVybUxPMmI2eXdwVHVXcWN5bDJIT2NXaW5mRjNOOHUybFZINm1sR29hMFpZM0oyM0V3VnFIVXgyZDdnNnR1R3hUQVhOLVJuZHBBNS1sbF9mdDFDaWZZNzF4Z2wxSk14bHh1S3dqYVUyRW45NnJ2VXc?oc=5"
+        },
+        {
+          "title": "微軟殺進資安AI戰場：新模型半價成本搶預算",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWdLb0N1OTFwS3FISEQ5dTVfbmRKSzltQ1VaeGtUNERqMzltbVpJMFRPVjJRVU9MOXhRMEh4dEg4SjVrTnZpcEZvbDgtNVFHbzdTVTZIUVo5VnhwQU5vai1Xb2VlTGVvU2NJLXJuZFI3dlhiRG93cG0ybkYxMC0tQjI1VDF0aDlRMnJZTmhR?oc=5"
+        },
+        {
+          "title": "輝達重押 50 億美元力挺前 OpenAI 共同創辦人自立門戶",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0cDlBalgwWjk2a3RqSmpCNVFOZ0xKcjgyVHhNeEstSmhWeGdMd3plVUI4ME5WQ1ZWVUhMZUR3bFNWVWJhTm9RenZBSTJma0tN?oc=5"
+        },
+        {
+          "title": "OpenAI 擬讓政府握 5% 股權，奧特曼密會華府高層",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZWc4VF9SSWYyUzlwY2dQZXZGTnFZMnVTTHZhYjBKSzJZXzZPbmZ3OEFHNU5fQkhtZ0VDNG01QmVhc2tPMWFmb3JqTm5UN1FVRGdHR0E0ZWs4WmdmZEw5bGdWRnl5X2s5blZZOE0xZjFFQjF6QVBVbFp3bVZQVHBKQU15bzE3QWF2ZU9YN1NHU0Y3RTdsTC1oSnQyMmV5d01LX09iZjB1V2VyMnhuT214bnM0b0ZmNjBYMm1wc093dXU5bS1yamF4cFJPSFV1UUdtVlZLam80bl9hdHdoMWVlT0tyLWRHNE0wT3M4SWNVN0x2OU1MWUZHWlVfbzM2WjRHNnpvSU5YMklKdWNIbzlyLVFIZnMzcmZmUVFtcW1yMzEwMlo5eHAtVFVZYjRzMUxzNVZ0alVoeG55bDlOVFczci1R?oc=5"
+        },
+        {
+          "title": "OpenAI專家曝光Codex設定：15分鐘雜亂對話更勝「精緻 Prompt」",
+          "source": "數位時代",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15RV8xTjVUMUc2TnM5bjJDRDNocU90WTlocUNzQUdUdTNYSk1uWEF2T2VzMUFIUTFLLXB4S1JQVGllYldXSWtJVm1BZ0F5UXVHWTN6akdHejc0bHZFdUNEVGtGampOcF9TRGQyWjZvZDFwSUpmYkE?oc=5"
+        },
+        {
+          "title": "你的 Claude 聊天紀錄被看光！分享功能遭 Google 搜尋引擎抓取",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/"
+        },
+        {
+          "title": "依賴單一 AI 模型的企業將難以存活：微軟 CEO 示警",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+        },
+        {
+          "title": "Anthropic 執行長：不反對開源模型，但對中國 AI 崛起極度擔憂",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+        },
+        {
+          "title": "法國出現史上首個「火積雲」，極端野火催生新世代滅火科技",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/"
+        },
+        {
+          "title": "[Python] NanmiCoder / MediaCrawler",
+          "source": "GitHub",
+          "url": "https://github.com/NanmiCoder/MediaCrawler"
+        },
+        {
+          "title": "[C++] amnezia-vpn / amnezia-client",
+          "source": "GitHub",
+          "url": "https://github.com/amnezia-vpn/amnezia-client"
+        },
+        {
+          "title": "[TypeScript] opengeos / GeoLibre",
+          "source": "GitHub",
+          "url": "https://github.com/opengeos/GeoLibre"
+        },
+        {
+          "title": "醫療 AI 超級智能的嚴謹評估框架",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04539-8"
+        },
+        {
+          "title": "縱向血漿蛋白質體學精準預測漸凍症 (ALS) 臨床發病",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04528-x"
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "title": "新聞雷達 (2026-07-27)",
