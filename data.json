@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-07-28T09:06:41.637979",
+  "last_updated": "2026-07-29T10:06:01.425791",
   "daily": [
+    {
+      "date": "2026-07-29",
+      "title": "新聞雷達 (2026-07-29)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-29-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "熊本地震規模7.1 熊本機場跑道關閉、新幹線停駛永旺商城AEON爆炸2死持續搜救最新進度一次看",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNY0lKWXVOZEtKYUdjTy1EdlhRN3RFVGUzbW9DbWN3VTNTMGlBXzFWSGt1V3FybldTUDZqd2JKS2s5YXB4NkxpdHdXSHA5SUVGOUQwNUgxbW1lSXdRRkJFOXVzc2dtQUdfSnFYVEx0WENKRThiNTA1MmgzMUZRcGs2Sk03Rkg0eHEzSTBoWlJ2QzdHY0pFVkU5ejk1VFJSOVJvT2ZqNWl3bTBLWjhiWWZhTjNnRG5wUHFScmxfV3hXUHpYc0tIYzd2SXJwcDJSZ0FBR1Q4T1RsUmVXb1F6aWZjOVBlSEl4ZURNSW10QThOQnhYTUJSaTRCSlQ4UjJuRHlRcWViX3NSVTlTajluaDVtUUk5NTd6ZGZGSXVCWnoySzgtMWIyNnY2eTdobk03eGoyeDRaY1I3WlhMM2t1cEZqNlpLY3lVS29CTVNxTHQ4LVk5b1dnckdWeVNPOTkyUk96WkQtQW1HdlZlSG1DMzZvcWIwdURPYktrOW9ZSXozTnpoSnZGejdONVJBWXpXQnhDa3Z4Z2JRWTNsUHpCYmkta1JhWWVUMEk1VjEzMjZDU0M1b1ZlTjJ0VWY5cHVDRGl0RUxpcHZldnRndXZTUGp2ZnlVVGlJY3FrZTlGajZObFNMX1NOREJ3RnVaMkhqdURfX3RuSEFWTXpodld6RXJ1SExXZXVMZFNmMWdkbkZBWkJVN25RQ2pDZXhBY1RvYzhYa1pEcDhHTHF2OE1zN0tFNXI5LVdKb0tLaU11UjFqdkVISU9TeGs3NGIxMjJkRFF4UVlSdTFOSWdTUEFTV29lTER5NHVOMzR6VmYyZG1tbjdLeGpmdkZnMA?oc=5"
+        },
+        {
+          "title": "《民法》刪手足特留分三讀通過 修正公布6個月後上路",
+          "source": "公視新聞網PNN",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JXzMwUTZJY0Z0ODRPTEhqYU9FQ24xUV9hdy1IQU9fZWRPSG51cUgtdTBzYWxtX2ppbmhXRDdEdU5NNnF0aHpjbEx4MEk3Ymc?oc=5"
+        },
+        {
+          "title": "4000億宜蘭高鐵非蓋不可？李鴻源曝過去「炒地皮」選址內幕撂話：2028政黨輪替就撤案",
+          "source": "風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6TkV6RFBPLXVMUnVEc2VWUDA4M0RoUjlpd1lzNUdtS2dOaUtXOWgyRmhzV1g5RkRaZkVDQll2VUJ2bXk3RGNJMDFLU3ZiZw?oc=5"
+        },
+        {
+          "title": "AI Agent時代，AWS、OpenAI揭示CEO的新課題： 畫出AI邊界，才能放心大膽創新｜商周",
+          "source": "商周",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLVkdSdTY5RzgxT2YwR3FtaFd5Xzc5ejdKSlFfZFdxemRXV0dmRVNhay1XM1hVX2RfM3BFbTZteVE4bmxmNXpoYkpiRE82cktGY2pPR1laX1hSYnFpRHVGaW8ySmRFOUE?oc=5"
+        },
+        {
+          "title": "賣token賺很大！Anthropic營收輾壓星巴克+麥當勞 有望入選《財星》美國500百強企業",
+          "source": "Yahoo 財經",
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNaFlaRUoxSGVtamljQUpsYk00eDF1b000SzAxN0lDcGtjVGlKWDJtZXNpazBUSmpnQWJ0RnVHZUZ5RnZHdU50bnVPOTNpTFlHZndqZ2oxa1NnYXRvQ2VZdUtkajRqcmxoWWRaMDl3b2ZlYVNIM1RxcFYwUkpzQ1NSYUl4VHVIdWtIQ1o2MkhtTTN1N0txbHNOLUtVemtGMndlbzhNU2ZjeTY5MWI1MzNYY18yMVpNQ2FNaGFxQ3JGdXlfbmVrZlZWNHNuNVF4SWdCOVRkMVVZUEk0Y2padWF0cWJTZE9Sby1YQmRfc040bXZxVmNxRjF6QmlEdnlYRXRRRzRsQ2Z2WGIzZ3A2YTI3a2xoVXp0Y0xIakgzOVlLLWFKN21kanNXajNFaXJIRVFaQXdQMUZiY3M4Ymp6ek9tVWVCMHZ2TThNV0QyN3I0ZTZFbUhMTUdlQ3pZWXRad1JWelQ5bm5R?oc=5"
+        },
+        {
+          "title": "Anthropic主管分享如何運用AI輔助團隊管理技巧",
+          "source": "Business Insider Taiwan",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qcTBiOVlWZlI0dzdDQkxjVWc5S3AyYW5Eci0tbTg5MV9rdmxfUmQzbnMtdDdpMjBGTnphWk9TN1o5d1BOT0RDbjVaS251TXFDejNIN1B3?oc=5"
+        },
+        {
+          "title": "AI 熱潮退燒？從 Corning 暴跌到 Microsoft 遭狙擊 華爾街掀起「高成本 AI 基礎建設」大辯論",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMDJ0M09lNHdDU2RFX01MalcwcWs1VTVUblRndDF6MWxBLXB3WGhRdzg5cVVjMmUwRllzMkpSRVpFVU1xc1U5U2ZPR3VpNjBRS3JCU094WXVvVHpfdTZxdTFGQU5MYk8yVnhxb0tZbE1FWnlXTkZZanptTDItOG1iSEFjYmh2Z0prZmhVUkp3MjZNcWdzR0pYOW5mSkJvaEFoZ0hqbmV3RWtrVjQ3Sk13by1NajJnM09MN2pjRUhhMkJUcnhkdE9TSktmMkZrVEU?oc=5"
+        },
+        {
+          "title": "微軟推出Project Perception：專為AI時代重構的「全新生態資安堆疊」",
+          "source": "Mashdigi",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2d0MlBtTThWbjc3UmpZNGdTdzJROExGYlREYmVYa2NZaUo2YWZfcXlvTXNJZjl5NlVSY1I5V3FxY0dldzNGdHUxZ0NXcy1XOHlOdkhmMXVySUdudkFrZUh1SEFvVVZteGRUcFhaMUdZSkQ0REh4SUR4NEkwM1ZLVm5TSjZHbXF2TkpSb1BCd0xfSExXaFpVS29PTnJsNFVEWFZfXzBxV2pPOWpaM3dMb1ZGYjZxTTEwdElCcHpKMFdGZFpl?oc=5"
+        },
+        {
+          "title": "新思與超微、微軟合作推動Agentic AI驅動的晶片設計流程",
+          "source": "mem.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNXhieXRaODhOZk55QjY0eUN3TFNaSklsZzdsVERqR3QwQXRRZ293WFI4YjF1QVhnSHBDVjlBUEgzQ3h0VEMxZ1VQVUZONzlRSWQ4OHNpZzBNT3VINk1ZVHVHbE1lVHVVUXFzd1oyc0hiSzg1aUVTTEdrVVR3czBLeHhWdnMyd0RYWlRyOGdLUlY4Qmw3Y0dwaXVYRkFwUHppQU1YQnVKb3FWTERUOF9ibHlwZHp6ZVF6T1RjRF9pNVBzWWt3RHU1ZFBjS0Z3c0N1WHVRREZyM2hIOEZJSWktWjUwYVFJWHpZT05kbGttN0F6X0VKR3NIVFQ0MVd5NE4zLUpmckRfd0lyQnd0M19zZHhoXzhNZDM2WmNCT3lwbnE0TEY3RDZEUUFFdEZERjg0Qy1wMWpTV3Q2Ti1KLW8yQ0p0MzZEZw?oc=5"
+        },
+        {
+          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+        },
+        {
+          "title": "Sam Altman is ready to decelerate",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/"
+        },
+        {
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+        },
+        {
+          "title": "affaan-m / ECC",
+          "source": "GitHub",
+          "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+          "title": "andrewyng / aisuite",
+          "source": "GitHub",
+          "url": "https://github.com/andrewyng/aisuite"
+        },
+        {
+          "title": "virgiliojr94 / book-to-skill",
+          "source": "GitHub",
+          "url": "https://github.com/virgiliojr94/book-to-skill"
+        },
+        {
+          "title": "研究：青少年社媒上癮 與ADHD症狀惡化有關",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xRTY1QnVuOC16QlNrOUhIYS1zV1ZCWmN0cEtCOHJ2UWtxTWhpNGNjX3RLM2tKbk16NDhWTEZCSk1qM0lTbnhpSXN3YnVGalF3WnYwdjdtbXd6MDdzb3cwaDZza2lMQ2PSAWdBVV95cUxOMUU2NUJ1bjgtekJTazlISGEtc1dWQlpjdHBLQjhydlFrcU1oaTRjY190SzNrSm5NejQ4VkxGQkpNajNJU254aUlzd2J1RmpRd1p2MHY3bW13ejA3c293MGg2c2tpTENj?oc=5"
+        },
+        {
+          "title": "Reducing the diagnostic odyssey in rare disease: why screening is not the only answer",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04542-z"
+        },
+        {
+          "title": "Integrated care pathway in individuals with Long COVID: STIMULATE-ICP, a cluster-randomized, phase 3 trial",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04552-x"
+        },
+        {
+          "title": "Global economic burden of depression in 154 countries from 2025 to 2050",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04548-7"
+        },
+        {
+          "title": "The genetic architecture of fibromyalgia across 2.5 million individuals",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04492-6"
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "title": "新聞雷達 (2026-07-28)",
