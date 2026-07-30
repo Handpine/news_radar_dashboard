@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-07-29T10:06:01.425791",
+  "last_updated": "2026-07-30T12:30:00.634684",
   "daily": [
+    {
+      "date": "2026-07-30",
+      "title": "新聞雷達 (2026-07-30)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-30-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "伊朗5彈全攔下 川普怒嗆將回擊：把他們打到他X的屁滾尿流",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LWWYwYnJDRWNReHFGVjYybWRiYURPMTA3YXNaYW5IX1lmSXZVNmdqUWYxRkpnc1ZjYkpGWlJ3UE8yRC01cFpSSjE2T1lCMTdJN08zLXk2eXczeHhtTVd2aWwtVm1OQQ?oc=5"
+        },
+        {
+          "title": "熊本AEON貓咖啡廳25貓全獲救轉移廣島分店安置",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ibHV6OTdXYVZqOWU4SXljbFA0eGM4QUVvN2dvc29fSE5sR0RZT2R1V1F5RXVTUkZqOHVOa0IxZDM2b09GVVlvcDJEMFJ5SDdhT29OR19rbG9NVjZmckhv?oc=5"
+        },
+        {
+          "title": "若倒閣重選國會徐國勇嗆他第一個倒韓國瑜反應曝光",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMUGVGZUV2bXpfZVY1NmZ6WW1aaGdqZ1NSTHJTRGJobzhxX2d6WEVkQ193cWFoVlo1VlNEMmk3c1JxX2QwN00xc1UxM3B0enk5aVFmQkJ0VWNyam9NTnZnX3RJUU42Z2NfVTZzczR3?oc=5"
+        },
+        {
+          "title": "又有苦茶油出包！永豐餘「苦茶油」自主檢查驗出苯駢芘超標 流向曝光",
+          "source": "三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fZFhpWXpfYzR4X3NqRl9kZGRMcFNfSHFSM2w2X3JZLTBQQk9TcWRjUFhqM3FQaFFsT3NObjhxMDktSzIyek5octIBTEFVX3lxTFBrUHdvVmdQbnZHZWEwbDBzN0twSGQybUhvcU1STmwyTk0tNl9YYlBxZHNzanBya3hPdHctVC10aU9ieDR3b0Z6SXAtamw?oc=5"
+        },
+        {
+          "title": "微軟AI投資開始變現！Azure成長43%、現金流優於預期，盤後股價大漲逾8%",
+          "source": "優分析UAnalyze",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05OWZmcS12MXgySUt3WVJlWmV1RnVoa0R6SFh2Y1o5UE1Ea18ybklxdXVmM3p2LVJVZWQyZlVyMDNGd044SU5ObG9OMWVFWlFLOTFHeFRB?oc=5"
+        },
+        {
+          "title": "AI超級賭注：微軟狂砸500億美元蓋資料中心，華府對中人形機器人封殺掀新冷戰",
+          "source": "CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNldMQVNoRV9nZTF6RjdkbXZFbmRzMFJPTG1laWNZQ25aVjJwY2VNUGhISEZnb3kzdldTZmI1WFc4MVlIRTV4TnBsYmtXVkVobWRoOTRuRzFUbnBqUUhGcXBzUDd0QjN0VE5tbDVZNUxOWlJBVTBreFJlMGI2TjJXVU92c1ZHU015cGpfVW5B?oc=5"
+        },
+        {
+          "title": "OpenAI、Anthropic 掀 IPO 造富潮，員工先收到的可能是天價稅單",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnZJc1JuOThBOGlNSmo1UjR1Ry1rSEJxTUdmMDNZYlIteEV3MFJRdUNVWGVVNUwxd0NnakJyNzB5SWJESUJpTk04Q2UtSEZ1bHg3NUdmcF9XMUVOOTVvVGw5LTYtSFN3OEcyTmI1dGRKdUctYURndk15Qk5JQTdKd2lYaGowYTFSa29Bd000ekl4WldHR1lRZUtKNDViSE9xX0taSkkyVzhTanJ5TkZ1NnNR?oc=5"
+        },
+        {
+          "title": "OpenAI、Anthropic 等千人聯署要 AI「踩煞車」，祖克柏卻警告：真正危險的是權力集中",
+          "source": "TechOrange 科技報橘",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fU2VnRU5ITVVKNktZWGtFWU1mZjBCYUowb0gxcm9iSjVMNC1NdFROREtaTmNmWDBXVXdnRzlRcEdtN2NRQi0tM1hWSHdzMGQxajlGTmNIZHJwNmRPN056OXlYN05TLXBiWTNyNTYzVC1uaXRZU0xMTlNqdw?oc=5"
+        },
+        {
+          "title": "快沒存本的絕版書也照碎！AI 公司大買舊書掃完就毀、Anthropic 狂掃2022 年前舊書割脊碎紙，純人類文本正在絕跡",
+          "source": "inside.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjlTaHZXSThLOWdlamN6ZWtnOTBPTHhBaVZUQUZhUlpYOVA0LVljanVFWlc5UEZfMUFoMWZ1MVI1V19pZVBqY2xKYS14Q1Z6OURCOERSdDhqYWswa2NjSWRZdG9mbFV1U09sdDUya3RBU3JoOEV3dlNHOTdERUo0LVZsQmhzcnJ4?oc=5"
+        },
+        {
+          "title": "Andrew Garfield 對 OpenAI 電影《Artificial》的「搬家事件」做出回應",
+          "source": "Hypesphere",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ZXdKWkl4NWZKOVJPbUNtYlRfd1FuM0ZsQUw0VTZTM2FSYXNvNnI3djByZXVCVks2Z1AxOFF1RUREbXRDNEtCVDByM3ZPRnc5MWJrNEEzejl2d2l3S2VWOGI2VGFXdHN4RldGSzhFTldlOVBVM2M0NS1R?oc=5"
+        },
+        {
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+        },
+        {
+          "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/"
+        },
+        {
+          "title": "AI's top startups are barely publishing their research",
+          "source": "Hacker News",
+          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+        },
+        {
+          "title": "NSF pilots 4-year PhDs with industry research placements",
+          "source": "Hacker News",
+          "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four"
+        },
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "source": "Hacker News",
+          "url": "https://github.com/drumih/turbo-fieldfare"
+        },
+        {
+          "title": "huggingface / speech-to-speech",
+          "source": "GitHub",
+          "url": "https://github.com/huggingface/speech-to-speech"
+        },
+        {
+          "title": "grokability / snipe-it",
+          "source": "GitHub",
+          "url": "https://github.com/grokability/snipe-it"
+        },
+        {
+          "title": "different-ai / openwork",
+          "source": "GitHub",
+          "url": "https://github.com/different-ai/openwork"
+        },
+        {
+          "title": "microsoft / VibeVoice",
+          "source": "GitHub",
+          "url": "https://github.com/microsoft/VibeVoice"
+        },
+        {
+          "title": "Deciphering the role of histidine in cancer",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04555-8"
+        },
+        {
+          "title": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04558-5"
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "title": "新聞雷達 (2026-07-29)",
