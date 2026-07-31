@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-07-30T12:30:00.634684",
+  "last_updated": "2026-07-31T09:03:43.098343",
   "daily": [
+    {
+      "date": "2026-07-31",
+      "title": "新聞雷達 (2026-07-31)",
+      "file_path": "News_Report/新聞雷達/2026/07/2026-07-31-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "不只OpenAI！Claude自行連網駭3企業 Anthropic查紀錄才知情",
+          "source": "money.udn.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUjdaMng1RllRaUFEZWtRYlkwa0J4SS0yMU5tUHRnTTRTR0t1dlNTaWZoRV90eUtYaEQ5X3o5UjJTaVF6OFZqQnR2cU5hamZsOHU0SHVMTlk5Z9IBX0FVX3lxTE5mR3BjSThXMEZEWmZkSER3NWNsRjBjQ09WemhoRHdMczFWcXdyUW9QaDdIaEdIUEZhZHFYVUtzTGMwcG9wSUV3OVBDcW5zTnhFZ3lLdTl3OXZRa3kwUU44?oc=5"
+        },
+        {
+          "title": "Anthropic 的 AI 抓漏洞速度快過 Microsoft 修補 Project Glasswing 揭「補丁危機」",
+          "source": "unwire PRO",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlZrdGFzWWxWVXYxc09IRzFHX1dIN2VBNWNnMTFaeDZjd3RhTWk0QkRRYnJkd3NlZm1fR0ZCSmUxUjFnVDRWXzdmSWE1VVhOX0RHa0FHWGFWN2I2MHZmTzlEMXZEbGlhNGZUM2JfVDRqTy14UUlvTVMwS1RZd0VIdGVrTTQyN3pCUkdaM2xsTEI?oc=5"
+        },
+        {
+          "title": "OpenAI 免費開放GPT-5.6 Sol，助 10 萬科學家加速研究",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVYwa1M1YlFheFMyRm8wdmlueERNVEJOb0t1X21hNTNQVTVVRnlLRlFJVHpZTllsUktReEJ1aXFiQjNVSV84b0xHNGNNc1ZhRzhhSlNySkpUSzY5aUZPcElFLU9YS0p3S3g1blhMMDZXUU1IUTdHRTNFcWNPT1BBN3N3?oc=5"
+        },
+        {
+          "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/"
+        },
+        {
+          "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/"
+        },
+        {
+          "title": "Stacked PRs are now live on GitHub",
+          "source": "Hacker News",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
+        },
+        {
+          "title": "last30days-skill",
+          "source": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "title": "AI-For-Beginners",
+          "source": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners"
+        },
+        {
+          "title": "Phase 2b Trial of a NaV1.8 Inhibitor for Acute Pain",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602910?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Dementia prevention in Latin America and the Global South",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01373-5/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "title": "新聞雷達 (2026-07-30)",
