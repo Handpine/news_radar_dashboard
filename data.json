@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-07-31T09:03:43.098343",
+  "last_updated": "2026-08-01T18:36:01.239242",
   "daily": [
+    {
+      "date": "2026-08-01",
+      "title": "新聞雷達 (2026-08-01)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-01-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "轟清大校長高為元「不要臉」朱敬一嗆值得發動學運",
+          "source": "Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZzBmLXBPYWhmMjdzV2U0MEZZTWFuMkg1M2lvUmFKcEhWTXVmODR3M3FyLWRST2FTYlpyX1RNUm55VndST3FnSG1lZDkybnJxTzlOcl9UVEJ0Q2M?oc=5"
+        },
+        {
+          "title": "陽明交大教授砍死連襟 亡者岳母發聲︰會陪伴照顧小孩長大 感謝外界關心",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOZVpqRGdFbDhJYVpMdVBRVkNMUV8zd0didlNXaFF0UWk2c3lCQnBPcmNBZVQyX21MUnV3WUVwa1FLOEhVUzUxajhyN1FtTlE1S1lZVFA0UGM1dTZxSUFhQVpQSnJ5WUVvaFRIdFQ3RTZxaHZxQmkwbzhkU0tTVzRQdm9lWGhJTHRCckQ0LWZtMnJYWWVGbkZRSkxEMHdLNklsQlBRUzhnazFxR3F2SlFsSXZ5SUttV0FURjJQRl9LdVpfVHpWekJsOFZOMDl6dUFLbm1UREhtNTRoLThWWkdFYTRRX1ZOLWYwSHJUN3hiOEZheldSWVkwcnVYZm53QkJYSzRCY1d0UHJMcE1DQ21kLTg2U3VYZmluTUdBeTVIOGF3eUdnNndpUENtY1FGcmh0LWs2Ylg1Qkh1cWFheDVxVUFRNFkyZVJpanBzU25uVmM5ZzBjbWhTbjlvUUJjUng2Ui1JSmpfbWdIZi1uTGRPOHBnaHJUU0hqbzZZZmRBOGFEODJBWmxEVFRUUnMyUldobHN1bkEwUWI4VHhHUEx5NFp5dFl3X3hVU2VPalJGcEZ6azdwM3N4S1Z0eTA5c1liVHJlUEVQcE9qejMxaDdFZFpGOGJxUQ?oc=5"
+        },
+        {
+          "title": "蝦皮購物母公司攜手OpenAI！將黑客松引進台灣",
+          "source": "三立新聞網SETN.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qM2d1VjlvbUl1T2tZWFI0UWFlTTB1T3hHWGdZNm1DbExQRDRYSVpZNFViaUxSWE9lUXJZRGwzMEg4ckZEeWszbNIBTEFVX3lxTE9vZUozT2dZQ1VCakpEcC1NYVhIeEdNbnJ5MW1aYmdVUVVnNnNxYTJha2VVS0VQcG5mbGdvUS1PZjIxaUZJdFdBZkNjdnE?oc=5"
+        },
+        {
+          "title": "Microsoft 365 Copilot付費席次突破3,000萬，企業AI應用開始走向工作流程重整",
+          "source": "三嘻行動哇 Yipee!",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNTUFndF83bVljMlVQenFfRWd2SjIySlJWQ0M3ZHd3YmNLSE9uRFB6bEpJcEFndF9saGtTWTJpTEt6bDYwNHg4aU5WSm5zVEs0R2JmUHdrM1dSZGctNzc5MGh6RmF0V04wVGFoV0xPN1lFME5ySTEyb28taXpuS3E2ZlZxTWpHNGxLYUpBUjZIZzBsdmtQUUNzS1dNUXFSY05KWUI1TnVZMWE2d1ZJZnd6YTZiZ3p2RXlsaUNZRG1ra3AwVmVsVzNZMFJLRnB0aE1ocUNTUmxyUVJtVmtSZHZRSy1FSkExcy1tSHp0ZGNnNGhlTGgxRzd2N3d3X1VOOTZITE03RDFTWVZTV1pGQTlwOTBvSDRqQmltOGUtTF94WHRqWWtlUXFxYm1QU2ZZN2NfejlOcVFST09qTXRqdDgxUXpKRGxFODVDUVE?oc=5"
+        },
+        {
+          "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
+        },
+        {
+          "title": "Astronomers Have Detected an Exomoon for the First Time",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/"
+        },
+        {
+          "title": "Flint: A Visualization Language for the AI Era",
+          "source": "Hacker News",
+          "url": "https://microsoft.github.io/flint-chart/"
+        },
+        {
+          "title": "zhaoxuya520 / reverse-skill",
+          "source": "GitHub",
+          "url": "https://github.com/zhaoxuya520/reverse-skill"
+        },
+        {
+          "title": "chatwoot / chatwoot",
+          "source": "GitHub",
+          "url": "https://github.com/chatwoot/chatwoot"
+        },
+        {
+          "title": "Humanoid robots perform successful surgery in animals",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00038-y"
+        },
+        {
+          "title": "‘Heading’ the ball linked to spikes in neural damage biomarkers",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00039-x"
+        },
+        {
+          "title": "Iptacopan in IgA Nephropathy — Final 24-Month Data",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600743?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-07-31",
       "title": "新聞雷達 (2026-07-31)",
