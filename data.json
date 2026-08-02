@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-08-01T18:36:01.239242",
+  "last_updated": "2026-08-02T14:45:43.246075",
   "daily": [
+    {
+      "date": "2026-08-02",
+      "title": "新聞雷達 (2026-08-02)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-02-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "25歲AI股神大翻車！240億美元基金驚傳斷頭",
+          "source": "自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmblZZQ2RzY2RyTks0VnptMVJHSWJjc2NNVHUzdjZOTkp6WVcxNl9xdHpyTlh4cXlEYWxVeEJkRHdueFpsN1JOMWNrYXpMSU84RXlyQzBTVDNEajhEQkRz?oc=5"
+        },
+        {
+          "title": "OpenAI 產品長爆料：Google 提早一年做出同款卻不敢發佈",
+          "source": "動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWhkTmFtTmJqbFFMM3A1RkVuVEFmczZhak1pSjNmWkxZVmFxNkVIR00wOW9sTm5CWFBFSjRvTUdjcFY2aVVmZ0hOS1VJU2F5UEdwbXd1UVc4NVkyUjdpRHBHOE1IYS16WW1OMjNhT054RllnVXRHaTV5RkljUlN6dkpBSjdLY1Ytc2dXZTNnVUl4ZnJ3TVB0eVFmblpGcXpfZWc?oc=5"
+        },
+        {
+          "title": "中國軍方利用 OpenAI 與 Anthropic 模型蒸餾發展 AI",
+          "source": "news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PX0FOMVZMb1BtNWI5MjBQR1pXYS0zdXdaS1RJNm9Va0hOcXNYWk1uMzRpQVRyVHdHTmNwbC0tdHVxd0pvc2NNZ2xDcWVDaEE?oc=5"
+        },
+        {
+          "title": "OpenAI ChatGPT Work 與 Codex 用戶數翻倍破千萬",
+          "source": "T客邦",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHRrT1M5cklCUHhGWWczY1pqSXRucDFPYmNRWlRlU19yaFp1NTZHalVCTFdMQUNiSktRVFNPNmt3NGVteVliN2ZLZjdVY3Y2cVViMHJKLXVGbkcyRnFLc1FVLXlnUXhJUEJrdXJwRl9TX2dwblNDVnpkUWlQZ29mcVdQV2plWUdHMk1kV000UVlsdFE?oc=5"
+        },
+        {
+          "title": "百萬 YouTuber 坦承「沉迷 AI 工具不健康」引發熱議",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+        },
+        {
+          "title": "歐盟新規上路：民眾將面臨「AI 揭露疲勞」轟炸",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"
+        },
+        {
+          "title": "法官駁回 xAI 請求：明尼蘇達州「禁止一鍵脫衣 AI」法案照常上路",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+        },
+        {
+          "title": "中國電動車霸主的隱憂：廢棄電池回收完全跟不上",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/"
+        },
+        {
+          "title": "開發者實測：AMD MI355X 跑 Kimi K3 模型的性價比超越 Nvidia",
+          "source": "Hacker News",
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x"
+        },
+        {
+          "title": "paperswithbacktest / awesome-systematic-trading",
+          "source": "GitHub",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+        },
+        {
+          "title": "usekaneo / kaneo",
+          "source": "GitHub",
+          "url": "https://github.com/usekaneo/kaneo"
+        },
+        {
+          "title": "abus-aikorea / voice-pro",
+          "source": "GitHub",
+          "url": "https://github.com/abus-aikorea/voice-pro"
+        },
+        {
+          "title": "iv-org / invidious",
+          "source": "GitHub",
+          "url": "https://github.com/iv-org/invidious"
+        },
+        {
+          "title": "Teclistamab 用於既往接受過 1-3 線治療的多發性骨髓瘤患者",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603870?af=R&rss=currentIssue"
+        },
+        {
+          "title": "PARP 抑制劑聯合雄激素阻斷療法治療轉移性前列腺癌",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604126?af=R&rss=currentIssue"
+        },
+        {
+          "title": "運用 524 萬筆常規臨床腦部影像打造更強的 3D 視覺基礎模型",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04567-4"
+        },
+        {
+          "title": "具備臨床對話能力的多模態病理學基礎模型 PRISM2",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04521-4"
+        }
+      ]
+    },
     {
       "date": "2026-08-01",
       "title": "新聞雷達 (2026-08-01)",
