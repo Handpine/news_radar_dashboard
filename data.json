@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-02T14:45:43.246075",
+  "last_updated": "2026-08-03T08:09:35.104239",
   "daily": [
+    {
+      "date": "2026-08-03",
+      "title": "新聞雷達 (2026-08-03)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-03-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "國際足總正式放棄具爭議的世界盃私人投資計畫",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5"
+        },
+        {
+          "title": "英國樂團 Massive Attack 因聲援巴勒斯坦遭新加坡封殺",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GVHk1Z285S1BEUExfMzNGWGhZVTRuZzFXZ3UtOThTM0gtUXNRMDVLc3hTaE1YelBqelF6SEpXYWRtYkwzdTVRRGZjRllncXF6V2VOUUtJVGNBZw?oc=5"
+        },
+        {
+          "title": "台糖澄清未捲入食安隱匿，5月即拒收中聯問題粗油",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KbERsTFpsZVAxc0NoTEk1alQtRXZGRndzaWNocjBYci0yMy1oUERNUFdRM0xndmtsbnNkTU05T0ltMlJObFRmVFZCUkJTUFBNaGRFbDdITWI3TkJlMGc?oc=5"
+        },
+        {
+          "title": "資深演員江青霞辭世享壽81歲，醫師點名致命壞習慣",
+          "source": "TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SejRPcmJDTEhVQXVHZHlQWWRhb2lobG5LbFBWLXg3NGhpUHE0NzZ1c0dyT0Q0TU9WbDMtMGpjd3hWM1dnWmZGUG1EY2dkTlc5YkRIVWQwZ0szZw?oc=5"
+        },
+        {
+          "title": "恐懼 AI 的數學天才陶哲軒正式加入 OpenAI",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc?oc=5"
+        },
+        {
+          "title": "Google 讓 Gemini AI 裝上雙腿，變身人形機器人",
+          "source": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RS09fOW4xUm8tWkJwWm1Tc0VhREhMdGc2WVU2UHpLY2Y3UkVTSmF2MU10NXExWFVreG83YlRsNFBsdTdIbWRFeS1sWUhLUm40aURLa2pqdmxjWGROZEhGMWVKVTdMbXE0VDlmc3psRm1iXzZRLVhVR3lB?oc=5"
+        },
+        {
+          "title": "微軟靠 AI 資安殺出一條血路，成股價成長新引擎",
+          "source": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0s2UHRGc2Q0RVU2eGFLdy13SVJ1T29IT1R0cWJQNXlUNVBQRUdKVFhPeUFzTUxuNXI0QWhMaC1tR0dBbnh6bXNXOW55S1RHcDUzdWtISEluVm50RkswZzJvWVkzZWVSSHdwNGozRTZrSzZ0ak5QcDN2WDgyZTJQTTRSUW1DbEZlNFk0QWtXbEQyOXRRS2VlMTBHb0YtYm9LeGtNZEVNV3JoSlJ3dlY1Smh5TEVUckNRUU1jTkdrMFFYdGVQ?oc=5"
+        },
+        {
+          "title": "Reddit 股價重挫，執行長開砲質疑 Google AI 搜尋概覽的價值",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY05DYjQ0ZEJKTnpSYkxqZFMzWHB3N2h2ZFdQdDR0dDJWeERWZldKSmU2N1Z4clBTM2xHNHJ1aDd5VVNZYTBHVWowY0VUakowXzZ0OTM0QlphZk9CT3FGUW1JRk1GY0tfc1RHN2o0U3pNT2hEZ3YzZmp6M1dpZzh3SnpkUVNzM2ZyZmpodGVkNXBVajdyb0IyODZ5NW96QjQ?oc=5"
+        },
+        {
+          "title": "全球記憶體晶片荒燒到蘋果，MacBook Air 面臨缺貨危機",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
+        },
+        {
+          "title": "馬來西亞當局出手，傳將關閉矽谷大佬的「網路國家」實驗學校",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
+        },
+        {
+          "title": "上古神器復活：開發者在 6502 老處理器上跑起 AI 語言模型",
+          "source": "Hacker News",
+          "url": "https://mattbeton.com/blog/bitnet-6502.html"
+        },
+        {
+          "title": "AI 繪圖作品奪下美國俄亥俄州博覽會海報比賽冠軍",
+          "source": "Hacker News",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
+        },
+        {
+          "title": "幹細胞基因療法對異染性腦白質退化症的交叉修正效應",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2505002?af=R&rss=currentIssue"
+        },
+        {
+          "title": "柬埔寨達成 HIV 預防與治療歷史性里程碑",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01550-3/fulltext?rss=yes"
+        },
+        {
+          "title": "20萬人大型研究：放假後「這一天」最易發生心臟驟停猝死",
+          "source": "UHK 港生活",
+          "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPcTlZRnNweHQ3LUN0UTJRdFdhMEVKdTR6ZjdzZzk2Tm85eTc2X196TnNfcjZ6OEY2LXlwVTZwbUM0TnlFUVp3Vjd4cVliY1RJTXR4dFAyMkxuMjl6cVpoNVR2TXFxdTVOZkZCSlhwZVhjWmhrX1lTZHo2LWZmeWs4MHJIZ3hqZUg1NW55QkVNVURsNjFXNzlhZmNwWnRIbExuY29ZaXNGblYyZ1Y5dDBwX1dRRV95U3J5MjBYOUY5R1pFRWdFN1Q1cXVpeDVVQ0xmeFJyVGFDNWE3dW9jNmNqRlNrZFEwRUpXakpudzhBak1zU25xVHp2SlQtaThFRzl6T0p5NDVkUThpWGl4QVBzM1RpY01lMExMNTZtdG80T0x0SmgtQkNTZ1JlYURPa0RKYlo4NmlGeVF4QWpaSm5YWWdvV2ZGM0lPNXQxaGxuN1k0WkF5c2tDYzZqNmthTEkwSUl5bVBsc0JmTVhKT19ZVnVrSU8zYUJLb29CWHIxSk4zcHFoNzBlYll5empiWXR1d2FleW1YWXo1Sk5mNWZXTjAtdVBMMzJkZGFnVEpPVVZCV0hqMm5lOWU3Q1hUY0ZpWnM5UkJ5ZzZwOHp4UXc?oc=5"
+        },
+        {
+          "title": "經皮雌二醇貼片在攝護腺癌治療中的應用",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2607173?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-08-02",
       "title": "新聞雷達 (2026-08-02)",
