@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-08-03T08:11:38.896019",
+  "last_updated": "2026-08-04T08:11:08.869052",
   "daily": [
+    {
+      "date": "2026-08-04",
+      "title": "新聞雷達 (2026-08-04)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-04-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "「小羊卡牌社」老闆爆捲款 3 億落跑！店面空空如也",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPRjBwUDgzNHBpQUktWENkanB4LUc5aVZ5U1FLSGRuMGViZlpfeDItbERiR3BjeVg1ZDdjSHRYbVBObHlsSHR2YUI3a1lOQzhTVVVZMm9tb0VVaWNqNFBreGdTZldVaUFXeEZqaE51Zms0UlNPWGk1ZjlVd0VzRFRXOTVvZ0pLRFhnMU50UTQzQ2NYOGo3dF9DYWEzNk4zbTNLUVFBR1RuLWpwTHcwMEpxTDA1a3N0ZTNhSzJybWk2VXhnVWhOa2MxWFpINHBKa1JENGp2UVpsalRrQlAzU3dFc0pkRHQ0bVVIbzJCWGx0Y2dhLTBiV29UbWJUa2ZoUVFiSVB6dzNBQ3hqRlFrdWhlb0M4OF93LXF4NkVtaGpFeHM3TElQZjkyS3NhYl9aNzFvaE5FZFRvaXJRdWFMWXk2UmxYRkx5VWVUOHFVQXNyTVQ2bWxNRW5CUHNiZVNTMDNQY1R1bmRiV0xlYmp6TTRnSEhzNV8zU01INEJ0b19HYmFuYkpRRW1Ob1pOZlNWVHlMVVlV?oc=5"
+        },
+        {
+          "title": "西捷航空勞資談判破裂大罷工，重創 25 萬旅客暑假行程",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nejNxN1FzbUItdmNYRkVtVElGR1VDMWJyNGgxeEVSWGNwSWhqM2J1MHZkdGxCWmxwbkthM3hWRWhHZnRQaHIwVzhwaHBXaEFyUnZXY210ZW9EbXB5WU1r?oc=5"
+        },
+        {
+          "title": "兩岸交流嚴重不對等！陸委會宣佈將加強「大陸識讀」教育",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0T0N5Z2ViTzUxcUt3NUFZMUtReGZLMVNJalhsM0ZSVVh5VDZCSUJvZEJfS3o3ZGlFbGl6MFAyZVZKOXBON2tzTUpPMTVXSDVEV1MyUW95SU0yUTNscXc?oc=5"
+        },
+        {
+          "title": "誰來接班？FIFA 繼任主席爭奪戰提早開跑",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwZUNQMWhsX3VyUTVRV2NOb2ZtWlFZcVE4ZmlCeUNZcTVNS2M5ZzA1TENBUmdaV3ZTRk5JQzVKaW1iRHNBSEZQWVJfM1lDZUZFM1Jha1UrZ1NPaEUzeGF3SV84OEpFcTA?oc=5"
+        },
+        {
+          "title": "蘋果 Siri 貼身肉搏 OpenAI 最新 ChatGPT！大打終端 AI 戰",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnhfUXdoLVpyUHB6VUhXbzY1OUJtOHQ5b2NadGh4c3pKNWpOVGlSajQzeVcxVVIwQWtkQnZaM3hjUTFCQy1Va2xjcldnNFFseklPaHphZ2JtcmRZN0Q4ZzBWeUlGcFlmb0hXQmxiLVVEd0haSldmbGlScnhkaV9tdldEOVk3T2x1VGRXUHJmaW1jeGpfOWs5aGRaYXdZNzB1MDhYcVVWcw?oc=5"
+        },
+        {
+          "title": "美中 AI 競爭大熱！阿里巴巴推出 Qwen 與 Anthropic 打對台",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VUEzbk1tNVJGX2QtazV5Ri0ydjAwOVg4clJOYm9FeG9IUzlrUjJFQmU3SUg2cWRCbjZJM1VZRDhlYnp3V2s5V00zZFg0VDJkbXlrdnJ2QmFtc19aeTNFT3FjREdEeWRCR01rc0lNdHJlS1lpcmNPdEhmbE8?oc=5"
+        },
+        {
+          "title": "用 AI 幫 3,500 人進行精密驗血！前 OpenAI 產品大老成功跨界",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWhnYnprYTVaR01oZDV0am0wbXdyNzQzek9oc0hHVnAzYjdOVUVSc3Bua2ZVTVFncF91cFhtVGJJSmJBeDB2ZXVfVzNFWExrem91dnFSWE5idWxBVVk0bDROVHdUbUJJQ0w0TUFRdEdSbzNoZFhpU0R6OXp3VHAyYzluV2RqeTNfQmJlY1JKZG9FenM2QTkxMUVFTnVCQQ?oc=5"
+        },
+        {
+          "title": "就算 80 萬人排隊預購也沒用！Google 狠砍未上線熱門 APP",
+          "source": "Android Authority",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5"
+        },
+        {
+          "title": "賺大錢卻開砲！Palantir 執行長痛批 AI 業界充斥「馬克思主義」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+        },
+        {
+          "title": "寫扣再降門檻！AWS 攜手 Superblocks 狂推「氛圍編程」新架構",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+        },
+        {
+          "title": "用「美學與品味」調教 AI！Design Arena 豪奪 790 萬美元融資",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+        },
+        {
+          "title": "殘酷真相：大型語言模型 (LLMs) 其實更偏愛「各領域專家」",
+          "source": "Hacker News",
+          "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+        },
+        {
+          "title": "esengine / DeepSeek-Reasonix",
+          "source": "GitHub",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix"
+        },
+        {
+          "title": "antirez / ds4",
+          "source": "GitHub",
+          "url": "https://github.com/antirez/ds4"
+        },
+        {
+          "title": "firecrawl / pdf-inspector",
+          "source": "GitHub",
+          "url": "https://github.com/firecrawl/pdf-inspector"
+        },
+        {
+          "title": "下一代抗體藥物複合體 (ADC) 研發策略指引",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04543-y"
+        },
+        {
+          "title": "心血管疾病中的低密度脂蛋白膽固醇 (LDL-C) 靶向治療新策略",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2606270?af=R&rss=currentIssue"
+        },
+        {
+          "title": "性荷爾蒙對心血管疾病發病風險的生理機制研究",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2606372?af=R&rss=currentIssue"
+        },
+        {
+          "title": "美國圓孢子蟲 (Cyclospora) 疫情何以屢屢失控？",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01549-7/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "title": "新聞雷達 (2026-08-03)",
