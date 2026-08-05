@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-08-04T08:11:08.869052",
+  "last_updated": "2026-08-05T08:11:06.247526",
   "daily": [
+    {
+      "date": "2026-08-05",
+      "title": "新聞雷達 (2026-08-05)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-05-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "加州川普高爾夫球場附近逮捕持槍男子",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XZXl4ZlRiU1MwYzZ2cVl6VEtwZjJ2NkRMUDZ0YzExNEtzWVY1bTJvVXQzUURJYnREMTRWVHJOSEd3X3VLa21WaUVwNXVjWjl2dXlta0t1eDU2QQ?oc=5"
+        },
+        {
+          "title": "喀麥隆總統長期滯留瑞士引不安，緊急重組軍隊高層",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MN1hvQ25XeUdPREVwOXBZRDFJOXhnOFRRS2ttbkF0ZlkyRmhqRV9xeC1DbWJjSUNNMVBYeG5DTWJLUnU4TGlTMmV3YU0zTFZyV3ctVUotY2owUQ?oc=5"
+        },
+        {
+          "title": "包租代管龍頭「兆基」爆百億財務危機！操盤者失聯引恐慌",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JdmpNbVd6QjVlb0xXVDRISVZHU1ZPcjZEalpsb0J5TTJwWnI5TUw0MmlpY3JqS3FnbXFaWDFnYlVuVlE0QV9SYkJUc1RHZFlSOXJIenpsUlY4VnB5ZWJ5SVZwRGlPeWdLZDZhUUhn?oc=5"
+        },
+        {
+          "title": "立院三讀通過：曾犯《詐防條例》判刑確定者，終身不得參選正副總統",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cDdwVW5uYmJUSUhuamFvbUthenNOV1kyLVN2V285RklucmxRMGdFRWR4SW9naVVtMDVJTlJtRzF0NTlXZXlQQ3FhT3FkMkVNOWljNEhCeXdjbUNpMlBF?oc=5"
+        },
+        {
+          "title": "Anthropic 簽下 100 億美元算力合約，押注 AI 雲端新創 Volta",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5"
+        },
+        {
+          "title": "竊密官司開打！OpenAI 反擊蘋果：指控是「奇怪的個人恩怨」",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTRDRm4xdDRqMERmaENHcDBtcGZrNkNNRlZ5VmdPdUZZRmZMNWZFZW4xS0syTDZqQzdrZEtXTmZoZ1plaURDUlpxa21BX3Ixb0NHc1dOdElWSEQ0dERoeXJmOWVacVZkekYyQzd3MDdkZHpZUGhUczZoaGFvRmZ1WTBQWV8?oc=5"
+        },
+        {
+          "title": "川普顧問給 AI 公司打預防針：新政府不會對開源模型進行安全測試",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5"
+        },
+        {
+          "title": "微軟靠 AI 抓漏洞，推升年度漏洞懸賞金直奔 2000 萬美元新紀錄",
+          "source": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVW1VTGVpc19vNVVNUTRCb0dCeWRObjZGNkEwR0w5UllLUTc0NDcxSy1kRVk2NktnblR6SUlWZEdHVGh5NHZmSlFEUDd1RHBXRU9CRlNUT1pOUmpOUEFiUjEzd2ZVOWxvd2RsWGI2dWtSU21LWlVtQ0VuaF9DSjk0UlF4SnFiUmRLLURkMHd5WXd6ZzZnTlREdmQybDdmNHdvSVRTVTZQN1VaY0NTV3FmVXh3?oc=5"
+        },
+        {
+          "title": "算力生意超好賺！SpaceX 靠 Anthropic 與 Google 雲端託管業績翻倍",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/"
+        },
+        {
+          "title": "迎擊無人機威脅！美軍首度簽署「高能雷射武器」正式採購合約",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/"
+        },
+        {
+          "title": "數學界的下一站：用大語言模型自動發現與驗證重大數學猜想",
+          "source": "ArXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.28632"
+        },
+        {
+          "title": "uber / ADR",
+          "source": "GitHub",
+          "url": "https://github.com/uber/ADR"
+        },
+        {
+          "title": "obra / superpowers",
+          "source": "GitHub",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "title": "可解釋性 AI 在皮膚病診斷中的分化影響",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04553-w"
+        },
+        {
+          "title": "人道與法規：加薩 Kamal Adwan 醫院院長 Hussam Abu Safiya 的緊急醫療呼籲",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01414-5/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "title": "新聞雷達 (2026-08-04)",
