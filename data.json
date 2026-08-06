@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-05T08:36:56.879476",
+  "last_updated": "2026-08-06T08:15:41.932706",
   "daily": [
+    {
+      "date": "2026-08-06",
+      "title": "新聞雷達 (2026-08-06)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-06-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普政府向美國企業大舉退還 1,000 億美元「解放日」關稅",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZzRiTnJiUU9Jc1BZS1V2cXBwZDg4RjJVZ1FBeEtSMG12dllRUWZ3bGdpSzJ5S0UzS1VxRW1kWWtSODNxR0ZNTWhkcmFpanZEeUtZdUYzSWRsdw?oc=5"
+        },
+        {
+          "title": "美國國務院計畫關閉 5 個海外領事館，引發「中國填補外交真空」擔憂",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
+        },
+        {
+          "title": "NCC 警告：因無委員在任，未來可能連藍牙耳機都無法進口",
+          "source": "中央社",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCVXFlc0U3UXRmZkowdEtvdEswdWhUaFJaNkdVZ3ZKTXdQcEwzbUJrOGE1VGpDejA4YmJjSy1KWXY3N3drVHZLdG5CVFZ4OHgyOVN5WnpSZk05c3FCY2c?oc=5"
+        },
+        {
+          "title": "8/10 起肺炎鏈球菌疫苗升級！長者只需打 1 劑，疾管署力拚 4 成接種率",
+          "source": "中央社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmdjdiR05rYnFOSUowRXYtVnlJeEV4b3ZlSnB4S0Y5UWVVNlVQQ0FSTl9JOWxwM0hOUGpZeVd1RGtaSXpwTE5IVHU3NlFVS25LdWRnT1JXUm9qYXVtcWZN?oc=5"
+        },
+        {
+          "title": "迎擊 OpenAI 與 Anthropic！Meta 發表專治巨型專案的 AI 代理 Muse Code",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+        },
+        {
+          "title": "Google AI 團隊大重組：DeepMind 執行長退任、首席科學家 Jeff Dean 正式出走",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5"
+        },
+        {
+          "title": "財報洩底：微軟 AI 賣得嚇嚇叫，原來大半都是靠 OpenAI 在幫忙代工",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5"
+        },
+        {
+          "title": "資安大師反手入侵北韓駭客伺服器！揭露全球數百家網路已遭攻破",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/"
+        },
+        {
+          "title": "雖然沒有拍到畫面，但科學家證實 SpaceX 火箭已「完美撞擊」月球",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/"
+        },
+        {
+          "title": "美國司法部出手調查 OpenAI：涉嫌排擠本土人才、優先幫外籍員工辦綠卡",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/"
+        },
+        {
+          "title": "cloudflare / computer",
+          "source": "GitHub",
+          "url": "https://github.com/cloudflare/computer"
+        },
+        {
+          "title": "huangruiteng / loopx",
+          "source": "GitHub",
+          "url": "https://github.com/huangruiteng/loopx"
+        },
+        {
+          "title": "addyosmani / agent-skills",
+          "source": "GitHub",
+          "url": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+          "title": "醫療大麻素 Dronabinol 用於改善創傷後壓力症候群 (PTSD) 惡夢症狀的臨床研究",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04546-9"
+        },
+        {
+          "title": "人工智慧在核磁共振 (NMR) 光譜學應用中的革命性前景",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42518522/"
+        },
+        {
+          "title": "探索生成式 AI 與人類在臨床醫學教育評估中的一致性與變異模式",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42552577/"
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "title": "新聞雷達 (2026-08-05)",
