@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-06T08:15:41.932706",
+  "last_updated": "2026-08-07T08:15:20.743973",
   "daily": [
+    {
+      "date": "2026-08-07",
+      "title": "新聞雷達 (2026-08-07)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-07-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "律師設局假稱有疫苗管道！慈濟買 BNT 慘遭詐騙 10 億元",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUckR4bFJMUG5wZUtiQk1kZTFUUFp5OXM0Um5vbWtVYWlMaGFyMEZyb3RIcS1hVWpzTUxLYnkyd1TURk_e_Ur_8y1FQXpwaFhyMEhuUk5HVXoyVWdWTkJ3?oc=5"
+        },
+        {
+          "title": "中國出入境限制新法 9 月上路！陸委會急警示：半導體與科技業要小心",
+          "source": "三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10VU5na1hDc2hBSWhiaENHU2pERlpLcXE4VHdzNHE2RzZ6RExpdEJUVkFfR0YyZTlyNnY4UHpIR3g5Rzcyd2NYT9IBTEFVX3lxTFBlc3RTVXZHazJIUnVWNm0yZlJOcnIxSlJSTllpOG5lb1pPVXFUcXpibWdES3ptWS1FOG1YeVFLLWNDMmVPd2hIa0E3Nmw?oc=5"
+        },
+        {
+          "title": "奈及利亞安全部隊發動雷霆突擊，成功救出 300 多名森林人質",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants"
+        },
+        {
+          "title": "剛果伊波拉疫情再度狂飆！確診破 4000 例、病毒驚傳可能已產生變異",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating"
+        },
+        {
+          "title": "蘋果傳奇設計師 Jony Ive 操刀！OpenAI 首款實體 AI 裝置酷似「冰球」",
+          "source": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzlsMFlLRzZVYjc1TThTRUpDMlV0NFlIeHpQTTZOQXVmQlVsR2tfYkJaejVBb0p2UjNhWWg0a3ZXU1NDUjctYnFCR1lLU3Y1aXVsR2tKZktLUmIyNDRWenE1Umx2MVNiNldpR0pzbTVMVkNYUE40TFVGUGhTNlVLZzlxS085Sm5lcFR0TGNLZkgyYXo4elBndXFlWmF3MHppcVZN?oc=5"
+        },
+        {
+          "title": "Google DeepMind 發表 WeatherNext 模型！氣旋預測精準度取得歷史性突破",
+          "source": "Google DeepMind",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxMMWV3dXdpQi12UUlac3V6NUdCRm9WWGRIU3laVmVjXy1vbTVDVl9jeEpFRXVsaWJfamc5c2pWTFNRY3UyUG1nQm9XYzBuWkFJeWFrNGEzRDYxR1I4TWdSR2w1b3g5eDBBUHEwVTZkSXVvNURoTW1EeDVmNjdSSXR3QWJyM2hhcTNxTmpTNFNkZDdGckdiM1FfbTE0blg?oc=5"
+        },
+        {
+          "title": "微軟內部下達強制令：為省算力與成本，所有開發專案預設改用 OpenAI 頂級模型",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZ2pEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5"
+        },
+        {
+          "title": "超微 AMD 收購晶片新創 Taalas！直接把 AI 模型「硬體電路化」實現神級推論",
+          "source": "The Register",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
+        },
+        {
+          "title": "天文物理大發現！科學家首次在太陽表面觀測到像海浪般的「凱氏不穩定性」波動",
+          "source": "NSO",
+          "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/"
+        },
+        {
+          "title": "Vercel Labs 發表新程式語言「Zero」！專門設計給 AI 代理人寫程式的全新架構",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/08/vercel-ships-zero-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "mattpocock / skills",
+          "source": "GitHub",
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "title": "goauthentik / authentik",
+          "source": "GitHub",
+          "url": "https://github.com/goauthentik/authentik"
+        },
+        {
+          "title": "Significant-Gravitas / AutoGPT",
+          "source": "GitHub",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT"
+        },
+        {
+          "title": "釋放不孕雄蚊！利用沃爾巴克氏體 (Wolbachia) 成功壓制登革熱疫情",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2605921?af=R&rss=currentIssue"
+        },
+        {
+          "title": "腦內精準直投！針對復發性膠質母細胞瘤的 B7-H3 標靶 CAR-T 療法一期臨床成功",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04557-6"
+        },
+        {
+          "title": "神奇蘑菇入法！裸蓋菇素 (Psilocybin) 輔助療法成功改善難治性重度憂鬱症",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04541-0"
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "title": "新聞雷達 (2026-08-06)",
