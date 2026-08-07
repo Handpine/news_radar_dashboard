@@ -4,7 +4,7 @@
 
 這是一個為精明讀者量身打造的**「新聞雷達 PWA 閱讀儀表板」**。本專案作為前端閱讀介面，與後端的自動化機器人 `news_radar_bot` 緊密連動，提供具備離線閱讀能力、極致行動端體驗、以及高階精品視覺質感的漸進式網頁應用 (PWA)。
 
-* **線上預覽 URL**：[https://handpine.github.io/news_radar_dashboard/](https://handpine.github.io/news_radar_dashboard/)
+* **線上預覽 URL**：[https://superbalabah.github.io/news_radar_dashboard/](https://superbalabah.github.io/news_radar_dashboard/)
 
 ---
 
