@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T12:57:40.005517",
+  "last_updated": "2026-08-08T13:11:50.894768",
   "daily": [
     {
       "date": "2026-08-08",
@@ -7,54 +7,49 @@
       "file_path": "News_Report/新聞雷達/2026/08/2026-08-08-新聞雷達.md",
       "headlines": [
         {
-          "title": "拜登兒子首度打破沉默：特赦對國家與父親的歷史定位「不是好事」",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5waFBSeDlJZHptTFI4ZnNUV2U5NFk0QWpFUmQydWVzVV9neTNVcGRDU1Rya24wMU9aR0ZlWXp2QVBxaXF5VVZnR1A1M3JmazVFazhhaXRCWmxHZw?oc=5"
-        },
-        {
-          "title": "聖母峰冰封 30 年的著名標記「綠靴子」可能終於要回家了",
+          "title": "聖母峰冰封 30 年的印度遇難者「綠靴子」，近期終將踏上回家之路",
           "source": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pMU44VWNJWnU3eDFMc0kyN1FGYng2R0VrUjlyakZIMnB6Z1dsUzhzWjdNdEgzTzhySnVpanhWalFzam5XSUt4SU43RG1GZDB3SGp5Q2NsY0RsQQ?oc=5"
         },
         {
-          "title": "兆基風暴續集！宏碁停損退出經營層，前董座李建成涉侵占 7 億遭當庭收押",
+          "title": "防堵邊境移民風暴外溢！西班牙宣佈對義大利遊客實施臨時護照盤查",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy"
+        },
+        {
+          "title": "兆基侵占公款弊案連環爆！宏碁驚覺內部缺失辭任董事長、全面退股退出經營層",
           "source": "UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VHYtbDVBa1ZESnAtRTlsWUx4NzRzcFRHY3cwbldJRHFGU05LbkFnTTBGWmxTM0s0SW8zbE5uci1xUUQxOHhGTFROdzF1bEVa?oc=5"
         },
         {
-          "title": "高雄夜市特斯拉暴衝連撞 13 車！大器賓士擋下浩劫，霸氣食品董座發聲",
-          "source": "東森新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QQ05hdUxXYl9XVWMtUXEzWlRpTWVrRGliM0FyVmp6alVmLVBuMW1Sa1lSdHkyTG5nYTZBM1dxOU9oai1SZW12djd1Zkw0c0VBUGNWbWxn?oc=5"
+          "title": "漢光演習重磅裝備登場！108 輛國產 M1A2T 主力戰車首度參演捍衛大台北防線",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lYjFFbzNFelZKbGdzcTJhWFpIX1hkdHZjejR5ZlFJVVVBZU9jclBHZXZWTlpJTG91MTBpa1QN0c5SjQxUEY2eVNxQ1JkMWNYLTZIZWQweUpmaDF3bzBDeDliNEFsQ2l2QlNjZWVB?oc=5"
         },
         {
-          "title": "怕惹出網攻大戰！OpenAI 證實因「具備自主網攻能力」緊急暫緩 Astra 模型研發與發布",
-          "source": "axios.com",
+          "title": "網攻破壞力太強！OpenAI Astra 模型因驚人的「自主入侵漏洞能力」被迫安全踩煞車",
+          "source": "Axios",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5"
         },
         {
-          "title": "嘴上喊著安全理想、私下狂砸錢？Anthropic 執行長遭爆用 6 倍高薪請公關企劃",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVl9wSzlMS1lnZkQyWlpWSEhPaUJSZGlTMXlfMTJJZ3FScVI2dnFra0tpcHcxZDRvTXdvazgzT0tZdlotbk9kX2djYUhISzNBemdIX0xraEtryaWdEMDFUREFKUDVPMlBTNnZULTBzOGhNbzN0WjZKUDd1eTM5MmxkcnN6YXdJS0RRYWZaOFBYdmtNUk5kODlmVnNaLVJJdDJaYWo5Sw?oc=5"
+          "title": "拒絕被晶片大廠掐脖子！Anthropic 驚傳將自行研發專屬晶片支援 Claude 模型運算",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1hXb3VvUjdRM0s0U0JMdGEwR2tiNU02RXkyZmd0RFFjZUlGbnBwdnRsQW13YU5Dc1ctM0E4ZlE1alFTYkQzZHlyZ01tQU95aVhVNF9DRjhvbk43cmo5MFJLaFV0RmxQWkx0UG5SM3JLS2hFM2FTSkV6aGxWUlJJak5yZDZRamt0M2VhQlB4Q1RGU3dJRkNmUDN3?oc=5"
         },
         {
-          "title": "中美 AI 肉搏續集！字節跳動被爆祕密研發超級大模型，目標直指 Anthropic 最強 Mythos",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5"
-        },
-        {
-          "title": "潘朵拉盒子打開了？科學家利用 AI 憑空創造出 16 種全新人工病毒",
+          "title": "潘朵拉的魔盒？科學家成功利用 AI 憑空設計出 16 種全新的「非自然界病毒」",
           "source": "Wired",
           "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
         },
         {
-          "title": "給 AI 機器人用的瀏覽器！Cloudflare 推出 Kitesurf，徹底釋放 Agent 算力瓶頸",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+          "title": "打破 AGI 推理紀錄！DeepSeek 發表 V4 Flash 0731 模型稱霸數學推理賽道",
+          "source": "Hacker News",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
         },
         {
-          "title": "被員工亂用 AI 燒掉數百萬美金後，Rippling 開發出「AI 支出計算主控台」",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+          "title": "企業級 AI 閘道來了！微軟發表 Azure API Management 專屬 AI 控制面板",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
         },
         {
           "title": "666ghj / MiroFish",
@@ -72,19 +67,19 @@
           "url": "https://github.com/jdx/mise"
         },
         {
-          "title": "超大規模全基因組定序揭示父母年紀與人工生殖技術對下一代基因突變的深遠影響",
-          "source": "Nature Medicine",
+          "title": "父母年齡與人工輔助生殖技術對新生兒新發基因突變的實質影響研究",
+          "source": "Nature Medicine News",
           "url": "https://www.nature.com/articles/s41591-026-04585-2"
         },
         {
-          "title": "臨床驗證框架大揭秘：心理諮商 AI 常在無意中放大患者的焦慮與心理脆弱性",
-          "source": "Nature Medicine",
+          "title": "臨床實證：心理健康對話 AI 聊天機器人可能在無意中放大患者的情緒弱點",
+          "source": "Nature Medicine News",
           "url": "https://www.nature.com/articles/s41591-026-04577-2"
         },
         {
-          "title": "肺動脈高壓口服新藥 Ralinepag 取得關鍵臨床進展",
-          "source": "The Lancet",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01556-4/fulltext?rss=yes"
+          "title": "鹽皮質激素受體拮抗劑控制心血管與腎臟疾病的多重臨床獲益",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMe2608321?af=R&rss=currentIssue"
         }
       ]
     },
