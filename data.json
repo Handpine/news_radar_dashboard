@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-07T08:15:20.743973",
+  "last_updated": "2026-08-08T12:57:40.005517",
   "daily": [
+    {
+      "date": "2026-08-08",
+      "title": "新聞雷達 (2026-08-08)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-08-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "拜登兒子首度打破沉默：特赦對國家與父親的歷史定位「不是好事」",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5waFBSeDlJZHptTFI4ZnNUV2U5NFk0QWpFUmQydWVzVV9neTNVcGRDU1Rya24wMU9aR0ZlWXp2QVBxaXF5VVZnR1A1M3JmazVFazhhaXRCWmxHZw?oc=5"
+        },
+        {
+          "title": "聖母峰冰封 30 年的著名標記「綠靴子」可能終於要回家了",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pMU44VWNJWnU3eDFMc0kyN1FGYng2R0VrUjlyakZIMnB6Z1dsUzhzWjdNdEgzTzhySnVpanhWalFzam5XSUt4SU43RG1GZDB3SGp5Q2NsY0RsQQ?oc=5"
+        },
+        {
+          "title": "兆基風暴續集！宏碁停損退出經營層，前董座李建成涉侵占 7 億遭當庭收押",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VHYtbDVBa1ZESnAtRTlsWUx4NzRzcFRHY3cwbldJRHFGU05LbkFnTTBGWmxTM0s0SW8zbE5uci1xUUQxOHhGTFROdzF1bEVa?oc=5"
+        },
+        {
+          "title": "高雄夜市特斯拉暴衝連撞 13 車！大器賓士擋下浩劫，霸氣食品董座發聲",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QQ05hdUxXYl9XVWMtUXEzWlRpTWVrRGliM0FyVmp6alVmLVBuMW1Sa1lSdHkyTG5nYTZBM1dxOU9oai1SZW12djd1Zkw0c0VBUGNWbWxn?oc=5"
+        },
+        {
+          "title": "怕惹出網攻大戰！OpenAI 證實因「具備自主網攻能力」緊急暫緩 Astra 模型研發與發布",
+          "source": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5"
+        },
+        {
+          "title": "嘴上喊著安全理想、私下狂砸錢？Anthropic 執行長遭爆用 6 倍高薪請公關企劃",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVl9wSzlMS1lnZkQyWlpWSEhPaUJSZGlTMXlfMTJJZ3FScVI2dnFra0tpcHcxZDRvTXdvazgzT0tZdlotbk9kX2djYUhISzNBemdIX0xraEtryaWdEMDFUREFKUDVPMlBTNnZULTBzOGhNbzN0WjZKUDd1eTM5MmxkcnN6YXdJS0RRYWZaOFBYdmtNUk5kODlmVnNaLVJJdDJaYWo5Sw?oc=5"
+        },
+        {
+          "title": "中美 AI 肉搏續集！字節跳動被爆祕密研發超級大模型，目標直指 Anthropic 最強 Mythos",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5"
+        },
+        {
+          "title": "潘朵拉盒子打開了？科學家利用 AI 憑空創造出 16 種全新人工病毒",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
+        },
+        {
+          "title": "給 AI 機器人用的瀏覽器！Cloudflare 推出 Kitesurf，徹底釋放 Agent 算力瓶頸",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+        },
+        {
+          "title": "被員工亂用 AI 燒掉數百萬美金後，Rippling 開發出「AI 支出計算主控台」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+        },
+        {
+          "title": "666ghj / MiroFish",
+          "source": "GitHub",
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "title": "PrimeIntellect-ai / prime-agent",
+          "source": "GitHub",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+        },
+        {
+          "title": "jdx / mise",
+          "source": "GitHub",
+          "url": "https://github.com/jdx/mise"
+        },
+        {
+          "title": "超大規模全基因組定序揭示父母年紀與人工生殖技術對下一代基因突變的深遠影響",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04585-2"
+        },
+        {
+          "title": "臨床驗證框架大揭秘：心理諮商 AI 常在無意中放大患者的焦慮與心理脆弱性",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04577-2"
+        },
+        {
+          "title": "肺動脈高壓口服新藥 Ralinepag 取得關鍵臨床進展",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01556-4/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-07",
       "title": "新聞雷達 (2026-08-07)",
