@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-08T13:36:15.846565",
+  "last_updated": "2026-08-09T11:42:58.427757",
   "daily": [
+    {
+      "date": "2026-08-09",
+      "title": "新聞雷達 (2026-08-09)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-09-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "足球防得了 AI 嗎？解析科技投資人爭相入股世界盃的背後盤算",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nb192dHp2YVdaRTYzWk1qQ1hucVNNNTJ5TkxjRkN3SEtSWDZvQkNGUm12REZPUi0wdHlwR2lPTlo4WXh1U2FSZnhqV2VrQ3lXeXdMYzBVZkxmQQ?oc=5"
+        },
+        {
+          "title": "梅西父親豪爾赫因病逝世享壽 68 歲，全球足壇同聲哀悼",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKUUtJT080enlVU29DeU5RTWpkWlIwakRHVFVoTEVKeVhsdTBFNjhaYXAwWEw2Q0hzdGpDZzlsRURRQ3RqSFozcU1VSUoxOHQwNXpfU29qQ3hCUFJGa0RZbHFVWjV0bVU?oc=5"
+        },
+        {
+          "title": "「白海豚」颱風強襲北台灣！九縣市風雨達停班課標準，淡水更驚現水龍捲登陸",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMDJSdUpTWTJ6NEtIa2Y4a3ZwdWUzaHF4aDBxVlM3OXZYSHM3S2VZTEFhYW9lVTJoZUs0aTZSZm9YV20tY0Y3jxCpW?oc=5"
+        },
+        {
+          "title": "漢光 42 號首度直播「濱海打擊」！總統賴清德將視導海軍無人機攻防",
+          "source": "自由軍武頻道",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWmNUdGljZGF2RlVTc25GOGZreTZ5WXc5cDhGc2xjVkQ3eXpuR0cxZUJ4WnMwcXVTSEQwaGVJN1BSk1oyTWl3QkVoaE1Kd2htYjRUd2tRWXpYVHF0UzFYdQ?oc=5"
+        },
+        {
+          "title": "Anthropic 執行長大罵自家員工是「一群不可信的內鬼」",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlctMEZtN0dkcHRlQlBFR0o2Q3RDaGhwTlVjY2cxNW1YeXRUTEZrdnM0RF9CZTZTM0hveHI0WmotSzFFTkp0QXBld1NNUXpsTnpKT3RROFF5MW45bnA2X3pmRmM3ajR4YlhMRXNELThWQWEyVGFqelMtRmotMUJlT0FkZ1B5TklibndHTmF0WThTTTl2Q1VYWDVPam5yZlk?oc=5"
+        },
+        {
+          "title": "Anthropic 若順利 IPO，最賺的竟然是「蝦子福利基金會」？",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWw3eVkwTTR3TlNXa0I5SjVuTWxubHRxM25ZRHVoNjFPSUEzZ2cxSk9mQnh4eXQtaExWbVlVQVlsb2F5VlVQV0FuNDNndUhRVGdISHlZNF83VFdnLTFheThIM2lkY0lxZ29zSjVhWlNXUHlvY2Rwcms1RVo5UXNGMkh3Q0hYOE5zTjNBTXkyWWZhdw?oc=5"
+        },
+        {
+          "title": "微軟在印度啟用最大資料中心樞紐，AI 算力爭奪戰火燒向南亞",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxN0XstRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVlYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5"
+        },
+        {
+          "title": "亞馬遜德州資料中心擬自建發電廠，恐淪為全美最大氣候污染源",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+        },
+        {
+          "title": "OpenAI 悄悄收購簡報生成新創 NextSlide，ChatGPT 原生 PPT 工具要來了？",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+        },
+        {
+          "title": "滑鼠軌跡出賣你！Cloudflare 發表 Precursor 行為分析引擎，讓 AI 代理無所遁形",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "TauricResearch / TradingAgents",
+          "source": "GitHub",
+          "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+          "title": "google / skills",
+          "source": "GitHub",
+          "url": "https://github.com/google/skills"
+        },
+        {
+          "title": "LadybirdBrowser / ladybird",
+          "source": "GitHub",
+          "url": "https://github.com/LadybirdBrowser/ladybird"
+        },
+        {
+          "title": "烏干達成功撲滅 Bundibugyo 伊波拉疫情，但周邊剛果民主共和國威脅依然嚴峻",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01594-1/fulltext?rss=yes"
+        },
+        {
+          "title": "AI 加速設計新型抗微生物胜肽 (AMP) 成功獵殺多重抗藥性超級細菌",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42569460/"
+        },
+        {
+          "title": "麻疹肆虐東歐！羅馬尼亞疫苗接種率暴跌，國家啟動全面反擊戰",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01596-5/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "title": "新聞雷達 (2026-08-08)",
