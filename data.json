@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-10T10:12:25.317355",
+  "last_updated": "2026-08-10T10:17:34.096709",
   "daily": [
+    {
+      "date": "2026-08-10",
+      "title": "新聞雷達 (2026-08-10)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-10-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "剛簽完防衛協定就動手！葉門叛軍宣布襲擊沙烏地阿拉伯煉油廠",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TLVBCSks4Wm43Y3pXT3gwd3pqSC1TaHFHSlNoVUZWbWVaSVZOd0xSbzFuUDdjNDNIVXZ2RFpBeVUxRkZ1dDZyWE5iak15OXhpa1ozNGNLalVVY1gtUnA0?oc=5"
+        },
+        {
+          "title": "西西里島海岸驚喜發現儲存完好的古羅馬時代沉船遺骸",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mMHZ6NXRyQTdmSmVxT2Q5MDNicUtWV0xUbTVMbVZQaVY5dXRJcERCOWhjRzVEWnNyNDhXV2NJajJhaGtVNzBucHdEUDV3SXlHVmYwQkp2ZTdidw?oc=5"
+        },
+        {
+          "title": "中部人注意！10 日將進行行動網路「有感降速」演練，NCC 呼籲民眾提前準備",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ZEJXUm9GODg2ZWxneDNaMmhTMXRXWmtXVjNIazNjMlZEWDFBODhvcWRGVkZsdE1wV0hTMzc4Y1RwajNhbHktZjR0eWh5R2JfU3ZUTkpmWHlkQnRWenNV?oc=5"
+        },
+        {
+          "title": "台玻豪門家庭風暴引熱議：兒媳譚以欣拋棄繼承、亡夫遺願指控引發拉鋸戰",
+          "source": "鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNERTbFBxZG5pSmVoWEJJREhDTDVWbXVKdV9fdTR4ZHZxOGRid1hZb1EtYVZkYnlUbEFKR29Tc1oyd3pFWHRuQnFmdlc0aGIxVDNYRnlrWkJ5T2vSAWBBVV95cUxPUW05VW5xVnp1X0VJTFY1Z3FiSWl5cnp1b1NhajIzRnZqb0xzR0FsSWNMTHRHdVVwQnRfeTdHV05KbVU4R0RnUWVPbU03d2t4dHR3U013V1BITzlkZnJZc2o?oc=5"
+        },
+        {
+          "title": "Hugging Face 遭黑客入侵演變成數百萬美元公關危機，OpenAI 淪為最大受害者",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5"
+        },
+        {
+          "title": "微軟 AI 終局戰恐引爆股市崩盤？投資人對其天文數字的基建開銷感到恐慌",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlA3ODUxbkVJRGY2UGUwalBhNTUzaXIteHF5Und2MTI0WkN2OXIyR3BqT0ZXM3M1dU94alJtekYzVXhzMFZWbUpPLU1MaXZUcE5JQ1l6b0x2VVY4MThUWjN3S0gyTHQ2c3VZbDZxNnhWd3ZVd2lPazFOaEFmdi0tRDVIS3RUN2Ey?oc=5"
+        },
+        {
+          "title": "微軟做出爭議性決策：為保證速度與效率，旗下所有開發專案將預設 OpenAI 模型",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkVSNURFaXVqcmFLMzF6eklmUlMycmExeXNfYTM4U1BKbXctZnRxVkJzVzBjTWoxZ0J2b3oyaHdhRV9qcDloTm9yMThhX2F5OFFXSmtteG13YjhYdC1SOG93UkplRDlPNFNQa1U5X2VTZk43MXlpU010Q1RrVk5IcUl6bkMxOUNpYzg2R1hNQ2VPVmZtXzc1b2NBSGY2ZVBaZ1k4S0F3?oc=5"
+        },
+        {
+          "title": "創投界的大賭注！危機重重的 Situational Awareness 對晶片新創 Source Foundry 投資 4 億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+        },
+        {
+          "title": "玩火自焚？安全專家警告：AI 安全測試防護網本身正演變成新型資安威脅",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+        },
+        {
+          "title": "拒絕高額訂閱！開源會議記錄神器 Meetily 讓你在本機端免費完成 AI 錄音轉逐字稿",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/"
+        },
+        {
+          "title": "msitarzewski / agency-agents",
+          "source": "GitHub",
+          "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+          "title": "vitali87 / code-graph-rag",
+          "source": "GitHub",
+          "url": "https://github.com/vitali87/code-graph-rag"
+        },
+        {
+          "title": "pranshuparmar / witr",
+          "source": "GitHub",
+          "url": "https://github.com/pranshuparmar/witr"
+        },
+        {
+          "title": "孕婦六價乙群鏈球菌結合疫苗在未孕及懷孕女性中的一二期隨機對照臨床研究",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMx260013?af=R&rss=currentIssue"
+        },
+        {
+          "title": "醫學權威警告：拉美與全球南方國家的失智症預防政策面臨巨大結構性缺口",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01595-3/fulltext?rss=yes"
+        },
+        {
+          "title": "全球憂鬱症經濟負擔預測：2025 至 2050 年間 154 個國家的長線財務負擔研究",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01595-3/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "title": "新聞雷達 (2026-08-09)",
