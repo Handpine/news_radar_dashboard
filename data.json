@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-10T10:42:47.527286",
+  "last_updated": "2026-08-11T17:17:11.958278",
   "daily": [
+    {
+      "date": "2026-08-11",
+      "title": "新聞雷達 (2026-08-11)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-11-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "哥倫比亞爆發多年來最大規模強震！至少 132 人不幸喪生",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOUZIazBTTXJFTDZ3QjVQYWRITkJQVUFMWjQ5LVQxUHJYSjRxYk1ySkg3OGpJOHpuVTJVWUZoNXUzdVg3cGFUdU9KMDRWcWxjaUpreHpmRWN3UQ?oc=5"
+        },
+        {
+          "title": "利比亞儲油槽遭襲引發沖天大火！現場濃煙滾滾、情勢危急",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQUFJVnpPQ0pNSy10d3VkX3kxWE84YXZJbm1OT045WHJubHdUQTAzbUZqNlBjNHhIS2RZbkxMOGxmOEpzeVF4blF0SGMxeWt1VmRmVVJlOA?oc=5"
+        },
+        {
+          "title": "傅崐萁協商神隱！韓國瑜痛罵「立法院病了」：總召不幹了不是比較輕鬆？",
+          "source": "三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HTV8wVHJiNWw0aTJOc0pKVWItTTdmTldtVjdMdmV6Tm5MREZjM1FuZk1iSlo1dzdOZzhQM3ZIUzM4STJNSFFxTdIBTEFVX3lxTE5oYm1fV1dSR2pTRWlrVkpWZXlIMEhBTldYd243dF9Xb3BDcWtsalZ4ZUFVVzNFUlA1SXlLVjdzSjg4QlBMR1FPOEZPQm8?oc=5"
+        },
+        {
+          "title": "中國偷渡客八里登陸「逍遙閒晃 7 天」才落網！海巡防線再度失靈、署長公開致歉",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PM1JjMXBfVzhReURMUjVrQUxMcjlSMjA1c1EyR19ES2lPZHFtOWt0Zkw1VnFYd2swaEo0YmlLdmkwbU5NWm5rb1ppbF80WjdvdGgzQkJINkkwZkphS1NQTlJrNm9NWXNENnc?oc=5"
+        },
+        {
+          "title": "OpenAI 順利完成 70 億美元員工股份套現回購，IPO 估值護城河更穩固",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFBlWjR5WnAwR2pnVnBzWEFTY3doNTJGc2pVN1pLcWU2RzZUQjBGdVBsaXkyRWpIQ29CUFJxd3Z2Umw0ZjZ6SFdBbmxtVlhkazYtWU03OUNWdkRjdmJuZzRvRUc4YlRhejNQX2M3Z1BkYzBCNUtQWk5RVmhjX2U3aVMwUFN3dzlMajZtX0w1YXBrSGN3MXVOOVJUY0F4ZzFhWXF0Y2FTTXJDSkJsRFgyOUZR?oc=5"
+        },
+        {
+          "title": "Anthropic 與雲端巨頭 Riot 簽下 90 億美元天價合約，IPO 前全力鞏固算力資源",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUh6enBVWEI2ZTNVakNYcVRtd2gzREpSb3VvbGlyZ3pWZVYzcndna1dTWC1wV0sxcTNsWmRKQzA5ME1hTGdYSmFMUFlCdmZ4YkdHWTgzV0ozNnBiMXFVWm1ob09ZbUx6LVZ4VGR0Rlh1ekNzeVpISS1FOE4wRXRiYUlVOGpXcVppWEFLWndtSDFCYzQtSDJmVTU2dnhBSTNTOUtGcjZVX1hwWUxRRHFDcTB6Uk4?oc=5"
+        },
+        {
+          "title": "上任不到一年！OpenAI 倫理負責人悄然離職，高層動盪與路線分歧再添一筆",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEFhZjNhRUJPR09QWTQ1SldGR3Y5WTI4TExvUElSdHdBWl94SWRHeXAzeUwxRlFkSGpoX2o4ekFaTkJMZXNBMFFFVFRSX0c3S3dUV0pMR3ZPc09Jeld1QzNaMUNEdmgtZmVNN2dOWDJxdGN5REplU1NjNmh1eU53bDdMa2U?oc=5"
+        },
+        {
+          "title": "防範 AI 攻擊氾濫！OpenAI 啟動全新網路安全防禦計劃並推出專用 AI 模型",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+        },
+        {
+          "title": "護產大作戰！Google 共同創辦人 Sergey Brin 豪砸 1 億美元反擊加州「富豪稅」法案",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/"
+        },
+        {
+          "title": "思覺失調症新突破！AI 助力解鎖複雜基因拼圖，揭示前所未有的致病藍圖",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/"
+        },
+        {
+          "title": "paperclipai / paperclip",
+          "source": "GitHub",
+          "url": "https://github.com/paperclipai/paperclip"
+        },
+        {
+          "title": "ruvnet / RuView",
+          "source": "GitHub",
+          "url": "https://github.com/ruvnet/RuView"
+        },
+        {
+          "title": "danielmiessler / LifeOS",
+          "source": "GitHub",
+          "url": "https://github.com/danielmiessler/LifeOS"
+        },
+        {
+          "title": "利用基礎眼底照片深度學習預測結構性青光眼的惡化趨勢",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575795/"
+        },
+        {
+          "title": "史丹佛醫學中心部署 ChatEHR 系統的實戰啟示：標準化基準測試已無法滿足臨床評估需求",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04574-5"
+        },
+        {
+          "title": "復發率暴跌 93.1%！新型單株抗體 Obinutuzumab β 治療視神經脊髓炎取得三期關鍵臨床突破",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04583-4"
+        }
+      ]
+    },
     {
       "date": "2026-08-10",
       "title": "新聞雷達 (2026-08-10)",
