@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T10:40:43.054045",
+  "last_updated": "2026-08-13T11:24:53.688420",
   "daily": [
     {
       "date": "2026-08-13",
@@ -7,89 +7,74 @@
       "file_path": "News_Report/新聞雷達/2026/08/2026-08-13-新聞雷達.md",
       "headlines": [
         {
-          "title": "辛巴威卡里巴湖渡輪超載翻覆，至少 44 人遇難",
+          "title": "辛巴威卡里巴湖渡輪超載翻覆慘劇",
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
         },
         {
-          "title": "農業科技突破：南非科學家利用「土壤真菌」成功阻擊破壞性粘蟲",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
+          "title": "加拿大數千民眾聯署要求驅逐美國大使",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zSXhaZDM5bTY1MUwzNldOdUN4VlJQVFJaaURYcVFTa092T2xWUEJaZ2dpSDJsVl82b2xoTWlTUV9SbjdnN2JKV0IzY2dWem9Vd0FFaWtxbFlYdw?oc=5"
         },
         {
-          "title": "Anduril 創辦人 Palmer Luckey 談台海防衛：要讓中國判定攻台「代價太高、不划算」",
+          "title": "Anduril 創辦人 Palmer Luckey 談台海防衛戰略",
           "source": "中央社",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jUGtESmF5RUxWT1kta0JUUVpGWUlQMkRwZVFBaTZSVDNZRVlraU95cVJPMmVoak9HN2R2dlVmeXpaRUhhRTlRbWZpVDJCMW1qbUwwODNnb1ViNHRZU2Nz?oc=5"
         },
         {
-          "title": "漢光 42 號演習「涼山特勤隊」罕見重裝現身！首度配合光復大橋封橋與無人機實施空中突擊",
+          "title": "台中燒烤名店老闆爆行車糾紛砍人，反遭打死事件",
           "source": "Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQajc2QkJiV0NTTW9obDJ6emlBQTk1MjNEQW9GQWg2cDZCRnRWUmF1NHdoMUhUYmNrZ3EyZUxaZlVPZGpPYkdIZUtuVjNmdVFwb0NUa1NDaDBzZXhFS09BREd6Z0htQy1rMk1GUHRIR3dkc3ZIUHVuSzdVQ0MzV3pOZHBBcUotU1dScFdqVWJZRktRNFhNeTlGTWJZVVhYV2JsTXNYbi0waTFkdUV3bHM2ZzRmRm15QlRDbEtNZHVNV3pzMkpFRV9RVHRJWUItc292clI2QkM5UE05cTBqTGd1MTBhWmVTWkZBN0d0TmtGT2FYOXdnNlZENjlIT0FBNG14UUU2VU1yeHJUMWdWTVJHLTYtMlBHb0VUUDNnNWFieEVqdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQNW1FXzA2dDNTWG0yTVdzZDNSMzZRMkRTQWQyYjEyc2Y1SnhXNVViZWlPX1lRMWhpQTFnbU9tb2VyaVJSY0paUWxRdTJNZU9vNFM3UXBUQkJnTFZ3RTM4UGdVM1JnS2VYdjg1a0lMOWtvN2FEUDlGSUEzRmFRSzhBeW1lMXM5VVZ2RV9ZVmdYTkc5SDBVZk9yRXNGdjJrUy12d19RUGZNeXo2aFpTbjNRSm5VYTVXZGUxM1FlRTVIWHJaMm04VG94UVktTlJwRi1NTHh0eUc3U0RNQnNsZ3hOQ0JxRGFTYWJrWG9vd2d2dDA2N1kzTXdJY3RrSFd5LUxYeUdyakVmcFllcXg0R3BnVV9PZTZKSUNfTFVwby1oYXFDYzF2bmpwck9ET2l3TTQ5WjNVMVpaRTBvSDgxSVJiZWZERVpBWk9VcFJ2NVdyNWVCWEp1czhvdktFMncyNEVjUUJEZERERzJ0RDNYUTNtWVlVRWYzQ2Y1T09mdnhLY21lN1A3dERKTXBDSmxnV3JxM1gxSXlJLV95RllTOU5DZEdSeUNrSnR2SThYN1hlcUVIRnRTMk9HNjBXTkNpdw?oc=5"
         },
         {
-          "title": "Anthropic 計劃斥資 60 億美元收購 AI 新創 Decart",
-          "source": "Bloomberg.com",
+          "title": "Anthropic 計劃斥資 60 億美元收購即時 AI 生成新創 Decart",
+          "source": "bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhIaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5"
         },
         {
-          "title": "微軟 CEO 納德拉年薪破紀錄達 9,650 萬美元，AI 押注成功獲得大回報",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaENtLWc3ZExFSXNNa05PQzRsSlp2MWdqRk5ha3BBTmFWZ1RWaVprcHMzRXhRWWZILXZMUGdySVRIVGMtZ29ORUNwMzJZZ3J2UThCNjY2am5tVWRodFFucUtXQTJ5ZEZfekw1Zy1aSzFuNTMybEExeEtxeWdodGY0M0lYZHJJOEVZaUJ3ZGo2cW13SjFieHhUQg?oc=5"
-        },
-        {
-          "title": "Anthropic 推出 Claude 文字浮水印技術，防範 AI 寫作作弊引發使用者反彈",
+          "title": "Anthropic 推出 Claude 輸出的文字浮水印防作弊技術",
           "source": "Axios",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TMFZTUmdmZWw4Q3RNNlpOcG01TkQ3bi1QRVF6LUpnWTJlTGFKT1Z5QmtONlJ1SXdtbnNfdEVpdkgxY2dvOHZGRTVPRlJBdVYyVFB0UzlGUjBsNmlvMzh3RDFWblk2SGNCZGRNM2xmS3BuMXN1SUFXZ0U0TVdOdw?oc=5"
         },
         {
-          "title": "Google DeepMind 將手語 AI 帶入使用者生活，消弭聽障人士的溝通鴻溝",
+          "title": "Google DeepMind 將手語 AI 帶入使用者手機",
           "source": "Google DeepMind",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVXNiQ3JHU1hzMG1la1dyWTRUenFiaF9NelVKYUgxd2RteUhHQWlUSC1FdUtIeFVpTkl1TnAyclE0cUFQclFQVG45M0MtYnkyOXZaMDhaSjNhekV0ZGhWTE84ckdXM3NHcWJHX1MyWGVNTjJ0UktFRXVBZw?oc=5"
         },
         {
-          "title": "Amazon 宣佈將預設使用 Twitch 實況主內容進行 AI 訓練，除非使用者主動拒絕",
+          "title": "亞馬遜宣布預設抓取 Twitch 實況主內容用於 AI 訓練",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
         },
         {
-          "title": "Tailscale 成功追踪資料庫損壞源頭：竟是潛伏 16 年之久的 SQLite WAL 重設漏洞！",
+          "title": "Tailscale 成功追查資料庫損壞：竟是 SQLite 潛伏 16 年的 WAL 重設漏洞",
           "source": "Hacker News",
           "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
         },
         {
-          "title": "Model Context Protocol (MCP) 走向「無狀態」設計，開發者質疑：這不就只是換個名字的 API？",
+          "title": "Model Context Protocol 走向「無狀態」設計引發開發者吐槽",
           "source": "InfoQ",
           "url": "https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
         },
         {
-          "title": "infiniflow / ragflow (★87586)",
+          "title": "infiniflow / ragflow",
           "source": "GitHub",
           "url": "https://github.com/infiniflow/ragflow"
         },
         {
-          "title": "hugohe3 / ppt-master (★45718)",
+          "title": "hugohe3 / ppt-master",
           "source": "GitHub",
           "url": "https://github.com/hugohe3/ppt-master"
         },
         {
-          "title": "cathrynlavery / diagram-design (★10832)",
+          "title": "cathrynlavery / diagram-design",
           "source": "GitHub",
           "url": "https://github.com/cathrynlavery/diagram-design"
         },
         {
-          "title": "三陰性乳癌新契機：首線 PD-1/VEGF 雙特異性抗體聯合化療的二期臨床研究",
-          "source": "Nature Medicine News",
-          "url": "https://www.nature.com/articles/s41591-026-04564-7"
-        },
-        {
-          "title": "睡眠作為一種療法：藥廠鎖定睡眠路徑以重塑慢性疾病生物學",
-          "source": "Nature Medicine News",
-          "url": "https://www.nature.com/articles/s41591-026-04582-5"
-        },
-        {
-          "title": "低資源地區的篩檢革命：簡約 AI (Frugal AI) 成為子宮頸癌篩檢的關鍵拼圖",
-          "source": "Nature Medicine News",
-          "url": "https://www.nature.com/articles/s41591-026-04568-3"
+          "title": "幹細胞再生心臟細胞研究重大疑雲：《自然醫學》對「幹細胞修復心肌細胞」發表編輯關切聲明",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04619-9"
         }
       ]
     },
