@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-14T07:50:11.557457",
+  "last_updated": "2026-08-15T15:03:35.192830",
   "daily": [
+    {
+      "date": "2026-08-15",
+      "title": "新聞雷達 (2026-08-15)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-15-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "遭武裝集團綁票九個月！美籍傳教士在尼日終於平安獲釋",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping"
+        },
+        {
+          "title": "已故宿敵的政治幽靈籠罩尚比亞大選！現任總統面臨嚴峻連任大考驗",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
+        },
+        {
+          "title": "震撼全台！立法院強勢通過「鞭刑入法」與「廢除非核家園」兩大公投提案",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoekc3NllSc09mMDNJVTFQZGJ6aHVLamNQaFplVlR4LUdfUTBHQ250bEFVSWZIWGVHQ0Foa0stNU9Fb3Z0R2wzVGdNNjJ5X0lVeWJrVUNCMGN3cDc0WDE0?oc=5"
+        },
+        {
+          "title": "總預算大戰拉鋸 266 天大砍 480 億！韓國瑜重砲呼籲卓榮泰：不能不副署、不執行",
+          "source": "鏡週刊",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZ1dzOWJFMFg1eE0yckVyZ1lnSlg4WWxTenlSMC16RGNhY0hESkl2QkV0NXV5dXdndzViTG9NbVhmQkRmeFRuc0ljcG1JZ1RvS0szZ3VuZUlrYzjSAWBBVV95cUxQWGR4cmRXSV9BT1AyRXBRcVRra1hkMFpwUnFfXzRmWlJsTzliX2pZX3ZDb2d5T3UxY2hFbkdFWFNLdk5yNTRaQUlyV0x6TllKT3RLS3lrUHd1ZEwtZ29qMjg?oc=5"
+        },
+        {
+          "title": "2500 億美元泡湯？Nvidia 驚傳縮減對 OpenAI 俄亥俄州資料中心的資金擔保計畫",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5"
+        },
+        {
+          "title": "營收狂飆 115 億美元！Anthropic 世紀 IPO 估值驚傳挑戰 2 兆美元天價",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5"
+        },
+        {
+          "title": "醫生面子掛不住！微軟 AI 診斷系統答對 85.5% 醫學神級難題，資深名醫平均僅 20%",
+          "source": "ScienceBlog.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkw0MTN0UU81ZFp1SzQ1MVg3TF80VTV1YmxvZ2tLWnQ3YlZQWW9ReXJQNldUS2h4bURWZUZ0aFRwdTByX2doTG5qQnZqMG1IYjV3cXBpLS1Wdm10d0ZtSkhNMUlwaVdDLWRocVZNLV9pY0NTM3M2em1wTldJNWtaRGhQT3JPTWlNRHZVcWhxUWE?oc=5"
+        },
+        {
+          "title": "硬幣大小就能駭掉一架飛機！資安大師揭露波音 737 客機致命硬體漏洞",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/"
+        },
+        {
+          "title": "完全本地跑！Meta 開源 30B 代理模型 Muse Glimmer，專為消費級 GPU 優化離線工作流",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Mendel Gödel Machine 框架問世：透過比較進化實現「遞迴自我提升」的超神寫扣 AI",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBESXB5UVVFLXotQk9wVzJiaXBQRDZJRkdUcGpGb2ROYmpSWjlpLUhVUWdBV0s0THZOUVZjaGdSSFB0dFVuekEw?oc=5"
+        },
+        {
+          "title": "github / spec-kit (★128651)",
+          "source": "GitHub",
+          "url": "https://github.com/github/spec-kit"
+        },
+        {
+          "title": "holaboss-ai / holaOS (★7409)",
+          "source": "GitHub",
+          "url": "https://github.com/holaboss-ai/holaOS"
+        },
+        {
+          "title": "lightningpixel / modly (★6035)",
+          "source": "GitHub",
+          "url": "https://github.com/lightningpixel/modly"
+        },
+        {
+          "title": "陽明交大跨校團隊長壽研究：體適能表現佳長者死亡風險大幅降低 61%",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MNDBmVTNqRGkwQjM4N0dybTFkNENBUDNPUF9jYnR2NXdPc2FpeTlGdVRsWkkzLUNRbk1ycmU0QzF1TV9sMnFtVDJXdk1vNzQ4V3c4QkJSU2I4MlBXaXl5eXVmdHVBNXPSAWdBVV95cUxOTDQwZlUzakRpMEIzODdHcm0xZDRDQVAzT1BfY2J0djV3T3NhaXk5RnVUbFpJMy1DUW5NcnJlNEMxdU1fbDJxbVQyV3VvNzQ4V3c4QkJSU2I4MlBXaXl5eXVmdHVBNXM?oc=5"
+        },
+        {
+          "title": "北歐五國聯手！ Nature 子刊揭秘北歐 AI 醫療基礎設施部署藍圖",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04575-4"
+        },
+        {
+          "title": "成年人接種新型 mRNA 季節性流感疫苗的療效與安全性臨床試驗",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2607826?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "title": "新聞雷達 (2026-08-14)",
