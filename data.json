@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-15T15:03:35.192830",
+  "last_updated": "2026-08-16T14:18:31.819648",
   "daily": [
+    {
+      "date": "2026-08-16",
+      "title": "新聞雷達 (2026-08-16)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-16-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "兒童安全防線失守！Meta 遭美國新墨西哥州法院重罰 5.67 億美元",
+          "source": "Cato Institute",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFkcUh3bmhScmxtdzI0OXdsUDItWE9LUnVGMW1IZ092ZVA4dmhsaWQybWhXSm03RktWSnRzLVZPMHZJQ0pPVXcwU19CSmdHdlowdWJ1V0Nnb3BicXJ0Qzc0YjhfU3JUN0dCYXpzbkJvUklVUElRTkE4QUMxZzNSN2hkYlRPcEotYXV0SHVOQ1hqNW9QdkJwYUlDbFRfb2c3bWNweHp0OFkycHpVR1NJMmJsbw?oc=5"
+        },
+        {
+          "title": "媒體老兵神話不墜！BBC 創下全球英文新聞網站單月 10 億次訪問歷史新高",
+          "source": "Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmduWnZNVXc2TzZCMlgxS252a0pzdnBDR3c3MXRZMjI2U3lVMzBqNU96aVdabldJUUVYalpCSDNHYnFSRTlvYjRrb0lSVVJMdmdfUDk2bmo0X2Y3QWJnWHZ4MFZHR0dhVmE3aEVBdTZFemhDT2pqdXBibFBUTV94V1pISWxSbU9SUUl6Z2hGOVQ2SlZjc05SNDBiUFN5UV9DTXFBRG0wTkNGZHRObC1KbFV2aHdmRFA5?oc=5"
+        },
+        {
+          "title": "天龍國退位！114年家庭可支配所得「竹市居冠、竹縣奪亞」，新竹雙雄強勢稱霸全台",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XOWhxajRkRjFhd21Cb2U4ZGI1VFVET05JYXZsNnp6UzM1bzFlR0MxZl9wQW1HRTdRYjlrMnc5MTBENjFDYUEzX052QjJ5d2xXeWY3OXhtNnhvcF9OWEE?oc=5"
+        },
+        {
+          "title": "預算大戰再開殺！文化部 13 億預算遭刪凍，李遠痛心直斥在野「欲滅其族先滅文化」",
+          "source": "三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80QXNLWkVRR3hZZWpKZVlrbmd0VlM2YmRzeFJPZnBtdnVNS3VnSkwtdzJsY0hNMVJld1hxc3hoRzFndk00VGV6a9IBTEFVX3lxTE0wWmZKNkxlUF9MUmdsMUJNZVhfanVMNnZvbjlWck5MYXNMbFlJVGM4MUwtVGwyOHBxa0VzV1J1Um1KZ3ZrNGpMMWNwZHU?oc=5"
+        },
+        {
+          "title": "驚天醜聞！Anthropic 執行長夫人遭爆曾向愛普斯坦推銷情色生意，連 Claude 模型都被迫「裝傻」",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPakZhdkEzcnJOSUNIX0I5S1d2clpKajROMnV4Si1HOVVVYXkzRUxITzVRQTRHcjJ1ZmhTd1ZtNWRjc1dxdlBENWR3dFIzZUNiN1NBUjdmYkJQVXU0TXZTTDdCSURXOFVlSGtIYW5XTFN2NnFNQ2dVXzdteTJSaXdzV0FBZHpOeUxRUllYMjMtQVNQNV91aHkxWjFlcmtpV0FBNWdhbVRDSEpiNFlic21GbHRBbWpiUzIxWG5ISDFhQmd4OV9qTVgzMVpLaQ?oc=5"
+        },
+        {
+          "title": "精兵戰略！微軟鐵腕精簡 Copilot 產品線，大舉合併多款獨立 App 並砍掉失敗 AI 功能",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWV3ek1ranctOEsyeU5jWlJwcmpCSmNfM1Z6MVl2MzZtcmtpMGRnMzV4MHRhcXBuVGVTLUMzRjhhblVQTDBacVo0alo2UVl6SmYxeGRsakZnbTZLZFB0SWFhWlB1VWlzMEJGakdPT01CYnVZS1VYSVZUbmJyRlBlUkVHVlJTdkcxc05TbUQwLTVIUFJQaGw2alYwWWpTa0h5VDV6a2pWeVFNcUF0NUg4MjVNYWRmMlVjV1pj?oc=5"
+        },
+        {
+          "title": "資安大突破！Google 推出「同態加密」私有 AI 技術，免解密即可直接推理、隱私安全無懈可擊",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMk1RUEszN1VwcnlZMmpOSThSZVRWN1dnZXFQdHk1OWNxQkNQVlBlZURXeDd5UVFNNjF2X2R2bXd6THphVURqQURybm5VMHJvTy1vMGZ5ekoxMTJqMmp6dmZRN2NXbEhNbmxoNnQ4UmhraENra0UzaDgwaF9URHlxdWVHWllLTURCNVJKeHFsc3l6MHMwN0NyUlRGUm9BQ0JR?oc=5"
+        },
+        {
+          "title": "航太巨頭吞下最強寫扣神器！SpaceX 正式敲定併購 AI 寫程式新創 Cursor",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+        },
+        {
+          "title": "推理大腦的暗門！最新研究揭示如何從 proprietary LLM 接口中「完美竊取」核心思維鏈軌跡",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ObnEzTnBiN0tpQWZyT240SkM0Uld2UEZHNFlqUzBFc0V3azlOd25uaVZ4U2RnODA0aUxBT1lYeTdySEY3QnhV?oc=5"
+        },
+        {
+          "title": "天下無鎖！神秘工程師推出免費開源工具，能 100% 完美擦除 OpenAI 與 Gemini 生成文本的所有 AI 浮水印",
+          "source": "Currently.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGhpWUE5dUhNeldENkp0dkhDVXYtckZ0cXo4bjdxbTNxSDNSU3J5eFp2Q0hKXzZ6RXIwRWFQbHdrbVN1dkZwd25DM3NrUkpiMFgwR3loeldXNHBTQS04d1hLcEhtdEdzTnNmMTBmUVJVSnRHWVp6MW5YNS1iNll4ZTRmbENWa1E?oc=5"
+        },
+        {
+          "title": "cursor / plugins",
+          "source": "GitHub",
+          "url": "https://github.com/cursor/plugins"
+        },
+        {
+          "title": "MakazhanAlpamys / Soup",
+          "source": "GitHub",
+          "url": "https://github.com/MakazhanAlpamys/Soup"
+        },
+        {
+          "title": "megadose / holehe",
+          "source": "GitHub",
+          "url": "https://github.com/megadose/holehe"
+        },
+        {
+          "title": "減肥神藥的新奇蹟：臨床大數據證實司美格魯肽（Semaglutide）能顯著降低患者未來失智與阿茲海默症的患病風險",
+          "source": "Hacker News",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"
+        },
+        {
+          "title": "精準量化衰老：科學家利用 40 種器官組織切片圖像，成功構建微觀組織特異性「衰老時鐘」",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04566-5"
+        },
+        {
+          "title": "戰火中的醫學救贖： Nature 子刊發表全新數據重構模型，還原武裝衝突地區被嚴重低估的真實疾病負擔與人道危機",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04576-3"
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "title": "新聞雷達 (2026-08-15)",
