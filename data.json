@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-17T07:27:09.571769",
+  "last_updated": "2026-08-18T07:30:53.961826",
   "daily": [
+    {
+      "date": "2026-08-18",
+      "title": "新聞雷達 (2026-08-18)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-18-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "賴清德總統重磅拍板：明年全民普發現金一萬元，讓 AI 紅利全民共享",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWE5mSWtxaVY3eWs0RmJRUEZxWXN4ZnRkM1EyOVBKVzZKa0wxbXxfUk5KRVJJSzF6LW1fWHVPOV9QbGhObGJUbXhtai1BVGl5VU55VlFCU0JJUm1nQ2NQWGtVZG9seHNmM0JfRTRZYW5PYW9HS1ZvUWZEd1cta3B0WU9jZjFCd2tZdEdPRHQxUHJJTzNPa1cwZGRZd1lzV0lWMk9pblBVMFBYMkVjcWNKbVJyWnNEbF9LcG9vd1BjeUtYSmxncDFpb0ItU2pCYkU3UjdFV2tjZlRMZ1pTUjRVa1dZZDNDRkM4cnFZX05teTRWU1NiSzdGc1lpNXFIdTdjOGs3N0tlQTI5V0d1VlF2OUhxX2IwUzYxS1MwUXhQNWZsSlFxVG9jVDBrYmZWNUx3TWJhNGF4UWxDUEVhdjUtWXhDZmJ1WHc?oc=5"
+        },
+        {
+          "title": "西方拉警報！瑞典媒體示警：敵對勢力利用 AI 代理人工具攻擊台灣已成西方民主最大警鐘",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yWURPbVYyVUFyYTRXVkRxSFdHd1pydG1Fd1ktRXFQdmMzMDFSWHRtSkxIWFZKbnRwcDA0eW1xSXBySHhKWXJkSWFKS3JWRUJNOVp3djlfMzJQaWF2WVU4?oc=5"
+        },
+        {
+          "title": "川普法律團隊全力出擊：阻擋法院授予 BBC 查閱其家族企業財務與銀行機密紀錄的命令",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzQ2SnM2NExkcnU5NkhNWGVmWDFvLWJDX2oySDY5NTFyamtkaWtkdXhRRUpLdzBpUTVGbXZMeVVWTjhyQmw3bWI0ODJBYUJ2N1ZTRHIzNEtKTnRjWXI5RGd1aFM0SnFCcUEwWFdfNVVURmIyVHQ4UlVuTWUxaHlJZlBuNzAtT3cyYTNF?oc=5"
+        },
+        {
+          "title": "數位世界的陰暗面！專家解析為何虛擬網路與匿名技術正為剝削創造「完美風暴」",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WempHVlkxdENRNjVrdEpZWk1QSWlydjlVZkF5RDZtWkN3NjFON19FcDBxeVdGSTB2ZkUycDUwMkFLY1hnZ0NBRXF6blUwa3A0Ynl4c2QzYkNXRWNw?oc=5"
+        },
+        {
+          "title": "史詩級逆襲！Anthropic 年化營收爆衝破 65 億美元，以驚人姿態全面反超並碾壓 OpenAI",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUt0aE9nRWo2emg5dWtHOWxaWVdOc3VEN29HcEsxakh3Qk1iS0FMNmNqV3ZpS3o4N3NXTFhVU2syMnBwZHRHVTd2RE5HVENQaDdPS1dDR1lURUwtdVZraTM0bXRjNzcyLWd6djZuMTNlYmlJVkJ3VS1mNWF2R3hfYUw0YzJDQmF5NXhiZ3NscXMwS1YxRndxMFZsTFZTUkNBRGExUjhrQQ?oc=5"
+        },
+        {
+          "title": "學生版 Gemini 正式啟動！Google 宣布向使用其 Classroom App 的全球學生開放 AI 服務",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5"
+        },
+        {
+          "title": "將試算表數據化為動態畫布！Google 推出全新 Sheets Canvas 互動生態系統",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkxwYzJ5NnUtdVJaeDJLNWEzclZXSDhOQmVzNjhlcjR4bUFmMmhaTUhibTI5WFJrdzR4TWx4TmlXNjBjeWZiSXJfVndXUUJiQjVsVTNlcXE0d2YtZTdGaHRvSk9ZWUxrMGJvY2lrcnhRZ0swZnBZSlBnSWR0OU5UajI0U2FhdnNCWW1MU0JCaERjQ2MxWDg5YWxuVGxDY0JUWFZoNHRKZ2Z5aTA?oc=5"
+        },
+        {
+          "title": "Higgsfield 獲得 4 億美元 B 輪融資，八個月內估值翻兩番暴衝至 54 億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+        },
+        {
+          "title": "SpaceXAI 推出 Grok Bot 系統，打造可在雲端電腦自主運作的 AI 代理人",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Grab 部署 AI 數據分析代理，成功將分析師機械化工作量從 44% 驟降至 30%",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "網頁 R 級電影製片廠 Rogue Studios 誓言成為 AIGC 界的 HBO",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/"
+        },
+        {
+          "title": "harry0703 / MoneyPrinterTurbo",
+          "source": "GitHub",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+        },
+        {
+          "title": "usestrix / strix",
+          "source": "GitHub",
+          "url": "https://github.com/usestrix/strix"
+        },
+        {
+          "title": "santifer / career-ops",
+          "source": "GitHub",
+          "url": "https://github.com/santifer/career-ops"
+        },
+        {
+          "title": "精神疾病診斷大警訊：同一面談僅相隔一兩週，診斷結果卻常大不相同",
+          "source": "大纪元",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNMFhRQXdsS3dyWWdKbGpCQmVxR0pZV0h4cVdGWWF1RWVmMndSYTdaamRCV3JrVTVnT1pPQlFDTTNPVHg5QVFvMGIyMGRzb0JRQkN1MjFaZXg0MHlIamxJ0gFkQVVfeXFMTXRWa1pZaW1Eb3c3Vl9BU05LZHNJbTJrb0I5R1NmZHhXazlidHlwVTBTZzRReFQ0SThVcFV4SFVCZ25NaXdiUUNiZUJRbVg1dmJ2V2hNZFl6ZWZ1VnVvRmpDbmZIZg?oc=5"
+        },
+        {
+          "title": "烏干達瘧疾藥物抗藥性拉警報：惡性瘧原蟲 PX1 基因多型性使其對常用抗瘧藥敏感度大打折扣",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04590-5"
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "title": "新聞雷達 (2026-08-17)",
