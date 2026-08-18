@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-18T07:30:53.961826",
+  "last_updated": "2026-08-19T07:27:04.946754",
   "daily": [
+    {
+      "date": "2026-08-19",
+      "title": "新聞雷達 (2026-08-19)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-19-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美艦班福特號南海斷電 4 天！空調無法用、飲食如廁出問題",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVGVhbGZMRnh2c1pkSHExZFVSQjlIbEFvMzFjcWVLUElITlc5WXhhTFg2dkoxMnFmSHVreG1DWmoyUEg3TURHTHpYT0tFcFJQVW1YQktmWEJpU000RUxR?oc=5"
+        },
+        {
+          "title": "伊朗爆玩兩面手法！趁 60 天停火練兵，邊談邊備戰大對決",
+          "source": "中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHX1JSSS1HamlVY2VJZjY0LVpVSU9EX3ZaSHJQdEZiNmVRWmo1YUhvRjhTLWs2X2N3amxjQjAtal9hLUlTX2pjczlNU2F5SjVHOU5vU1FlTDJ6bW1oa05vYndob0ExUHJlaHEycC1R?oc=5"
+        },
+        {
+          "title": "防空戰力大補血！軍方人士重磅證實：首批 F-16V blk70 戰機近期將飛返台灣",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVlh3SUdGRjBkSFg3Wi1FUXZKOGVqVEVwNzVwZjRkUXIzbHRVV3AwTlM4NUxYOFVzZnZ5Sm91ZUZZZkE1ci1WZWtrcktMUldrNGpyVkQ0cVFCdUlLcWZV?oc=5"
+        },
+        {
+          "title": "老舊電纜大換血！台電砸 50 億汰換地下老舊線路，六都 18 個行政區優先更換",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiQmtGV01mdnkwWVZTY3NONXVSVTBfSGtEQ2pyMkRDRXRsY0FfMWhmbTUybjAwQVRQcFAteW40OG1ickNnZ050S0JPVnJZWGEtSlZrTE5fX1ZoMHVuUmc?oc=5"
+        },
+        {
+          "title": "Nvidia 砸天價 1,050 億美元！重磅資金全力擔保 OpenAI 興建超級資料中心",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTV4NVp4MUJIWjE3U3NyTnlsNzRTTkU3Tk9JVl9UR0k0OG9iSmRYN0JDcHI2X3NwM1hfdGd4blhJTVFyekRkT1pXbzZmSGVCZm1IcUR6MFphc3lINkp5U0stVnZ1eC1yeGJPZlczVVl0RDY4d25JakNHTjVkcUh3Y1Rrb1dPRUVYdFJCSVl0UmVXOG1XRDc4Tm9RUVNLMU9QU194Sm1Hd0xacnNkalZjQWFhY1AxWUpBWnpGblBn?oc=5"
+        },
+        {
+          "title": "Anthropic 全力備戰世紀 IPO：創辦人獲「超級投票權」掌握絕對控制權",
+          "source": "theinformation.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTdXMkt2RWM3LVQtV08xbGVaMG5MM3JuS2tpY1FIVUQ5Y3hQLVQtakU4WHZTRkExTXRTOThQWEJKTXJxVklvUzZEc1hPVVowb0h5SVJZeUNPV1U2VjRMTFljSlpnN3lUTEd6OTY1cHZmZTNuMHpYdV9aTUtfRkc2LVF6d3RHd2RxclhxdEIzbGpldjBHU3liU1A2dks0MDhBSVIzdw?oc=5"
+        },
+        {
+          "title": "企業秘密恐全看光！Google Workspace 預設開啟 AI 讀取商業數據權限，不手動關閉就全被看",
+          "source": "ZDNET",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUpJcnB6X21UZDgtQ0pqaVgzQ0RwaTVvejZZdG90Q0FDaU5GUG9pWW5fMHEyeVptWUVXZU9aVGV6NVpiUzNkWUJwN29tTHpKakJTQkZqY1pJc1dSVXhMMUR5UV8wVWRDTkVsRmJucl83Q3RyNktzVkNQTE0xZEVsSl85LXVkRHdKSUhhdXBZUkJBbmZxbGhBcW5ZVkZ4c0xpZExYLUo5a0h2dngwNFY0S3V2X1U?oc=5"
+        },
+        {
+          "title": "Meta 竟為「裸體深偽女政治人物 App」投放色情廣告，引發輿論海嘯",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/"
+        },
+        {
+          "title": "榨乾最後一滴電！利用物理「焦耳神偷」電路讓廢棄電池重獲新生",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/"
+        },
+        {
+          "title": "Netflix 開源 AI 代理工作流，實現全自動觀測因果推論報告",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "volcengine / OpenViking (★29335)",
+          "source": "GitHub",
+          "url": "https://github.com/volcengine/OpenViking"
+        },
+        {
+          "title": "mukul975 / Anthropic-Cybersecurity-Skills (★29152)",
+          "source": "GitHub",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+        },
+        {
+          "title": "jundot / omlx (★19378)",
+          "source": "GitHub",
+          "url": "https://github.com/jundot/omlx"
+        },
+        {
+          "title": "電腦輔助檢測早期胃癌遺漏之臨床成效評估",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42609944/"
+        },
+        {
+          "title": "「食物即藥物」：腫瘤醫學中營養照護轉型的全新契機",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04591-4"
+        },
+        {
+          "title": "美國校園麻疹微觀傳播越過流行閾值之多尺度模擬研究",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04561-w"
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "title": "新聞雷達 (2026-08-18)",
