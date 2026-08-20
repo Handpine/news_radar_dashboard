@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-20T08:04:57.620628",
+  "last_updated": "2026-08-21T07:26:44.544135",
   "daily": [
+    {
+      "date": "2026-08-21",
+      "title": "新聞雷達 (2026-08-21)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-21-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "中非共和國手工金礦崩塌引發嚴重山崩，至少百人不幸罹難",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
+        },
+        {
+          "title": "川普政府啟動大規模第三國遣返計畫，首批 20 名非法移民遭驅逐出境抵達賴比瑞亞",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement"
+        },
+        {
+          "title": "政治內鬥波及無辜！總統府國務機要費遭刪凍，庇護工場 1.5 萬盒中秋公益月餅採購被迫喊卡",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1URGxqMXB2eTNQUE04SkNQOGstQVltcmNXUGhpbXJKT2dQTjhRbUg3N1pueEFIaXBDX1ZkMFRWUVRTY0N1a2ZWMkdTdEpBLWRBdThRVXVIbmNJSS04UzBZUUE1eE9GTWdlWkE?oc=5"
+        },
+        {
+          "title": "晶片大國吸金實力驚人！台灣 7 月外銷訂單高達 979.4 億美元創歷史新高，年增 61.9% 喜迎「連 18 紅」",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3MFUwMERScURsNUtwY1dqM21oOXk2anZKblZtMEdiWEhrbDNscFJDTkx6VE9LNUJpV3B3eE9TTWxsVGV3OVBtb1RrVWRvRk1GUkw4VHhwY2J5SF95T2c?oc=5"
+        },
+        {
+          "title": "搶跑 OpenAI！Anthropic 傳最快本月內正式遞交 IPO 上市招股書，估值與募資規模力拚 SpaceX 歷史紀錄",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3lodmhZY0w3R0VINU1YNnh4d1JiYl9teXdqN0FnOVdnWXpnMTlLdWkxRDRva1AzbkhIZkNHR2lIbHZHWGg2MjlOUWZYaXJhRFNoRGZFU1BtMWZkVkhPU1JtX3JiZV9DVjRBZVljOVdOd1R0MnFXYTl1TlU0cVVwVXQxcjBSanFhTUNYTTVWY3AyTklKd3BQeDV0Wk9HVER4NGI0WEVZclVBNUludGdKQUVFQmVwMFljT0NleXRGQmhSUWs?oc=5"
+        },
+        {
+          "title": "嫌太貴了！電信龍頭 AT&T 大舉引進開源模型，全力削減對 Anthropic Claude 的高昂 API 費開銷",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVluMG0tVWh3QWJIb20xcVhrQ19jT3Q0Vm82aFlWRzNQQmhNa3hDWml5RHAyWC1yRFpqTEEzVWlBNzNNY0JJRktacmZSbkJTRnN5TWJoeURTYldfN1ZINlkyNGNJNXBLSk96OVc0ODkzLWZzMXFhN01DWi15aFlEbE0xZ0xXd0JaOWF6WDk1WGktR3ZZc0t4bHVFV3gtY2REMTl3?oc=5"
+        },
+        {
+          "title": "最奇妙的同盟！Meta 悄然成為微軟 Azure 最大 AI 雲端客戶之一，每年狂砸數十億美元算力金流",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dCS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5"
+        },
+        {
+          "title": "徹底顛覆 Agent 開發！DeepSeek 開源「DeepSeek Harness (dsh)」自主代理微核心執行框架",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/deep-seek-harness/"
+        },
+        {
+          "title": "完美的社交工程誘餌！駭客假冒知名加密貨幣媒體，利用虛構「大會」與 Google Docs 精準向資安研究員植入惡意軟體",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/"
+        },
+        {
+          "title": "多 Agent 系統的致命盲點！最新 arXiv 論文揭示多智能體大模型交互中會自主產生並自我傳播的「思想病毒」",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45R2lSRWtIcWE0YU92UmE0X1NHNU1hbkpXdzFkNmJtRDhaUlFjVkoyNmdDZVYtdzUteUs3Y256Y0tDZkRhVFJ3U2NWS1gtRGo4tXJanl5WWg?oc=5"
+        },
+        {
+          "title": "AprilNEA / OpenLogi",
+          "source": "GitHub",
+          "url": "https://github.com/AprilNEA/OpenLogi"
+        },
+        {
+          "title": "modular / modular",
+          "source": "GitHub",
+          "url": "https://github.com/modular/modular"
+        },
+        {
+          "title": "agent-substrate / substrate",
+          "source": "GitHub",
+          "url": "https://github.com/agent-substrate/substrate"
+        },
+        {
+          "title": "預防癌王靶向新突破： Nature 子刊公佈全球首款針對 KRAS 突變之預防性胰臟癌疫苗一期臨床研究成功",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00041-3"
+        },
+        {
+          "title": "徹底消滅極端寄生蟲！口服伊維菌素聯合 5% 百滅寧乳膏治療重度疥瘡之臨床療效與安全性評估",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2607458?af=R&rss=currentIssue"
+        },
+        {
+          "title": "從創傷噩夢中醒來！ Nature 子刊證實 Dronabinol 口服製劑治療創傷後壓力症候群相關噩夢展現高度臨床潛力",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04586-1"
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "title": "新聞雷達 (2026-08-20)",
