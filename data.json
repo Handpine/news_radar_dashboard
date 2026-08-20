@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-08-19T07:27:04.946754",
+  "last_updated": "2026-08-20T08:04:57.620628",
   "daily": [
+    {
+      "date": "2026-08-20",
+      "title": "新聞雷達 (2026-08-20)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-20-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "肯亞驚傳觀光直升機墜毀悲劇，美語電視高層與厄瓜多情報首長等 7 人全數罹難",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash"
+        },
+        {
+          "title": "西班牙邊境移民政策大轉彎！將允許休達飛地 500 名未成年移民遷往本土",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn"
+        },
+        {
+          "title": "案量多到要崩盤！司法院警告台灣司法已處於臨界崩潰邊緣",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41ZTFYYzBJUUV2N1E1TVYtSU5EeHhLNU1oT21Yb1R1b3g5RVpYbjRBQ2w0cmtqVlNjT2VDQmlRemxhejVEMUxUMzhqR1FqVjdIdU1pcGRlYTlNYTZVa1g4?oc=5"
+        },
+        {
+          "title": "負債 2.9 兆將枯竭！軍公教痛批一萬普發利多是「內砍補償金、外大撒幣」的政治肥皂劇",
+          "source": "風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUdVlXSTl0Zmo3cGdaWmdzQV9lcENyUWRUd1phYXNPU1RVTTRPSURib1NsMUJjZ0dkMXh1RGJjVkl5QXdGeTl0UU1odWVaQTJR?oc=5"
+        },
+        {
+          "title": "OpenAI 財務長爆料：最快將於 2027 年前正式公開上市 (IPO)",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5"
+        },
+        {
+          "title": "傳 SpaceX 曾計畫併購 AI 寫扣新創 Cognition？創辦人 Scott Wu 霸氣否認",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1hlckx5ckZLaDBjd0w5MU5jMlhtTWtnMkgwZ3NUVFpBdGtlSHR3VTJIZmxLc2dHYUJsMndfREhpd3FjaDdLN0lOdkYwdlhuTVFlNFU4cjhXcVRoMC04WUJkS3NrZjMwLWJXY3FCeTlnVWVEcmdJc2pCTDJCa19nVXV0SDNRcDdLVEI2bjh4aC1hVXRWRXB2V0xPWjlHQmlmdnRTT1lR?oc=5"
+        },
+        {
+          "title": "OpenAI 貼心防守！推出全新隱私安全保護，試圖在一線企業客戶中反超 Anthropic",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzkwVEQtRVo3c3hRNnZoTTNHWVdwQ2h5Zk9SQnlwUTF6M0FhM2hBQ1ZZSmRkSWdaUEtJTzU4bTNvZlRSSXphOElHYlhmYW1FZHY3SWhUSnlMYlJXNXpveG95M0VESF9OZW5hYTIzTGhXeXNrNXpSYnAyVnJEMUVVUU4xNE96dURsVEdrZ00yWEJoVzNOVUJObGhha2NjQ3px?oc=5"
+        },
+        {
+          "title": "晶片慌成為最大絆腳石？微軟大舉推進 AI 代理卻驚傳受限於晶片短缺",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUZIWjBYU0xtbkNJZTRMbkIwRk1OR2dZWmh5TVE0MWxUb3VyNkFBWExZV3VVOVk0OS04MEJyeWtqQ0RmcGdjeFNJRVpmel85a2FmeXlTZUxEcVkteTBUUnhGZ1d2WWtLUU5IenozVFJrNHotNzVTVVpvbU5mT0FEa09NWDNwY3VKLWI5dlZMS0MzVkhwblc3RlF1aC1KZWJ4VkhRSnFYTGxGa3lRV1RXbG5Sbw?oc=5"
+        },
+        {
+          "title": "大規模商用里程碑！Waymo 全新「平價版」自動駕駛計程車 Ojai 正式向三市全民開放",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/"
+        },
+        {
+          "title": "隱私與安全的完美平衡！WhatsApp 秘密測試「本機端機器學習」防詐騙警報功能",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "限制 AI 代理人的越界之手！Cloudflare 發表 WriteGuard 提供 MCP 伺服器細粒度安全控管",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "AI 裁判也有神經質？最新研究指出「LLM 裁判」在沉默與壓力下極易出現穩定性崩潰",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IS0FEVHNpMWFISEdyY1dSc0tQY29LV1Jxdl9EMms1djh0Q1FXcU9nZDQxMHY2TkZQZGVJdE9uRG5ZWi1uTlBV?oc=5"
+        },
+        {
+          "title": "chaitanyagiri / munder-difflin",
+          "source": "GitHub",
+          "url": "https://github.com/chaitanyagiri/munder-difflin"
+        },
+        {
+          "title": "akitaonrails / ai-memory",
+          "source": "GitHub",
+          "url": "https://github.com/akitaonrails/ai-memory"
+        },
+        {
+          "title": "nautechsystems / nautilus_trader",
+          "source": "GitHub",
+          "url": "https://github.com/nautechsystems/nautilus_trader"
+        },
+        {
+          "title": "急診室引進大語言模型臨床決策系統之四年期隨機對照試驗報告",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04601-5"
+        },
+        {
+          "title": "人類誘導多能幹細胞心肌細胞 intramyocardial 注射治療重度缺血性心臟衰竭之一期臨床研究",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04605-1"
+        },
+        {
+          "title": "全球 29 國腦外傷存活率與 HDI 指數關聯： Global Neurosurgical Study-1 跨國研究",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04600-6"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "title": "新聞雷達 (2026-08-19)",
