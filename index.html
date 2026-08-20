@@ -1511,6 +1511,15 @@
           continue;
         }
 
+        // Ignore Markdown horizontal dividers (---, ***, ___)
+        if (/^[-*_]{3,}$/.test(line)) {
+          while (listStack.length > 0) {
+            html.push('</ul>');
+            listStack.pop();
+          }
+          continue;
+        }
+
         // Jump Link Box
         if (line.includes('快速跳轉') || line.includes('👉')) {
           while (listStack.length > 0) { html.push('</ul>'); listStack.pop(); }
