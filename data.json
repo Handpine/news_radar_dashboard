@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-21T07:36:07.306579",
+  "last_updated": "2026-08-22T13:00:49.133980",
   "daily": [
+    {
+      "date": "2026-08-22",
+      "title": "新聞雷達 (2026-08-22)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-22-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美國最高法院暫准白宮宴會廳繼續施工，川普暫獲歷史性勝利",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpRTMtUFdLXzIxbS0tWkZUaGdzTDBFT252ZlBiR2VsNTIxTTliZnJPQ29pNF9zNjJvS0VrSDA0dF9zTnRuRkN5ejN6d1ZSQkx6QThsU3JnMXBmdTNZZGxj?oc=5"
+        },
+        {
+          "title": "美加貿易談判進入最後關頭，川普信心喊話：協議可望達成",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZdmFsZFZDOUxUWG5yRXRSZzNEcDRPT2RYVUFwRUdHTVljUFVLZ1NMcTRGNFJrUGc2MXlyanE5NmdjZ3RTTWZEdlNvTTVVVXY1NFZZWDdCUHhvdjYtam9B?oc=5"
+        },
+        {
+          "title": "台南安南區驚傳非法化學廢棄物起火大爆炸！烈火延燒 8 戶波及 20 車、13 人送醫",
+          "source": "Google 新聞 (台灣頭條)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bmRPZXBka25HVU9zOGFpU2s4UGw0cFhaYV92eThFSTMtQW0xdUJBdGxrR1FYb2h0Yy1MYW5mUEFQZUtCeWJrZEJ3T0tLNjRRMW1iZVU3d1ZqV0FBY0FV?oc=5"
+        },
+        {
+          "title": "國會傳奇謝幕！前立法院副院長饒穎奇驚傳離世，享耆壽 93 歲",
+          "source": "Google 新聞 (台灣頭條)",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nUjQtc0VJUWJBZW9kblp3XzlwWml5M0tTX05YXzZZR2loUVBVclEyOXplRFNfcU9FZmJpcTZMMUFfcHJ1bW5HeDFEdXk0ek14dTB5b2FSQQ?oc=5"
+        },
+        {
+          "title": "OpenAI 價格戰開打！宣布將最新旗艦級 GPT-5.6 Sol 模型開發者費用調降逾 20%",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5"
+        },
+        {
+          "title": "Anthropic 啟動史詩級 1,000 億美元 IPO，招股書首度將「反 AI 浪潮」列為重大風險因子",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5"
+        },
+        {
+          "title": "微軟與 Meta 的最奇妙同盟！Meta 悄然成為微軟 Azure 最大 AI 算力買家之一",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dCS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5"
+        },
+        {
+          "title": "女神卡卡伴侶創業曝光！利用活體人體皮膚組織訓練 AI 探索護膚成分",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
+        },
+        {
+          "title": "不可思議的瘋狂融資！AI 會計新創 Rillet 在 48 小時內暴拿 1 億美元成為新科獨角獸",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/"
+        },
+        {
+          "title": "自動化大成功！Cloudflare 利用 AI 代理人將 Astro 的 GitHub 未決 Issues 瘋狂削減 85%",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "PostHog / posthog",
+          "source": "GitHub",
+          "url": "https://github.com/PostHog/posthog"
+        },
+        {
+          "title": "mahlernim / google-timeline-visualizer",
+          "source": "GitHub",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer"
+        },
+        {
+          "title": "microsoft / TypeScript",
+          "source": "GitHub",
+          "url": "https://github.com/microsoft/TypeScript"
+        },
+        {
+          "title": "心衰竭重建新曙光： NEJM 刊載生物型心室輔助組織（Biologic Ventricular Assist Tissue）在心臟衰竭治療中的應用",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2608577?af=R&rss=currentIssue"
+        },
+        {
+          "title": "探索重度憂鬱症的腦部病理：Nature 子刊發表最大規模成人海馬迴多模態圖譜，解鎖神經發生失調機制",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04571-8"
+        },
+        {
+          "title": "精神醫學的新嘗試：英國國民保健署完成首個利用「迷幻藥/裸蓋菇素（Psilocybin）」治療難治性憂鬱症的臨床可行性試驗",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04597-y"
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "title": "新聞雷達 (2026-08-21)",
