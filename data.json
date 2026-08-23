@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-08-23T14:39:07.583401",
+  "last_updated": "2026-08-24T07:27:21.888548",
   "daily": [
+    {
+      "date": "2026-08-24",
+      "title": "新聞雷達 (2026-08-24)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-24-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "幾內亞首都垃圾山遭豪雨沖刷驚傳崩塌！瞬間活埋周邊民帳造成 30 人死亡",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
+        },
+        {
+          "title": "日本凌晨爆發 5.9 強震！東京與茨城劇烈搖晃震醒民眾，已確認至少 37 人受傷",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44TWp3d3ZzNWtpSTh6Z0R辦cZW_QDAtV1_kS_ZWNfN1k?oc=5"
+        },
+        {
+          "title": "賴清德總統重磅開示：天下雖平、忘戰必危！和平協議只會換來歷史屈辱",
+          "source": "中央社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50UVdnYmplMWpuMnZ5bURKcUFpck13Mjk0Wm44dW94TzZfQ014YnFSdHFrR1NqZEJ4Ty1CQkFlRUo5VjI3MHJ1Wk03U3ZDX0o0ZkRmZkNBVFhZbW9zeldj?oc=5"
+        },
+        {
+          "title": "台灣藝人五熊驚傳日本被捕？遭起底潑油損壞 1200 年歷史「最古老佛足石」日本國寶",
+          "source": "三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45LVNHRUt2eUxQbkFUQ2pwRGJxVTZTckYtXzRhUUJtTzBUazB3b0Y5ZDB6c1xlUW5wemxELVNZZXZycGFnb2xsWdIBTEFVX3lxTFBMcGk4d2lLaEw2bTIxVEhueExESWdVZTM0NEhScGp1VGJJTTV0eHlPVmdzS2cxNWlqV0kyWEhHczYwUjNCdTF6OGR3ZTk?oc=5"
+        },
+        {
+          "title": "安全警鐘狂響！OpenAI 安全大老重磅警告：我們正在進入「持續性 AI 網路攻擊」的黑暗新篇章",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0A?oc=5"
+        },
+        {
+          "title": "演算法偏誤大翻車！Google AI 概覽給出驚人種族歧視建議，引發全美輿論口誅筆伐",
+          "source": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NMjZoTjNuVExYcU5pR3RhUWQ3LURZRGFJdkVYYzJzbGgwMzZQcjNvRnhVR3p4YV9aYkxGV21xTmtTc1p2cnoxQmEwZENoT0FEYmlGYVlnMnpaSWFMMUFxNmFmOUxhRWhZZVdqQ1hn?oc=5"
+        },
+        {
+          "title": "微軟爆料： Exchange 郵件伺服器大更新無限期延期，背後罪魁禍首居然是「AI 整合大卡關」",
+          "source": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXd6bGFISGNzNE5aR3JhV3p3WkhPazYwdlJ6VE9uektCTnhtNmJNeWJpWnhDeE92b0dYRjZPZFhYZUlFWGE1ZjlUUXFGTXRFNmotT3RHSG5nbEZrZFdKM2piNDlVSG1kLXhTUWtJYTY1OENOUURlekZwN3pfTDdoOFVrSUVUTS1SaXNEOHB6eThFNnhva05IeXVUVWhwa00xaERQMXVRY09kTk9SWGhLRFllVHlIcWdzWVBOalRWMHIzQ21HX21IOWNrbEU?oc=5"
+        },
+        {
+          "title": "旗艦款沒人愛？Anthropic 爆出 Claude 最強旗艦模型銷量慘淡，企業反倒瘋搶「Haiki/Flash」便宜貨",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+        },
+        {
+          "title": "拒絕巨額罰單！荷蘭重罰 Uber 近 10 億美元天價，痛批其利用 AI 演算法「自發開除司機」嚴重違法 GDPR",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
+        },
+        {
+          "title": "神祕模型 Ox Alpha 橫空出世！超神表現引爆全球 AI 論壇 spec 大暴走",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+        },
+        {
+          "title": "開源大好消息！Cloudflare 宣佈開源「Cloudflare OS」：專為企業 AI 打造、具備極致權限隔離的操作系統",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "解決手動代碼審查噩夢！LinkedIn 發表「多 Agent 協同 code review」平台，解決大規模 PR 合併痛點",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "tinyhumansai / openhuman (★36719)",
+          "source": "GitHub",
+          "url": "https://github.com/tinyhumansai/openhuman"
+        },
+        {
+          "title": "Alishahryar1 / free-claude-code (★47928)",
+          "source": "GitHub",
+          "url": "https://github.com/Alishahryar1/free-claude-code"
+        },
+        {
+          "title": "openai / codex (★115111)",
+          "source": "GitHub",
+          "url": "https://github.com/openai/codex"
+        },
+        {
+          "title": "DNA 甲基化衰老時鐘之臨床替代終點系統性驗證",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04524-1"
+        },
+        {
+          "title": "傳統醫藥科學化轉型：世界衛生組織與多國監管機構聯合推動臨床實證融入主流醫療",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04588-z"
+        },
+        {
+          "title": "超越肌萎縮蛋白：細胞再生療法在治療杜興氏肌肉萎縮症（DMD）中的早期三期臨床展望",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01656-9/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "title": "新聞雷達 (2026-08-23)",
