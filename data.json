@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-08-22T13:00:49.133980",
+  "last_updated": "2026-08-23T14:39:07.583401",
   "daily": [
+    {
+      "date": "2026-08-23",
+      "title": "新聞雷達 (2026-08-23)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-23-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "瑞典中學驚傳蒙面歹徒持劍強闖校園！瘋狂追砍釀數名師生浴血受傷",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UcUtvSE5Ha05PYVZJSDJzQmdMVlVoLS1OY3lnM1BlNkNLTHJhQ1FUN3NlUG5tMHp2RHlkRmptNGNSS3NFSHZJQ3M0Qk4xX1UwYU4wT3pfSkpNUmM5MVc4?oc=5"
+        },
+        {
+          "title": "面對極端高溫熱浪襲擊！「替代型住宅」會是英國抗暑氣候下的未來救星嗎？",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdURFUWFEZnpTTmJueU1fUng2Q09uOGhGMklyNEkyVDNFeGJrZVpwSk13aGNsUU1Scmx1c3J1SlFUZzN3bjVTeEZWRDVyQ0UteVBpb0hsbDQ0Zw?oc=5"
+        },
+        {
+          "title": "強颱沙德爾狂暴鬼轉威逼！南高屏緊急宣布停班停課，紫紅一片大豪雨彈狂炸南台灣",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tdl84b0s3SHpqVGx6TlFLSzB6MHFyanRQUkdFemJfcjF0bkNYZi1xenNQSUFIYjFGeWxsb2ZqNzJfZTBuQ2VwOV9WV2lzVE1pNjhDaEV0cGo5Vm1fQy1Z?oc=5"
+        },
+        {
+          "title": "抓救生員手臂「其實是男生那裡」！高中炸裂課文全網笑翻爆紅，原作者大方現身回應真相",
+          "source": "ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xM2tIeXJ4b05ZY1ExWkZtZ295YWYyQURZU2JYTEJ5U1Bvckk5WnFwTHF2TGpIdFJEUGp2cjVBbEloQlZxT1F2MVI1bFlMWERrMnJxWlI5aFlKb00wQlHSAUtBVV95cUxPTWhLVDdzZldSVmhqM1NwNlZYODJMbEtIUk1QV25MX1ZwTzM1RzFiaTc3LTBrdkpEcmRfMHpiRks3bFhnX3NyNlg1Z00?oc=5"
+        },
+        {
+          "title": "OpenAI 前安全大老重磅發聲！Miles Brundage 撰文揭露大模型最迫切需要的「硬核防護網」",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FuS0ZpTFcxZnl2MGU3SF9XcEhhOGd6M3FnLVg3emZ3VFhjeTgwVXdyMjZlRkNDbkpuU1lDRkpjVG5tVjkxczdtbVhOeUR2S3NjVDQ4RmF6RjM2TWpKR3FsVmlBaXROX0RmeDZCNnI0OE9QN2pLRDdsRkNOQ3E0aWVEcFM?oc=5"
+        },
+        {
+          "title": "大秀開源肌肉！Google Gemma 系列模型全球下載量正式突破「10 億次」史詩級新高",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1ZnMFFIc2xsazRDSWpEazRBTS1YeFRMVHZTTGd6ZkM1VHZaNmk2ams5aGRWVnZLX2hycHgzRXJhWmNOMXprajFuUVh3NnMzdzl6UFFXUUNPSG90NTZKZF85RmQ0b29MbVdLa0o2Yl9fa25CcFFEUG8zRkNWVlQ2UE8tM1FrS3UxOVlEdld6d0cxRVRjSWxvQ0p3?oc=5"
+        },
+        {
+          "title": "ChatGPT 震撼解鎖 Mac 簡訊控制權！可自主讀取並發送 Apple iMessage 引爆安全隱憂",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkA?oc=5"
+        },
+        {
+          "title": "微軟又給工作管理員發新任務了！全新加入「AI 負載監控器」，即時看穿 NPU 算力消耗",
+          "source": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2RoX1VPVnYxT3o1NXBQNkJzb3FhWGRMNndOenVDSzZUdnZVa3hmWmZlSmt6MDNCeXBPdE5DaDZ3aVIzeGdHSmdyR2NBVmFqTXNENm41WVQtZk4zdDlhbkwxOUlSckZHRXdRaE94Ny1iMWU3c19RcmNLaXdkaTNRZjlneklSX3huV2JReDJuN2pKZmtyYjZHSEpabG1KS01mQTZzSFVmTWxUR2JybjRnQzhZVFhtaHhseVU5T2dkVXE?oc=5"
+        },
+        {
+          "title": "AI 重現科學研究能力大跨越！DeepMind 前大佬新創 Faraday 震撼問世，實力碾壓 OpenAI 與 Anthropic",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+        },
+        {
+          "title": "為 AI 代理人打造專屬瀏覽器！Cloudflare 發表「Kitesurf」輕量瀏覽器引擎，直接在 Workers 裡飆速運行",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "別再盲目浪費算力！最新 arXiv 論文提出「適應性推理」框架，教 AI 聰明決定「何時該深入思考」",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wYXc2cTFCVjNRa1BDdjZncFJLT1lRRUtORFNlcFpCUTVSQ3NSazlEOGlBbDZRN1NMMzRrc1dNNUNkZU84dGpB?oc=5"
+        },
+        {
+          "title": "affaan-m / ECC",
+          "source": "GitHub",
+          "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+          "title": "Wei-Shaw / sub2api",
+          "source": "GitHub",
+          "url": "https://github.com/Wei-Shaw/sub2api"
+        },
+        {
+          "title": "n8n-io / n8n",
+          "source": "GitHub",
+          "url": "https://github.com/n8n-io/n8n"
+        },
+        {
+          "title": "羥基尿素在治療烏干達鐮刀型紅血球貧血症兒童中的長期療效與安全性臨床研究",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2608519?af=R&rss=currentIssue"
+        },
+        {
+          "title": "TALENTOP 研究：晚期肝細胞癌轉化手術（Conversion Surgery）放化療聯合免疫治療的全新時代",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01653-3/fulltext?rss=yes"
+        },
+        {
+          "title": "多軸融合的安全治理：聯合國與全球人道援助機構中符合倫理的 AI 資料收集框架與隱私指南",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42624704/"
+        }
+      ]
+    },
     {
       "date": "2026-08-22",
       "title": "新聞雷達 (2026-08-22)",
