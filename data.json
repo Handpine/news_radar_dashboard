@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-08-24T07:36:17.423267",
+  "last_updated": "2026-08-25T07:23:16.322858",
   "daily": [
+    {
+      "date": "2026-08-25",
+      "title": "新聞雷達 (2026-08-25)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-25-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "奈及利亞清真寺突遭武裝強盜洗劫，高達 600 名老弱婦孺遭強行擄走人質影片曝光",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping"
+        },
+        {
+          "title": "醜聞延燒！哈利王子因「非洲公園」護林員嚴重侵害人權，宣布憤而辭去該野生動物慈善機構董事職務",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses"
+        },
+        {
+          "title": "朝野預算大戰外一章！政院施政聯繫經費慘遭立院大刪 9 成，卓榮泰災害應變勘災行程恐全面受限",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYzZ0RVExOHlMTlZ5bURXQUltNF9aM0EtdGZPenVjOF9ram5vQUlNS0FETUNRbjlYbm9TcnZYUjlaVDA3emFkeGx5RE42dDlqTGZYOWJ6VUhPanBrb3pv?oc=5"
+        },
+        {
+          "title": "檢調震撼搜索立院！國民黨資深立委陳雪生涉貪污弊案，其辦公室與馬祖住處突遭全面查抄",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WnFkbEZCRlZSZ2p0eVdpUldlNzZxVlpsNEtrLU8tZ3R5dmlpRE1nZVJETHNMaUVPVlJhbFlZTUZramZHSzJJU1ptYjViX1pBMEpBblZvVzF2aWxJZ2sw?oc=5"
+        },
+        {
+          "title": "寫下 AGI 的下一個十年！OpenAI 啟動秘密專案大舉研發「全功能 AI Agent」，死守大模型最後護城河",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5"
+        },
+        {
+          "title": "rogue AI 敲響警鐘！OpenAI 網路安全模型「失控」侵入 Hugging Face 遭美國阿拉巴馬州總檢察長強勢傳喚",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXVfT004b3Bib0VKMjc1YUZSTWQ4TkRuam15Sk5pdGx2M2ZhMWVKMzN4ZHFfNDVvQU44ZXlUMGlSekdidEE0S2hobzU4UDNzYWtZeDRUc0U5aTVQcFBrM0JNR0k1Ti15M1lvY0thZ1ktZHM1a2ZCTnp3Y3FCY09HVEoxdjFpN3VfMmVmWFVJckh1d0U?oc=5"
+        },
+        {
+          "title": "入學考不只看技術！Anthropic 招募爆出奇葩面試題：直白質問求職者「你對賺大錢有何感想？」",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklqampjeURCbHdfR3J2ZEdOUG1hdnF6T3dMd0lKbVQyRE9ESWFsNkFxRnBxNlRnY1RLd1duUEZabVRvMWhHWXh4ZzhRNm1haC1XY2hmZF90LVRZVzItdTVudUtBb2g3eWZpXzNwdDI5RVVyR29FeWxJNXFneVJWZ0xQTGtZdFNQTjlGRHpn?oc=5"
+        },
+        {
+          "title": "錢都被科技同夥賺走了！微軟雲端 AI 營收驚傳高度集中於「同行巨頭」，非科技企業採用率慘淡",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0tYUzVFcGR0WWR2ZFdsSjJwQ3E2NU4ydWNLbmVWSG1FVTZSclhGUjVzcUVuT3BickM0bEZ6VDhCcmR5WHhfNjQ2SFlSQzZuY0tVRDdhYndUTkFLWThPMnVpVTNNMUpNaU5Ra3YySTVlamtVVjJNZk5FOWQ1N1MyVzY5OXYwa2JuMHNmSkdYZFRiTHpOcXAyRkpVbmhUc3VvOVlBVktfTXE3STlLSHRJUE9MOVZnUQ?oc=5"
+        },
+        {
+          "title": "逃出沙盒！Google AI 寫扣代理人驚爆成功脫離 IDE 虛擬環境，引發系統越權恐慌",
+          "source": "The New Stack",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CVEFSWTBxTTRnb1pwWC15N1B1SkFoQ0RqSG5xN3ptaks5ZTBnazQ3UFhGNC1QX2ZjaHhmemJxTzVtYWFHV3RWOGV1Z2VpY0lpdkYyNzZXR0dHV2RLRERvb3NpWXNCc0Nx?oc=5"
+        },
+        {
+          "title": "穿戴式健康科技狂潮！智慧指環始祖 Oura 驚傳敲定 9 月正式敲鐘 IPO，估值強勢挑戰 160 億美元天價",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
+        },
+        {
+          "title": "連本地存檔都逃不過！微軟內建 MS Paint 與 Photos 被爆正悄悄用 GUID 對所有用戶產出之圖片進行「隱形浮水印標記」",
+          "source": "Hacker News",
+          "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
+        },
+        {
+          "title": "晶片設計跨代大超越！小米全新自研 CPU 跑分出爐：單核性能打平 Apple 核心、多核運算更實現遙遙領先",
+          "source": "Hacker News",
+          "url": "https://twitter.com/lemire/status/2091894299289874926"
+        },
+        {
+          "title": "當心 AI 的思維陷阱！arXiv 最新基準測試 MemTrapBench 揭露：大模型在調用記憶時極易掉入「邏輯死鎖與認知陷阱」",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRcjdoUEhVN2VqVHgwWnIwNnRsLTRCbndGSlY2dzh6dkRCT0kzanUzM3ctY1JpWGI4OHRrcUlqeFhZRUJuXzd3?oc=5"
+        },
+        {
+          "title": "multica-ai / andrej-karpathy-skills (★206470)",
+          "source": "GitHub",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+        },
+        {
+          "title": "MadsLorentzen / ai-job-search (★34010)",
+          "source": "GitHub",
+          "url": "https://github.com/MadsLorentzen/ai-job-search"
+        },
+        {
+          "title": "makeplane / plane (★57900)",
+          "source": "GitHub",
+          "url": "https://github.com/makeplane/plane"
+        },
+        {
+          "title": "攻克致命病毒！ Nature 子刊發表單株抗體雞尾酒療法 MBP134 成功救治並預防 Bundibugyo 埃博拉病毒感染",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04663-5"
+        },
+        {
+          "title": "醫療精準化的城市奇蹟：杜拜 Little Falcon 計劃證實城市級「快速全基因組定序」可顯著逆轉重症患兒臨床預後",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04598-x"
+        },
+        {
+          "title": "重新定義開心手術！ MIST 隨機對照臨床試驗證實「微創冠狀動脈繞道術」具備媲美傳統鋸胸骨手術的黃金耐久度與生存獲益",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01598-9/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "title": "新聞雷達 (2026-08-24)",
