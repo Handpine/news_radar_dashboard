@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-08-26T10:40:49.894099",
+  "last_updated": "2026-08-27T07:23:51.408298",
   "daily": [
+    {
+      "date": "2026-08-27",
+      "title": "新聞雷達 (2026-08-27)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-27-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "喜馬拉雅山脈致命冰崩！西藏與尼泊爾邊境暴發恐怖土石流，至少 160 死、數百外籍旅客失蹤",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTWw3UE1hMVpxcWRwQ1hlOGl6Rngza3FFQjJtNG1JYU5rV3ZSWi1rNnRKWHlzSUpELWltdWZObExQZTlQOGM3aUVWTU13WnhLRkU1dDdPN25SUmstaktZVUFRRWc0YVduek56U3M5WUNRUmpjejJoV1I1eWgyd0FUZU9MYTJrSnZGMzdhaE1QR0MwRWdhaElqQWNoQTVweGJrWDFPT3dlRmtMMG1HTklabUNxX1VrekdaUm9HWEg5TU55T3AzMzROcmFwLTNLVzFhM0h6VzJreXR5ZzJCVFZ1MmQ1VHVaeHgxSUt0dEpYZ2FWenhOZWFERm13Zm5BcTJhLUYzMjNXSUZBUEVjMVYwbG1wQkYzSzljbktFTW1VSDFtTDgzVjNNRXJDTEc?oc=5"
+        },
+        {
+          "title": "重回談判桌！美伊關係融冰，荷姆茲海峽復航釋放曙光，國際油價閃崩重挫逾 5%",
+          "source": "工商時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRdmI3eFVmQkh3eDg5N0tBZWJDb3hfVTB0WWh4MzlpYWVlMkRscXk3bm5aNlF0T2FGWk9GUTZLWVAyRXpYemV1Mm5ZZldnZndGUlV0OGs0Y3FvRFRJRzM4?oc=5"
+        },
+        {
+          "title": "外資大行重磅背書！大摩上調台灣今年經濟成長率預估至 11.6%，估迎 40 年來最強勁經濟奇蹟",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ycS1Fa1J5VGFoTlB0SVVHTHRhNUV2VENXRGV0MjFaOVM1dG9WR2g1VVNNTHJhSWVpS2JKaVFMd2haSkpZRkVBVjlTNGtieGtoRS1tWDdFbzd6UWhJdGc?oc=5"
+        },
+        {
+          "title": "協商宣告破局！無人機管理條例修正案明加開院會，立法院朝野黨團即將上演瘋狂表決大戰",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpc2NHMHRKUVRXMUJLczR6SFZqYWFOb1hDODNwZHZkWUVzMHZIWnVKYThWa1VzVzdxRXlJbExNY1FCTWRKOEhKOVAxSGdhRnB4RHhLSTlHeVA4dkU3ZEtv?oc=5"
+        },
+        {
+          "title": "OpenAI 釋出 Hugging Face AI 代理侵入事件官方完整報告，直斥這是一場「嚴肅的警示槍」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
+        },
+        {
+          "title": "Salesforce 攜手 Anthropic 擴大合作，執行長 Benioff 藉此回擊 SaaS 終結論調",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhT1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5"
+        },
+        {
+          "title": "Google 驚傳高層重整！將 AI 責任團隊（AI-Responsibility Team）移出 DeepMind 實驗室",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5"
+        },
+        {
+          "title": "算力無底洞！Anthropic 與 Nscale 簽署高達 450 億美元算力合約，繼續瘋狂吞噬 GPU 資源",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
+        },
+        {
+          "title": "嵌入式數據庫轉向分佈式！DuckDB Labs 預覽 2.0 (Cyanoptera) 版本，正式引進網絡連接與客戶端/服務器模式",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "綠能與核電新突破！Actinide 成為首家成功提煉高豐度低濃縮鈾 (HALEU) 的民營核能新創，改寫下一代核電版圖",
+          "source": "Actinide Press",
+          "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu"
+        },
+        {
+          "title": "DietrichGebert / ponytail (★112509)",
+          "source": "GitHub",
+          "url": "https://github.com/DietrichGebert/ponytail"
+        },
+        {
+          "title": "tt-a1i / archify (★17825)",
+          "source": "GitHub",
+          "url": "https://github.com/tt-a1i/archify"
+        },
+        {
+          "title": "嬰兒腸道微生態起源追蹤：大型母嬰對照研究證實母體腸道是嬰兒菌株的主要來源，並顯著影響早期濕疹等健康預後",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00042-2"
+        },
+        {
+          "title": "帶狀皰疹減毒疫苗 vs. 重組疫苗：一項跨越 7 年的自然實驗證實重組疫苗能顯著降低心血管事件的發生率",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04606-0"
+        },
+        {
+          "title": "大語言模型在臨床管理上消化道出血患者中的成效評估：基於真實世界病患數據的深度洞察",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42428234/"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "title": "新聞雷達 (2026-08-26)",
