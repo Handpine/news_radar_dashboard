@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-25T07:23:16.322858",
+  "last_updated": "2026-08-26T10:40:49.894099",
   "daily": [
+    {
+      "date": "2026-08-26",
+      "title": "新聞雷達 (2026-08-26)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-26-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "技術移民大砍刀！川普政府突襲調高 H-1B 簽證申請費，力推新一波阻絕移民鐵腕政策",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sdmt0a3VZZEdIQjZwOHFBdlNNZnNWZ284VDlERE5SVThla2hoaU1qcENYV1pMVmJvZ0pFSGxyVGFTeU14NV9XWC14Vnl1YUV5LWNtU2E5UmtEa1RuXzBj?oc=5"
+        },
+        {
+          "title": "大國海軍的沉重陰影！美軍林肯號航艦執行 8 個月海上高強度任務，爆官兵環境惡劣引發身心崩潰危機",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVeVBFUnNEdWdGdENrVkkxOThaV01ReG1wbmllLVlXaWd2MzZURjczeDZfQjNoTjBZbmRzQXF0VndrTlIxN2xjdlBpX2swaXN0Y1hDNzZFOA?oc=5"
+        },
+        {
+          "title": "台大急診驚傳等床 12 天病逝大廳？院方人士重磅闢謠：病患並非死在大廳，且其全身感染在術後早已獲得控制",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vVWVUeTNoZTZvbjBoRGZBT1ZLbEVEckFYaUtyREJtaDBmelNQODY5LTJDeExlaWpTYUd5Ym8zWEM5VlRQcG92eGYzTlJ5cjVy0gFWQVVfeXFMTXNrVFFYeXNJOUNqeE5iNUc2SExiQmJFanNJaC13Y0h2MGdyb05NWXBaOFpMSzVHUW9hQVp4eHJnSkZxaFJPNDc0WmFmdGRKQ29aR2tVZ3c?oc=5"
+        },
+        {
+          "title": "AI 剛性需求續狂飆！台灣 7 月工業生產指數創下歷史新高紀錄，年增高達 25.61% 喜迎紅盤",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05cGJZRWJDZ1JzejdmUE1uVzhGcldJc1ZYODZtb3kybU1uZ1ZoVFAtWlZQZTJoekZMcXY1U3M1cWI0T0VOMWNjb2lCaThxd0hxLTZJNWxTRDlOa2lyNlE?oc=5"
+        },
+        {
+          "title": "不靠輝達也行？OpenAI 宣稱其最新自研 Broadcom 客製化晶片「Jalapeño」性能實測超越 Nvidia Blackwell",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5"
+        },
+        {
+          "title": "吹牛吹上天？Anthropic 向投資人描繪「30 兆美元」營收夢幻大餅，欲撬動 2 兆美元估值融資",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN?oc=5"
+        },
+        {
+          "title": "核心骨幹繼續流失！OpenAI 資料中心總負責人 Chris Malone 驚傳離職，基礎建設團隊頻繁大洗牌",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHN6cUtXZ0UyUlhaQlBNUXVpc2F4YU9ETnhHeTZzWnlLN3FTR0ZMWE42d3FkQmZKNUJHT183ekcya2pYRGNOSGIwMkVwa2xuZkhueW01ck4wb1E4RFdKVkdaN3d0SzBQMy1lclAxNng0eDZiX0tmdGpnRUF2ZDRDSTMtQkdjQW96N2M4WlBEZmRKQnE5TGhHOVJDNDVqSEU3aDVmbzVOdUnSAa4BQVVfeXFMTWVLVW80ck9uenpyZmdaTF9wY3BxLVNxMHZfblBsZXpBVFpfQnQxcjU1cUdwLTJDUGlQajR0QXV5MWNWNTUwSllMMzktZkl5NEt1ckNjYUdKNEZFbDYzaWxJQ3BQNUJmSjhRY0c2V1FISXV4UVMxXzhjVm1FZ1didndMWVFsU3VPcTIxQWRMTVhGR3Vyc1pVbUduaW00UGx6dTN4TTB4Um4xQzhFNnZn?oc=5"
+        },
+        {
+          "title": "蘋果震撼發表新一代 M6 及 M5 Ultra 晶片！AI 算力與單核性能大躍進，同步推出全新 Mac Studio",
+          "source": "Hacker News",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+        },
+        {
+          "title": "叫板 GitHub！AI 寫扣編輯器龍頭 Cursor 正式推出「Origin」：專為 AI 代理人打造的開源代碼託管平台",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "糖尿病與健身愛好者的終極健康神器！美國 FDA 首次核准穿戴式酮體與血糖連續監測儀",
+          "source": "Hacker News",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
+        },
+        {
+          "title": "AgriciDaniel / claude-obsidian (★12793)",
+          "source": "GitHub",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian"
+        },
+        {
+          "title": "anthropics / claude-plugins-community (★1805)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-community"
+        },
+        {
+          "title": "Shubhamsaboo / awesome-llm-apps (★134273)",
+          "source": "GitHub",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+        },
+        {
+          "title": "年齡相關認知退化的關鍵元兇！《自然醫學》證實少突膠質細胞功能障礙與人類腦部衰老認知衰退具有決定性關聯",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04608-y"
+        },
+        {
+          "title": "乳癌戰勝後的隱形折磨：臨床研究證實乳癌治療兩年後揮之不去的慢性疲勞與心理健康有顯著因果關聯",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QR25FWnVNV1laUnh6QmRPQ3FfTkE2cXlaTzlhOVFMVUdJQ21NNm1PaDJWZDJsSzNvLUZ5Mm9yZGlmMFI3QkVyeWUyTTB1Mkp1RHZsZUtlcEZHQ2JnOUFRVm9YTU96dw?oc=5"
+        },
+        {
+          "title": "消除健康不平等！《柳葉刀》集團發表針對殘疾與障礙研究報告的全新作者寫作指南",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01547-3/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "title": "新聞雷達 (2026-08-25)",
