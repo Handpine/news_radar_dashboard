@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-08-28T07:26:03.705576",
+  "last_updated": "2026-08-29T14:38:28.247536",
   "daily": [
+    {
+      "date": "2026-08-29",
+      "title": "新聞雷達 (2026-08-29)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-29-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "埃及王室歷史稀世珍寶失竊！維也納博物館光天化日遭砸櫃搶劫，200克拉大項鍊不翼而飛",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid"
+        },
+        {
+          "title": "株連家屬的政治迫害？英國外交部面臨輿論壓力，被要求緊急介入營救在埃及開羅遭株連逮捕的英籍女子",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism"
+        },
+        {
+          "title": "外交空間大突破！美國國務院公開重申：台灣是可靠夥伴，力挺台灣參與太平洋島國論壇",
+          "source": "中央社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mSGJjNW9hbVpGb1VqQ0F0TlJBc0ZzVFItdUZ3dlVDdXloSS03U0hVTXpkdzFnQ0I2Vlk2NEgzdWNCR09fRVBwNXAtNmhWcjNON0xwemdMb1EweW5xV2t3?oc=5"
+        },
+        {
+          "title": "雙颱藤原效應恐來襲！專家警告下週季風槽異常活躍，全台防颱與劇烈對流嚴陣以待",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ncFlKVngxRXNrbGhtUnVuY180MHdGWjY4Z0QzQmxfTWNzekJ6ZE8zZWhmcFQtTTdwRXdkSF9MZDBvZWhUZ3BpSGJ4d2gxMXp1SU9jWTdmaVNnZW5QdHg5SFhJUk0?oc=5"
+        },
+        {
+          "title": "宿怨商戰燃至沸點！SpaceX 收購 Cursor 後，OpenAI 憤而強硬宣告終止其技術與算力合作協議",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5"
+        },
+        {
+          "title": "五角大廈 labeling 違法！聯邦法官正式判決撤銷對 Anthropic 的「供應鏈風險」不公黑名單",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaE1OWlZxUWVXdEdfSlgyTDZ4cnA1ZjN0YUVZQ0FoMTR5d1oza2pYcUlfQjJ2YW1IdTN2RF9WcGpQN0xhVjdpa3VTSjdjeHdQSHhDYk5kb2pXVXFOUFJiSkRKUjYxdU5Qc19PdG9LaFV1Qm9IaWt6UmYxRk9MbUFnSmtCMTJQbFhhTHBWQzln?oc=5"
+        },
+        {
+          "title": "拒絕 AI 生成式垃圾文章！Google 正式推出「專家智能」，承諾優先展示經權威認證的可信專家內容",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEFlUE5LS1puS3dIdWdyd0pEWEwtVWtNNmhQeV9fMFhCUTdzeThXM0pfWjNjVk4wM3I0RUJmeWRqRFp2eWtienNCMUlIN3BYMmVURFRGbVJFTFRpZ3NFZElFaUcwa3BOdDRRMHFOeVhGQnNWdnpPajBJVXcxMW5teHM2Qmh2NGtITXFzeVpFOTUtZG5pQ0RhOGc3dm1NanF3?oc=5"
+        },
+        {
+          "title": "華爾街不買單了！微軟遭《牆街日報》重砲痛批「模糊 AI 實際獲利與成本」，讓大金主投資人如同盲人摸象",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFY0NEpTbU51QTA4YXloUkVMVWFuYjcwZy1uaEtUX0dqbkU0UVAtUkRkUEZYTGhSV3M1bDBrd3NDZG9TNjI1MFZPX2szTTNQLWJQWkdTT0txZ1RjUU9RaW5OMTVoTUItbFpZMGkxREF0SlFhNXlCc2VWOXhBQUhSWXVTMDBMeWt1dk5tUktzcUpZTE5tYTVQcmp3YTBxMzIzZ204?oc=5"
+        },
+        {
+          "title": "邁向自我演化的終極雛形！Anthropic 研究人員展示「自進化 AI」技術：全自動自我修正 safety 基準且不損效能",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+        },
+        {
+          "title": "開源大好消息！柏克萊與 MIT 聯手推出開源推理引擎「FreeToken」，讓普通家用電腦也能飛速運行 MoE 大模型",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "AI 算力泡沫的瘋狂信貸！Lambda 成功借下 10 億美元天價巨債，不為別的、只為大舉屯積 Nvidia 晶片",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+        },
+        {
+          "title": "anthropics / claude-plugins-official (★35116)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-official"
+        },
+        {
+          "title": "abhigyanpatwari / GitNexus (★46218)",
+          "source": "GitHub",
+          "url": "https://github.com/abhigyanpatwari/GitNexus"
+        },
+        {
+          "title": "bilawalsidhu / gods-eye-view (★11423)",
+          "source": "GitHub",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view"
+        },
+        {
+          "title": "串流介面成馬路殺手？哈佛研究顯示巨星新歌發片日車禍死亡率驚人暴增 15%",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rMHBmek9mQUxrVDZQeV94Wmt2YTZjaVprUFRJX3dLcTBmd1NfaW1fRmpjckpsd3lRSnJPY21CUVlYWkh3R2NoQnJYdzBZWTQyWXZuS1hCNE56bFVSLTgxNDJaYm5ueFNBMFE?oc=5"
+        },
+        {
+          "title": "培育長達 5 年之人類大腦類器官成功鏡像真實人腦在出生後的表觀遺傳衰老與發育動態",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00044-0"
+        },
+        {
+          "title": "空氣品質改善之兒童健康實證：倫敦超低排放區（ULEZ）顯著加速兒童肺功能發育增長",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00043-1"
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "title": "新聞雷達 (2026-08-28)",
