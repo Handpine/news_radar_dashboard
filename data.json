@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-31T15:25:32.400078",
+  "last_updated": "2026-09-01T07:31:13.376271",
   "daily": [
+    {
+      "date": "2026-09-01",
+      "title": "新聞雷達 (2026-09-01)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-01-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "中東全面交火！美軍悍然轟炸荷莫茲海峽小島，伊朗強勢反擊擊落美軍「死神」無人機並奇襲約旦美軍基地",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oeENYeWZPWWg0NEtZbnZqQzJWZmhrWktxVHpLNk9wQWNnR2VNdlo1RWFfeUFxUll0RUFyVFlYa3VlZkUzOXZJcU93VWhSTThVaHVnMkhHdy1SSzlJNjhN?oc=5"
+        },
+        {
+          "title": "歷史級正義清算！聯合國委員會發表突破性指引，指稱各國在「法律上有義務」針對黑奴貿易進行國家賠償",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee"
+        },
+        {
+          "title": "觀光與郵輪市場驚天拋下震撼彈！知名大廠「公主遊輪」無預警宣布全面退出台灣市場，即日起停止銷售並關閉官網",
+          "source": "udn.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WTnpFQzVRRDBlZUxySjBtOTRZSkN5ME1BN1VwXzIzanh1SDd4a204T0F5OExnb0RZV2tzQklaeDBhcU81TVVkUElyclJTNVg10gFWQVVfeXFMTnFha1NESmI2VndQbEZHVENlMDFxdFRRMkpWWE5xV0VZYzVCTGtSYkJnSkM0ZjNWdEhHbGN4UDh5eGtOeWtCOWx3dkZ5OVplWXNRUElJREE?oc=5"
+        },
+        {
+          "title": "濁水溪搜救民眾不幸翻覆！南投 50 歲資深消防員殉職，留下 3 名幼子最小僅 5 歲",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxObU5VLVc3S0tYMGFobUN0RmFiUFVSLUNPbTJmWUI4SWpzdTltYnExYldETVZfaFBwZ0syQUVQamw0cWFMcWFVbmlISEdOWk5wZ19kWHJKblhLYnRob2NpY3phMEYtaE93d0Q5VXJlb0FrRDFhSTZfem5lbW5PNUdkOEtadDdGVFlMdFVXU1M3WWtKWkRONXNKTnJFd0tmb3lVbG42YjNhUV9aNHRKUHBWMkFiMDVDRnpFMG9rVnZmSXp1NlhWclpEVmVoSW1tc0VMekhDbXBHaG1fVjZCT3BlRHRhZDlVbVJibk1wVTBONFJXNkpoVWlSZVlYdGJyZkltcC1tZVFLWmRkR1djdnN1NDFGcEdXZEFYUFBQaEYwT21KLXV1dC1KM0JDTWZZaENTX3pXd2NPT0tZVTJpQUc3b2U4dmRIdHM5UDNv?oc=5"
+        },
+        {
+          "title": "OpenAI 廣告業務年化營收狂飆衝破 10 億美元，奧特曼的「最後備胎計計畫」如今成為超級印鈔機",
+          "source": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lTmRKWjB5WTR3R0YxQkhxaGg5SFVIVnZsc1hVd09KMlhqOFBSVW4weGJkZUxhbHpDb3QzbUFSYkFoSUVJdTJDLUxWb3NZYXZWLW1EaDBaN3FtRTBwb2h2cHVXTjZHX1ZNT3FEeEZDZGlIcEVkTE1ZTHIzTQ?oc=5"
+        },
+        {
+          "title": "算力與雲端大博弈！Anthropic 與輝達加持之 Neocloud 簽署 350 億美元史詩級雲端租賃協議",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29源FE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5"
+        },
+        {
+          "title": "48小時創造奇蹟！Google 的「AI 共同科學家」超速生成長達十年的超級細菌（Superbug）全新研究洞察",
+          "source": "Futura",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmx3NFZuMHhDOEJZTzZMX0JmNTZ0MVB6OGxreW1CNmlOZ1dlSnRGZVF1TUw0M0dfOHBCdHVGeHplVUM3SlluZ2tEUnlCXzNkd1NyUmZ2bVEzN2tKYUZlaVFzU2JmYXhDc0d4Z2RPU29DZlFueEhQUW5OYTFmY2RxcGxrb1JZTjJEei1TLWpVRmZJN2YwSW84ejNCUWJfZVg1aGNoWFRyM0VZbW9PWVlvUA?oc=5"
+        },
+        {
+          "title": "廣告攔截器 uBlock Origin 時代終結！Google Chrome 商店正式強硬下架所有 Manifest V2 舊版擴充功能",
+          "source": "Hacker News",
+          "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
+        },
+        {
+          "title": "軍事 AI 國防一體化！美國五角大廈推出國防專屬版 ChatGPT 與 Grok，同台為美軍參謀提供戰術情報",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+        },
+        {
+          "title": "FTC 正式起訴零售巨頭亞馬遜，控告其秘密推行「廣告附加費計畫」非法操縱商家與平台價格",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
+        },
+        {
+          "title": "THU-MAIC / OpenMAIC (★26902)",
+          "source": "GitHub",
+          "url": "https://github.com/THU-MAIC/OpenMAIC"
+        },
+        {
+          "title": "jingyaogong / minimind (★56066)",
+          "source": "GitHub",
+          "url": "https://github.com/jingyaogong/minimind"
+        },
+        {
+          "title": "zhaoxuya520 / reverse-skill (★33082)",
+          "source": "GitHub",
+          "url": "https://github.com/zhaoxuya520/reverse-skill"
+        },
+        {
+          "title": "肥胖藥物作為醫療體系的顛覆性創新",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04594-1"
+        },
+        {
+          "title": "綜合性心臟衰竭藥物治療對患者血壓、腎功能和血鉀影響的跨試驗大數據分析",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04623-z"
+        },
+        {
+          "title": "空氣污染對類風濕性關節炎患者疾病活動度的實質性惡化影響",
+          "source": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42557168/"
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "title": "新聞雷達 (2026-08-31)",
