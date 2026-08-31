@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-08-29T14:38:28.247536",
+  "last_updated": "2026-08-31T14:58:43.808107",
   "daily": [
+    {
+      "date": "2026-08-31",
+      "title": "新聞雷達 (2026-08-31)",
+      "file_path": "News_Report/新聞雷達/2026/08/2026-08-31-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普下令將美加邊境「安大略湖」強行改名為「美國湖」，Google 地圖搶先配合切換",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/"
+        },
+        {
+          "title": "美國大峽谷國家公園驚傳致命暴洪！數十名遊客受困急撤，目前仍有 20 多人疑似失聯",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85WWpFOXZEZnVnWVcwX2oxb0s2MlBYWTQycGxNQTVGT1JBblhqcDh0Z1M3Q1E3TkptTVYtOUZmY212N1AwUVJkWFJCcmZpTnJhVWdkeEVCZEVEbjFtMldv?oc=5"
+        },
+        {
+          "title": "南投竹山驚傳重大私刑命案！一名 23 歲年輕男子遭毆丟包不治身亡，死者身份曝光竟是南投縣議長外甥",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fYURRdmNFd0dmbzAwYzZBLUdhTUktVjg3dlhOZ0xwYjFSVnkyMG9OVk9pVnY4X3JkMm85bnRiZjh3QzBud1E1WUVlckdhNnVZ0gFWQVVfeXFMUGd5amctZFd4WEJIZ0xCcFJjUmhxS0dKaVJaV3BqSGhIZWpqR1B3aUJYZjc1TGpRQ2s4QUwtaC1zRmhfaFVGZEl3Mmpndkp0RVR6R1FXV3c?oc=5"
+        },
+        {
+          "title": "台灣青年赴上海遭審問 6 小時！手機通訊軟體被地毯式搜索，陸委會呼籲國人慎重評估赴陸風險",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGVTRMblo4YjE4UFpSYl9wVWYtVGgzazlWcGhNeEVqWWJnQ050OXNMWncybVJnel9Hd2dua09pYl8wNzNMcDlsOHUybTVKRkdOMjJPb1JzcHc5emg3amc?oc=5"
+        },
+        {
+          "title": "索尼、華納等音樂出版巨頭聯手向 Anthropic 提起重磅訴訟，指控其 Claude 大模型非法抓取版權歌詞進行訓練",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5"
+        },
+        {
+          "title": "軟銀數據中心開出 5.5 億美元超級福利，砸下重金全力爭奪 OpenAI 落戶其合資企業",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5"
+        },
+        {
+          "title": "Google 官方升級 NotebookLM，破天荒允許用戶與整本實體圖書展開深度語意互動",
+          "source": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTVxR3UyU1pIbC1GXy1rRzdnRk04UGt4d18wYl9VVW5MUUdaZDRIQjFraTNzMEJEd0o2cjdBdUJUY0ZGbEJXTWRjb0Q5VE8zZG5EMER5dFR2N29uelU0SUE1NG9fVkJ1anNSSC1kR0pzMDVmdEM1S1RtVkFBcmlLR1lrNnBsd2M?oc=5"
+        },
+        {
+          "title": "P99 僅需 0 毫秒！荷蘭數據架構師揭秘如何為 2.4 億個域名打造極速自動補全系統",
+          "source": "Hacker News",
+          "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
+        },
+        {
+          "title": "喧囂中的清流！次世代智慧穿戴新趋势：主打「零打擾、零通知」的無感健康數據追蹤",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/"
+        },
+        {
+          "title": "算力自主最後拼圖！Meta 正式公開自研 MTIA 300 晶片：專為萬億級推薦系統設計的自研加速器",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "punkpeye / awesome-mcp-servers (★93476)",
+          "source": "GitHub",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers"
+        },
+        {
+          "title": "p-e-w / heretic (★29317)",
+          "source": "GitHub",
+          "url": "https://github.com/p-e-w/heretic"
+        },
+        {
+          "title": "unclecode / crawl4ai (★80411)",
+          "source": "GitHub",
+          "url": "https://github.com/unclecode/crawl4ai"
+        },
+        {
+          "title": "夫妻失智會「同步」　95 萬人研究：患者另一半發病風險顯著暴增 7 成",
+          "source": "JAMA (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qci1YMkllUGlxbGQ0dnhiZ05vQmRXOHpvRDF6TVZLcVktaldraVo3Zy11LTZLcl8xbkxkeGhwelV5ZTh3bUU1OExFWTRmbVZz0gFPQVVfeXFMUGt1Mm93eFZYNG5uWjBHVmg4QWZJNzcxTFIxcGpZRFVLeUh0WGxGU3pMYVdoS2Y1NVlJSHUwSjNUNEVGcVU0ODJENEt5VVlPSQ?oc=5"
+        },
+        {
+          "title": "轉甲狀腺素蛋白澱粉樣變性心肌病療法新曙光：反義寡核苷酸藥物 Eplontersen 臨床三期分析證實顯著清除 80% 以上毒性蛋白",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04670-6"
+        },
+        {
+          "title": "阿斯匹靈可安全退出歷史舞台！ MIST 試驗證實「新型口服抗凝藥聯合強效 P2Y12 抑製劑」雙重抗栓顯著減低心房顫動與急性冠心症術後出血",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04629-7"
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "title": "新聞雷達 (2026-08-29)",
