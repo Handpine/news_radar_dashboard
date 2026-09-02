@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-09-01T07:31:13.376271",
+  "last_updated": "2026-09-02T11:30:13.784452",
   "daily": [
+    {
+      "date": "2026-09-02",
+      "title": "新聞雷達 (2026-09-02)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-02-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "蘇丹內戰難民逃往避難城市，生存環境面臨極度惡化悲劇",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid"
+        },
+        {
+          "title": "西班牙首相為摩洛哥澄清休達邊境事件，控訴俄羅斯與以色列散播假訊息",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez"
+        },
+        {
+          "title": "沙德爾颱風詭譎復活！氣象署發布強降雨警報，南部「1 地區」緊急宣布放豪雨假",
+          "source": "Storm.mg",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LNU4yZDQ1cjRjRVZWT0w4RlM4dWFDUjhsR3l6QVRoTEl6UkRVME1VUkFRbmtiLWdJM3hxZVMzNndoTTBlWm56Y0xjZWRESWRa?oc=5"
+        },
+        {
+          "title": "南投勇消為救人不幸殉職！2 名受困沙洲 3 天泛舟客終出動直升機吊掛成功救出",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWVkVFU3F3YjF3d09SbWc5NWFpNzZ0blJTLWVKeUNNQmhYYzVpTmhYYTJMYmxYQnYzS1N3eTBhSG92bFV5ajNHSjBaaVZsSTlq?oc=5"
+        },
+        {
+          "title": "OpenAI 警告即將推出之 Astra AI 模型首度跨越「關鍵級」網安入侵威脅能力，緊急部署超強 guardrails",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5"
+        },
+        {
+          "title": "屈服於用戶隱私壓力！Anthropic 宣布更改數據保留政策，不再預設將商業客戶對話存檔",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkcVVPMGQtbVV6Mm9JNGxwN0RVR2VLMEZOcC1pN0tPZEdpekYzR1B0ZWpvWEpPUC1LY1pYamxsclZwTko0TTFpenBNQVZoWmJ6MnhLclVpYmxVY05HQm9ya0hQcWlRN0YyVWxNakFB0gFzQVVfeXFMT1VZRkJMTFhpYUZQVGVVdHdHTlRrbzVMQ09ETmpVUFh0MGY0bzBKdlBWU19Ral9wdFZkalowamlqenVuaHcwREpSQ2NDWWVjbS1jT2tJdzlLUmpYSFlCMkJWMkhjdGZsR0REMzdCOUxQdkh0QQ?oc=5"
+        },
+        {
+          "title": "微軟高管自己也受夠了！自爆被員工用 AI 產生的「無意義垃圾工作」與冗長文案給煩死",
+          "source": "pcmag.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjVDVFVDUnJEVUViSFVkR1hKYjZKYU05OEVKU1ZseUhoUW13VVZHeFJ6cThMZUN5enhwRzZkNHVoMTh5ZzhQOUVyZFNyZDRaQUZzZGFsNGtZMWZlOW9QcGpYZ3d6aEVPbkM?oc=5"
+        },
+        {
+          "title": "YC 歷史最快獨角獸誕生！AI 模型訓練新創 AfterQuery 僅五個月估值暴衝至 32 億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+        },
+        {
+          "title": "蘋果地圖也跪了！緊隨 Google 腳步配合川普行政命令、將「安大略湖」改名為「美國湖」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/"
+        },
+        {
+          "title": "開源個人 AI 代理大躍進！OpenClaw 2.0 推出極簡安裝與多 Agent 協同新架構",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/openclaw-2-release/"
+        },
+        {
+          "title": "Imbad0202 / academic-research-skills",
+          "source": "GitHub",
+          "url": "https://github.com/Imbad0202/academic-research-skills"
+        },
+        {
+          "title": "browser-use / video-use",
+          "source": "GitHub",
+          "url": "https://github.com/browser-use/video-use"
+        },
+        {
+          "title": "firecrawl / pdf-inspector",
+          "source": "GitHub",
+          "url": "https://github.com/firecrawl/pdf-inspector"
+        },
+        {
+          "title": "非阻塞性肥厚型心肌病患者的新曙光！NEJM 刊登 Aficamten 新藥臨床試驗顯著改善患者心肺運動功能與臨床症狀",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603021?af=R&rss=currentIssue"
+        },
+        {
+          "title": "第一孕期精準預測子癇前症！《自然醫學》揭示血清蛋白 Isthmin-2 作為胎兒發育遲緩與子癇前症的早期核心指標",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04573-6"
+        },
+        {
+          "title": "抗真菌治療改善炎症性腸病微生態！《自然醫學》證實口服氟康唑能顯著調整腸道菌群動力學並緩解鵝口瘡併發症",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04616-y"
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "title": "新聞雷達 (2026-09-01)",
