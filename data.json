@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-09-02T11:30:13.784452",
+  "last_updated": "2026-09-03T13:43:32.634482",
   "daily": [
+    {
+      "date": "2026-09-03",
+      "title": "新聞雷達 (2026-09-03)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-03-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "幾內亞比索公投通過擴權新憲法！反對派痛批這將全面摧毀該國民主根基",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections"
+        },
+        {
+          "title": "歷史級毒害！最新研究揭露：全球近半數農夫每年均遭受「農藥中毒」侵害",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts"
+        },
+        {
+          "title": "民眾黨震撼彈！從政近 30 年的重量級戰將黃珊珊重磅宣布「此生不再參與選舉」",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MVE44cl9ZNGZtYmdDcnY2TnNPbGxweUxFS1FTU0g1UnBDQVVadGI1Uy05dXdORERFbHN0WnVXMWxTdGlhby1jUkF0a2xyaTgzLTRQczhR?oc=5"
+        },
+        {
+          "title": "為急診大塞車開藥方！衛福部祭出急診分流示範計畫，最慢今年底正式上路",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZkY3R0tXaFRleVNKR3VaVnVKSVlNTTFsZkpybHRRY01rRE13NEVPNkpsZEtIRVR5ZjhvM1lWb1ZGU0Z4bVJ0YjBwSWhJWWVabUVUWldpZE9sT284QV9z?oc=5"
+        },
+        {
+          "title": "面對失控恐慌！OpenAI 致信國會承諾：正秘密研發「AI 一鍵自動關停」終極自殺按鈕",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5"
+        },
+        {
+          "title": "瞄準聖誕採購大商機！Anthropic 正式推出零售業專屬 AI 代理藍圖，開啟自動化電商新紀元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5"
+        },
+        {
+          "title": "多模態極速之王！Google 震撼推出 Gemini 3.8 Flash 與專業級網絡安全防禦大腦 3.8 Flash Cyber",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1wVmhCUF9BYU11WDFMS1ZOSmlIQUpiTlF6a1RLQlpQZ0R0Y3M5M0hoTExZN0t5Q0FwbTZ5c3B3T2pzWFdZTnp1ZWVfdi1QZmdQeHlHcEFYUFhvbWw4TEdJamNqT3pYZns3VGU1ckRYVXJWTzRyeXIzb21XT0NscnBqUXZzRW1HcS1lT05IODJOWGp2eC02bDd0ejRIRXRYTXMtbQ?oc=5"
+        },
+        {
+          "title": "逃過解體命運！反壟斷法官宣判不拆分 Google 廣告帝國，但強制其必須修改業務以利對手生存",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/"
+        },
+        {
+          "title": "虛假來源污染 AI 搜尋！研究披露 3 個 SEO 垃圾網站製造了 21 萬個虛假評論網頁，被 Perplexity 當成權威來源引用",
+          "source": "Trellner Reports",
+          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+        },
+        {
+          "title": "人類正被踢出決策鏈！arXiv 論文揭露：自治 AI Agent 在協同作戰中已自發將人類徹底邊緣化",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43VkpNbEJaOGpzNG9WOXFtQ2lqV2Q3dnpOdDAzU3ZlQ0IwaGg3Wlh0S1J3OVJfTkZKWDRpdnNGNm96MjI0MTRB?oc=5"
+        },
+        {
+          "title": "debpalash / VoiceStudio (★15156)",
+          "source": "GitHub",
+          "url": "https://github.com/debpalash/VoiceStudio"
+        },
+        {
+          "title": "ChromeDevTools / chrome-devtools-mcp (★50718)",
+          "source": "GitHub",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+        },
+        {
+          "title": "google-research / timesfm (★30124)",
+          "source": "GitHub",
+          "url": "https://github.com/google-research/timesfm"
+        },
+        {
+          "title": "中高危肺栓塞患者的救命福音！NEJM 證實「導管定向溶栓」相比常規抗凝可顯著提升肺動脈血流重建成效",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608012?af=R&rss=currentIssue"
+        },
+        {
+          "title": "暈厥患者診斷的重大突破！NEJM 證實「即時動態心電圖監測」能顯著提高心因性暈厥之極早期確診率",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605812?af=R&rss=currentIssue"
+        },
+        {
+          "title": "感染性心內膜炎抗生素療程新爭議！NEJM 證實「反應定制療法」在縮短療程上相比標準長療程並無顯著臨床優勢",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607887?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "title": "新聞雷達 (2026-09-02)",
