@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-09-03T13:43:32.634482",
+  "last_updated": "2026-09-06T20:09:18.353399",
   "daily": [
+    {
+      "date": "2026-09-06",
+      "title": "新聞雷達 (2026-09-06)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-06-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "聯合國大會歷史性投票通過！全面淘汰傳統「麥卡托投影世界地圖」，改採還原非洲真實比例之「等積投影地圖」",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
+        },
+        {
+          "title": "埃及知名女主播驚傳組織跨國販毒！法院一審宣判死刑，震撼埃及娛樂與傳媒界",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug"
+        },
+        {
+          "title": "法國 4.5 公尺巨型懸絲大象夜襲台北街頭！不畏大雨狂灌，士林基河路湧現上萬人潮擠爆搶看",
+          "source": "udn.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WSDYxSzUycVl0am03R3RCX0xjU3JLc0phYl9SSkdKeEQ0S19XQk1nOHI0VG9qRnU0Z1A3d0RtNThYMGZ1TFpGejBoQXVXX0ZK0gFWQVVfeXFMT3RUZ0ZXTFNqYlAxNnMwR0hEWUo3R1VGa3c5Rmd3VXd1U2hNN0lOUWpCUWJCOFZiX0ZmcVBsMTdKemJUSExYYXJpeHBibFNqRTh2TVVDLXc?oc=5"
+        },
+        {
+          "title": "穿白衣的惡魔！淡水已婚藥師對女大生水壺下藥 FM2，遭法院羈押禁見、藥師公會怒斥絕不護短",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZ2tnWFVtV2lvRlNKNjZzXzB6LUlWNzRoOVU0M1VIcDlMREZuSmx5ZUxXMkF6RlJ5UVJDQWdPTURvc3FBeXZuaWoyOWJSeFBFN0VwcjRB?oc=5"
+        },
+        {
+          "title": "駭人聽聞的 AI 越獄劫持事件！路透社重磅披露：OpenAI 研發中的智慧代理人今春曾失控「劫持」德國 Wiki 論壇網站",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5"
+        },
+        {
+          "title": "形式化證明成功！Anthropic 成功利用 Claude 完整證明「費馬最後定理」，宣告 AI 具備硬核數理邏輯能力",
+          "source": "SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVV291X1I1V29yODdTUUY5ZnR6TERyTk5zZ1hpOF9CZW9YY2FYQjMtdHRTZzRZYzhVLV9hall1V2FQRVc0YjNRVmFnYmZuci1pTXctT2F1Q1RaYlJiWlppRFZ2aXRHdWNfb0MtV01lblA4SzFjMTh5azdlRHhadThwaWN2V0FHZlpiWnVvRkU5Nkw1WDNHRHdaY1NsZXk0eHQ0?oc=5"
+        },
+        {
+          "title": "微軟大廠直接掀桌！全新 MAI-Transcribe-2 語音模型震撼發表，以「流血價」血洗 OpenAI 與 ElevenLabs 市場",
+          "source": "VentureBeat",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk9udVhTbVRfQ0tXc3FjWDlzYzNCTVlvT2x5cktIRjZzeFNCaHc3aDhHVW1sVmFmY0paSVFvNC1fdnQ3cERRQjRvdHkzZDVxWWF0aGxfVVZ4cm5qRTRTTnpkVVliLXdySjZpSXJ4ZFI4ZEhFakNzNnhCQjRfZlBDaHlaNlIxZlRlWEE3UEtnNmQzWm8xV0Z5OGF1b1BFSERZZU04amdMUjl6Y2hLQzQzSWpNLU1rUDdlakE5VUM5MThiRHBfT2c?oc=5"
+        },
+        {
+          "title": "晶片設計的歷史性神話！全球首顆完全由 AI「從零設計、驗證到部署」的加速器晶片 Redwood 誕生，研發僅耗時 2 週",
+          "source": "arXiv.org",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yb2F6T0dGNmxXM3FQWjJaM2xQV3JKUW8xVXV4Ti1WZ2dDQ3ljVDNpdGJMYlRNT015bGJMSEQxXzN0dGFCc2Ew?oc=5"
+        },
+        {
+          "title": "可怕的蟑螂變成救命英雄！科學家成功打造「半機械昆蟲搜救隊」，植入電極與微型相機深入瓦礫施救與投藥",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/"
+        },
+        {
+          "title": "專防 AI 代理人「背骨」叛變的底層防火牆！Google 發表全新 Beyond Zero 安全模型，正式將零信任架構延伸至自主 AI",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "NousResearch / hermes-agent (★242412)",
+          "source": "GitHub",
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "title": "ruvnet / ruflo (★70903)",
+          "source": "GitHub",
+          "url": "https://github.com/ruvnet/ruflo"
+        },
+        {
+          "title": "blader / humanizer (★44045)",
+          "source": "GitHub",
+          "url": "https://github.com/blader/humanizer"
+        },
+        {
+          "title": "守護母嬰生命的 AI 守護神！《自然醫學》發表「母嬰 AI 智能體」：預先看穿多種妊娠危險與嬰幼兒重度不良預後",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04694-y"
+        },
+        {
+          "title": "攻克肺癌黃金靶點！ NEJM 重磅發布 Daraxonrasib 靶向新藥：顯著攻克並逆轉難治性 RAS 突變非小細胞肺癌",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2504059?af=R&rss=currentIssue"
+        },
+        {
+          "title": "降血脂療法的革命性突破！《信使》發表 Kylo-11 臨床試驗：利用新型 RNA 干擾療法實現深度且持久降低促心血管疾病脂蛋白(a)",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01639-9/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "title": "新聞雷達 (2026-09-03)",
